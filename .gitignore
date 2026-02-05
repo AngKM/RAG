@@ -1,11 +1,14 @@
 #Ignore env file
 .env
 
-#Ignore pdf file
-startup_guide.pdf
 
 #Ignore venv file
 .venv
 
 #Ignore pycache file
 __pycache__
+
+#Ignore chroma db
+chroma_db
+
+

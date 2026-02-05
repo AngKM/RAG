@@ -6,13 +6,13 @@ class Agent:
         load_dotenv(override=True)
         self.client = OpenAI()
     
-    def get_all_response(self, query):
+    def get_all_response(self, query, system_prompt):
         return self.client.chat.completions.create(
             model="gpt-4o",
             messages=[
-                {"role": "system", "content": "You are a helpful assistant"},
+                {"role": "system", "content": system_prompt},
                 {"role": "user", "content": query},
             ],
         )
-    def get_response(self, query):
-        return self.get_all_response(query).choices[0].message.content
+    def get_response(self, query, system_prompt):
+        return self.get_all_response(query, system_prompt).choices[0].message.content
