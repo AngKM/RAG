@@ -6,7 +6,7 @@ class Agent:
         load_dotenv(override=True)
         self.client = OpenAI()
     
-    def run(self, query):
+    def get_all_response(self, query):
         return self.client.chat.completions.create(
             model="gpt-4o",
             messages=[
@@ -14,3 +14,5 @@ class Agent:
                 {"role": "user", "content": query},
             ],
         )
+    def get_response(self, query):
+        return self.get_all_response(query).choices[0].message.content
