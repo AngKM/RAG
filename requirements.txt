@@ -1,6 +1,9 @@
 chromadb
 openai
 python-dotenv
+langchain
+langchain_open
 langchain_community
 langchain_text_splitters
 pypdf
+asyncio
