@@ -1,11 +1,12 @@
 import sys
-from code.pipeline import run as run_agent
+from code.pipeline import Pipeline
 
 def main():
     print("Starting RAG agent...")
     print("Press Ctrl+C to stop.")
     try:
-        run_agent()
+        pipeline = Pipeline()
+        pipeline.run()
     except KeyboardInterrupt:
         print("\nShutting down gracefully...")
         sys.exit(0)
