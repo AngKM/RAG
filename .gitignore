@@ -11,4 +11,8 @@ __pycache__
 #Ignore chroma db
 chroma_db
 
+*.bin
+*.sqlite3
+*.pickle
+
 
