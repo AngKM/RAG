@@ -1,4 +1,4 @@
-DATA_NAME = "startup_guide"
+DATA_NAME = "electronic_product"
 
 # [OpenAI, Anthropic]
 MODEL_COMPANY = "OpenAI"

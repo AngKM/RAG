@@ -15,8 +15,8 @@ class ChromaInsert:
         print("Count Before: ", count_before)
         #Split the data into chunks
         text_splitter = RecursiveCharacterTextSplitter(
-            chunk_size=300,
-            chunk_overlap=100,
+            chunk_size=411,
+            chunk_overlap=50,
             length_function=len,
             is_separator_regex=False,
         )
@@ -39,7 +39,5 @@ class ChromaInsert:
         print("Count After: ", count_after)
         print("Total Data Added: ", count_after - count_before)
         print("Data added successfully") if count_after > count_before else print("Data not added")
-if __name__ == "__main__":
-    chroma = ChromaInsert()
-    chroma.add_data("files/startup_guide/startup_guide.txt")
+
     
