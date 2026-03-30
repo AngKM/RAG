@@ -14,6 +14,9 @@ class OpenAI_Agent:
                 {"role": "system", "content": system_prompt},
                 {"role": "user", "content": query},
             ],
+            temperature=0.0,
+            max_tokens=1024,
+            top_p=0.9,
         )
     def get_response(self, query, system_prompt):
         return self.get_all_response(query, system_prompt).choices[0].message.content

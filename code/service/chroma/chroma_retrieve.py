@@ -9,5 +9,5 @@ class ChromaRetrieve:
     def retrieve(self, query):
         return self.collection.query(
             query_texts=[query],
-            n_results=10
+            n_results=100
         )

@@ -1,0 +1,7406 @@
+BACHELOR OF ENGINEERING PROGRAM
+IN ROBOTICS and AI ENGINEERING
+(INTERNATIONAL PROGRAM)
+(Revised 2020)
+
+สภาวิชาการ เห็นชอบ ครั้งที่ 6/2563 เมื่อวันที่ 23 มิถุนายน 2563
+สภาสถาบันฯ อนุมัติ ครั้งที่ 7/2563 เมื่อวันที่ 21 กรกฎาคม 2563
+ผานการพิจารณาความสอดคลอง จาก สป.อว. เมื่อวันที่ 6 กรกฎาคม 2566
+
+Faculty of Engineering
+King Mongkut’s Institute of Technology Ladkrabang
+
+1
+
+Table of Contents
+PART 1: GENERAL INFORMATION .................................................................................................................................... 4
+1. Name of the Program .................................................................................................................................................. 4
+2. Degree and Major ......................................................................................................................................................... 4
+3. Major Field ..................................................................................................................................................................... 4
+4. Total Credits .................................................................................................................................................................. 4
+5. Type of the Program ................................................................................................................................................... 4
+6. Status of the Program and Consideration for the Authorization/Agreement................................................. 5
+7. Readiness for Publicization as Qualified and Standardized Program ............................................................... 5
+8. Possible Career Path after Graduation .................................................................................................................... 5
+9. Name, Surname, ID Number, Position, and Qualification of Instructors Responsible for the Program
+(Executive Program Committee) .................................................................................................................................... 6
+10. Location of Study ...................................................................................................................................................... 9
+11. External Situation or Development Needed to be Considered for the Planning of the Program .......... 9
+12. Effects from 11.1 and 11.2 on the Development of the Program and the Relation to the Mission of
+the Institute........................................................................................................................................................................ 9
+13. Relation (if any) with Other Programs Open in the Faculty/Other Departments of the Institute (i.e.
+Subjects Open for the Service of Other Faculties/Departments or to Be Studied with Other
+Faculties/Departments) .................................................................................................................................................10
+PART 2: SPECIFIC INFORMATION OF THE PROGRAM ..............................................................................................11
+1. Philosophy, Importance, and Objectives of the Program .................................................................................11
+2. Development Plan .....................................................................................................................................................14
+3. Student Outcomes.....................................................................................................................................................16
+PART 3: SYSTEM FOR EDUCATIONAL PROVISION, MANAGEMENT, AND STRUCTURE OF THE
+PROGRAM .............................................................................................................................................................................18
+1. System for Educational Provision ...........................................................................................................................18
+2. Management of the Program...................................................................................................................................18
+3. Curriculum and Instructors.......................................................................................................................................22
+
+2
+
+4. Component Regarding Field Experience (Internship or Co-Operative Education).......................................43
+5. Regulations for Special Project or Co-Operative Education .............................................................................43
+6. Additional Costs..........................................................................................................................................................44
+PART 4: LEARNING OUTCOME, TEACHING STRATEGY, AND EVALUATION.......................................................45
+1. Development of Special Characteristics of Students ........................................................................................45
+2. Development of Learning Results in Each Aspect .............................................................................................46
+3. Curriculum Mapping Illustrating the Distribution of Program Standard Learning Outcomes to Course
+Level Specialized Course ..............................................................................................................................................49
+PART5: CRITERIA FOR STUDENT EVALUATION..........................................................................................................59
+1. Regulations or Criteria for Grading ..........................................................................................................................59
+2. Verification of Learning Achievement ....................................................................................................................59
+3. Criteria for Graduation According to the Program ..............................................................................................59
+PART 6: DEVELOPMENT OF INSTRUCTORS ................................................................................................................60
+1. Preparation for New Instructors ..............................................................................................................................60
+2. Development of Knowledge and Skills for Instructors......................................................................................60
+PART 7: QUALITY ASSURANCE OF THE PROGRAM ..................................................................................................61
+1. Standardization ...........................................................................................................................................................61
+2. Graduate .......................................................................................................................................................................61
+3. Student .........................................................................................................................................................................61
+4. Instructor ......................................................................................................................................................................62
+5. Curriculum, Teaching, and Assessment of Learners...........................................................................................62
+6. Educational Resources ..............................................................................................................................................62
+7. Key Performance Indicators .....................................................................................................................................63
+
+PART 8: EVALUATION AND IMPROVEMENT OF THE OPERATION OF THE PROGRAM ...................................65
+1. Assessment of the Effectiveness of the Teaching ..............................................................................................65
+2. Evaluation of the Program as a Whole Picture ...................................................................................................65
+
+3
+
+3. Evaluation of the Operation According to the Details of the Program .........................................................65
+4. Revision of the Evaluation and Improvement Plan ...........................................................................................65
+Appendix
+A. The Regulation of King Mongkut’ s Institute of Technology Ladkrabang Regarding Bachelor Degree
+Education Year 2016……………………………………………………………………………………………………………………………. 67
+B. The Announcement King Mongkut’s Institute of Technology Ladkrabang Regarding the Cross
+Institute Registration of Higher Education………………………………………………………………………………………….. 87
+C. Course Description………………………………………………………………………………………………………………...……………. 92
+D. Curriculum Mapping for General Education Course…………………………………………………………….…………. 117
+E. Facilities Supported Teaching and Learning…………………………………………………………………………..….……. 121
+F. Reason for Requesting to Revise Curriculum……………………………………..……………………........……..….……. 129
+G. List of Program Development Committees……………………………………………………………………………………… 137
+H. The Academic Publication of Instructors Responsible for The Program……………………………………….. 139
+
+4
+
+BACHELOR OF ENGINEERING PROGRAM
+IN ROBOTICS and ARTIFICIAL INTELLIGENCE ENGINEERING
+(INTERNATIONAL PROGRAM)
+(Revised 2020)
+Name of Educational Institute: King Mongkut’s Institute of Technology Ladkrabang
+Faculty/Department:
+Faculty of Engineering, School of International &
+Multidisciplinary Engineering Programs
+
+PART 1: GENERAL INFORMATION
+1. Name of the Program
+Name of the program (Thai):
+Name of the program (English):
+2. Degree and Major
+Full name (Thai):
+Full name (English):
+Abbreviation (Thai):
+Abbreviation (English):
+
+หลักสู ต รวิศ วกรรมศาสตรบัณฑิ ต สาขาวิชาวิศ วกรรมหุ่นยนต์และ
+ปัญญาประดิษฐ์ (หลักสูตรนานาชาติ)
+Bachelor of Engineering in Robotics and Artificial Intelligence
+Engineering (International Program)
+วิศวกรรมศาสตรบัณฑิต (วิศวกรรมหุ่นยนต์และปัญญาประดิษฐ์)
+Bachelor of Engineering (Robotics and AI Engineering)
+วศ.บ. (วิศวกรรมหุ่นยนต์และปัญญาประดิษฐ์)
+B.Eng. (Robotics and AI Engineering)
+
+3. Major Field
+None
+4. Total Credits
+At least 131 credits
+5. Type of the Program
+5.1 Level
+4-Year Bachelor Program
+5.2 Program Category
+ Academic bachelor’s degree program
+ Academic bachelor’s degree program
+ Advanced academic bachelor’s degree program
+
+5
+
+5.3 Medium of Instruction
+English
+5.4 Admission
+Thai and/or Foreign students
+5.5 Collaboration with Other Institutes
+The program is in collaboration with many universities according to the memorandum of
+understanding (MOU) such as College of Engineering, Carnegie Mellon University, the University of South
+Florida, Imperial College, Chubu University, Kumamoto University, BK Birla Institute of Engineering and
+Technology, National Formosa University and South Eastern Regional College, etc.
+5.6 Degree Given to the Graduates
+Bachelor of Engineering from King Mongkut’s Institute of Technology Ladkrabang
+6. Status of the Program and Consideration for the Authorization/Agreement
+- The program has been endorsed by the Academic Committee of KMITL in its meeting on 23 June
+2020, 6/2020
+- This program has been approved by the University Council in the 7/2020 meeting no 21st August
+2020
+- This program has started on 1st semester of academic year 2018 (August, 20118)
+7. Readiness for Publication as Qualified and Standardized Program
+This program is ready for announcement as qualified and standard program according to the qualification
+standard of higher education in engineering in 2010 in 2022, as well as the ABET Accreditation in 2022
+8. Possible Career Path after Graduation
+- Roboticist or Robotic Engineer
+- Startup Entrepreneur in High Tech
+- Software Engineer for Mechatronics and Machines
+- System Engineer
+- Machine Vision Engineer
+- Robotic Security Analyst
+- Expert Systems Analyst
+- Machine Designer
+- Software Architect for AI
+- Technology Manager for Robotics and AI
+- Solution Engineer
+
+6
+
+9. Name, Surname, ID Number, Position, and Qualification of Instructors Responsible for the Program (Executive Program Committee)
+Name-Surname
+(Academic Position)
+ID Number
+
+Qualification (Department), University,
+Year of Graduation
+
+Academic Achievements
+
+Dr. Poom Konghuayrob
+
+D.Eng. (Electrical Engineering), King Mongkut's Institute of
+Technology Ladkrabang, 2017
+M.Eng. (Electrical Engineering), King Mongkut's Institute of
+Technology Ladkrabang, 2013
+B.Eng. (Electrical Engineering) (Hons), King Mongkut's Institute of
+Technology Ladkrabang, 2012
+
+1. Research (Appendix H)
+- Industrial Robot
+- Automation System
+- Manufacturing Process
+2. Teaching obligations
+15 hours/weekly
+
+Dr. Kanoknuch Songsuwankit
+
+D.Eng. (Electrical Engineering), King Mongkut's Institute of
+Technology Ladkrabang, 2018
+M.Eng. (Control Engineering), King Mongkut's Institute of
+Technology Ladkrabang, 2013
+B.Eng. (Control Engineering), King Mongkut's Institute of
+Technology Ladkrabang, 2009
+
+1. Research (Appendix H)
+- Analog Circuit
+- Instrumentation and
+Measurement
+2. Teaching obligations
+15 hours/weekly
+
+Dr. Anakkapon Saenthon
+
+D.Eng. (Electrical Engineering), King Mongkut's Institute of
+Technology Ladkrabang, Thailand, 2011
+M.Eng. (Electrical Engineering), Naresuan University, 2007
+B.Eng. (Computer Engineering), Naresuan University, 2005
+
+7
+
+Dr.Weon Keun Song
+
+Ph.D. (Mechanical Engineering), MSTU, Moscow, Russia, 1998
+
+1. Research (Appendix H)
+- Non-linear System
+M.S. (Mechanical Engineering), MSTU, Moscow, Russia, 1994
+- AI
+B.S. (Civil Engineering), Yonsei University, Seoul, South Korea, 1991
+2. Teaching obligations
+15 hours/weekly
+
+Dr. Jutarut Chaoraingern
+
+D. Eng. (Electrical Engineering), KMITL, Thailand, 2021
+M. Eng. (Instrumentation Engineering) KMITL, Thailand, 2006
+B. Eng. (Instrumentation Engineering) KMITL, Thailand, 2000
+
+9
+
+10. Location of Study
+King Mongkut’s Institute of Technology Ladkrabang
+11. External Situation or Development Needed to be Considered for the Planning of the Program
+11.1 Economic Situation/Development
+The planning of bachelor’s degree program in Robotics and AI Engineering has been operated
+according to National Economic and Social Development Plan ( 2017- 2021) which emphasizes on the
+development of science technology, research, and innovation in order to reinforce the sustainable
+growth of the industrial part. The program also serves Thailand 4. 0 policy which emphasizes on
+integrating emerging technology with current economy to enhance Thailand development and
+industrially transform Thai economy, which will improve economic efficiency and generate new
+innovation. Therefore, it is necessary to increase the capacity of digitally-literate, innovative computer
+engineering workforce who understands the technological foundation as well as the surrounding
+economic ecosystem. Our new economy will require a highly- skilled engineer who can adapt and
+transform innovative engineering into a working solution that can be applied and enhance economic
+productivity in order to be competitive and keep our economy sustainable.
+11.2 Social and Culture Situation/Development
+At present, the social structure of Thailand has undergone a change toward the society of the
+elderly. Economic groups have been formed, and the development of Thai local wisdom has created
+products of more value in order to compete with other countries. Moreover, the opening of ASEAN’ s
+free trade area has influenced the migration of labor and entrepreneurs to countries that offer a better
+reward. This, consequently, facilitates the flow of tradition and culture. The production of scholars in
+computer innovation engineer is, therefore, to create a workforce with the academic knowledge and
+applicable innovation as well as good moral and ethics so that they are ready to face the challenge
+happening in both regional and national parts. By being able to analyze the social and cultural situation
+to create new innovation which improves the way of living of people in the society.This, in turn, causes
+the strategic drive for self- development of citizens as well as the Thai society toward the society of
+wisdom and life-long learning.
+12. Effects from 11. 1 and 11. 2 on the Development of the Program and the Relation to the Mission
+of the Institute
+12.1 Development of the Program
+The effects of external factors on the development of the Robotics and AI Engineering program,
+Bachelor of Engineering, call for the revision of the program so that it can support the needs according
+to “enhancing and improving human capital” as well as “developing science, technology, research and
+innovation” strategy of the 12th national economic and social development plan (2017-2021) under
+the principles of “ sustainable economy” in the aspect of developing human resource with quality,
+
+10
+
+ethics and wisdom to foster the economy of quality, sustainability, righteousness and diversity as well
+as create strong foundation for innovation.
+12.2 Relation to the Mission of the Institute
+The development of the Robotics and AI Engineering program is related to the strategic
+advancement of scholar production to create next- generation scholars with capabilities and flexibility
+to adapt to the change in the economy, society, and culture. It also directly reflects the mission of the
+Institute to be the “ Master of Innovation and the Corner Stone of Fundamental,” in the aspects of
+education, research, academic service and preservation of art and culture. The program also serves the
+mission of Faculty of Engineering in producing scholars with academic excellence according to the
+needs of the country and society, developing research to build up the body of knowledge for the
+development of the country, developing national and international collaboration of academic network,
+building up scientific and technological body of knowledge and giving academic service to the society,
+supporting the preservation of art and culture, along with developing curricula according to the standard
+of the educational quality assurance of King Mongkut’ s Institute of Technology Ladkrabang to exploit
+knowledge for the sustainable development of the country and society.
+13. Relation (if any) with Other Programs Open in the Faculty/Other Departments of the Institute (i.e.
+Subjects Open for the Service of Other Faculties/ Departments or to Be Studied with Other
+Faculties/Departments)
+13.1 Subjects/Subject Groups in the Program Open by Other Faculties/Departments/ Programs
+- General Education subjects
+- Free electives
+13.2 Subjects/ Subject Groups in the Program Open and Required to be Studied by Other
+Faculties/Departments/Programs
+- Free electives
+13.3 Management
+The executive program committee is primarily responsible for the program are the representatives
+to coordinate with the faculty, institution, instructors and other programs in order to assign the teaching
+strategies and contents along with the assessment of the program according to the key performance
+indicator to achieve the objectives of the program and to successfully produce innovative graduates.
+The program committee will consult with members of the program’s industrial advisory board. The
+board will be able to provide general guidelines, industrialtrends, and demands which will help to keep
+the content of the program relevant to the current state of the art in the industry 4.0.
+
+11
+
+PART 2: SPECIFIC INFORMATION OF THE PROGRAM
+1. Philosophy, Importance, and Objectives of the Program
+1.1 Philosophy
+Our economy needs highly skilled engineers to support the growing worldwide digital economy.
+Modern engineering programs must recognize state-of-the-art technologies and practices while inspiring
+students to generate innovations. We want our graduate to be ready for the ever-changing technological
+landscape.
+The curriculum is designed to drive innovations. By combining theoretical foundations with handson experience and project- based learning, the students will learn the skills required for today’ s
+workforce. We embrace the 21st century learning environment to cultivate the students' creativity,
+critical-thinking, communication and collaboration skills. Our students will be introduced to innovative
+mindsets, able to work with multidisciplinary teams and be leaders in their field of study. Our graduates
+will be lifelong learners who are aware of technical and societal issues. They will be able to create
+engineering innovations with economics impact and benefit our society.
+1.2 Importance
+The existence of the program is critical to the development of the country. In order to accelerate
+innovation and digitally transform Thai economy for next generation startups and innovation- driven
+economy. Thai government has established several initiatives relating to startups ( Startup Thailand) ,
+innovation (Thailand 4.0), and digital economy (Digital Thailand.) Digital industry including the field of
+IoT, Cloud, Embedded device, Robotics, AI has also been established as the next S-curve in developing
+a new economy. Coupling with the ongoing innovations in global computing technology landscape,
+there is a significant demand for high-quality graduates who are skillful in computing and innovation for
+all industries on the verge of digital disruption. Existing businesses will have to adapt and innovatively
+transform itself in order to stay competitive. Graduates from Robotics and AI will be the major driving
+force of the transformation using their technical experts and understanding of the economic ecosystem
+and related processes.
+1.3 Program Educational Objectives
+Bachelor of Engineering Program in Robotics and AI emphasizes on the production of graduates
+with the following qualifications:
+a. Engineering Quality: Our graduates will apply engineering practice, combined with the
+innovative process, to identify and solve significant problems across a broad range of applications.
+b. Innovation: Our graduates will adapt the process by which technological ideas are
+generated, developed and transformed into new business products, processes, services and
+solutions that meet the demands and establish marketplace advantage.
+
+12
+
+c. Leadership: Our graduates will apply their technical and innovative leadership to establish
+successful careers in their business, profession, and community.
+d. Economic Impact: Our graduates will apply their technical expertise, leadership, and
+innovative mindset to support and strengthen the society’s economic well-being.
+e. Lifelong Learning: Our graduates will learn new technologies, methodologies, and tools
+and adapt them to respond to the challenges of a changing environment.
+
+14
+
+2. Development Plan
+Development Plan
+
+Enhance the quality of the
+curriculum and teaching-learning
+activities to that of international
+standards.
+
+The development plan for
+engineering education, active
+learning, 21st-century skill-sets,
+and characteristics streamlined to
+institutional engineering set
+
+Strategies
+
+Evidence/Indicator
+
+1. Adjusting engineering to an Outcome-based
+curriculum by ABET guidelines for undergraduate,
+graduate and doctoral degrees.
+2. Organize Student Centric teaching-learning
+environments to facilitate and maximize active
+learning.
+3. Facilitate authentic learning or work integrated
+teaching-learning environments.
+4. Incorporate PBL (Problem Based Learning/Project
+Based Learning) techniques into educational systems.
+5. Organize community and service learning projects
+for students.
+6. Streamline evaluation procedures to that of
+Outcome-based.
+
+1. Bachelor of Engineering Program is designed to
+qualification standard of higher education by Ministry of
+Education (MoE) and Accreditation Board for Engineering
+and Technology (ABET)
+2. The total number of courses where at least 50 percent
+or more of class time is carried out through active learning.
+3. The total number of courses with an integrated
+education system.
+4. The total number of courses where at least 50 percent
+or more of class time takes place through PBL
+(Problem/Project Based Learning).
+5. The total number of Service Learning projects.
+6. The engineering graduates' satisfaction rate regarding
+curriculum teaching-learning administration
+
+1. Adopt New Staff Workshops to learn about
+existing educational systems.
+2. Education development and lecturer and faculty
+evaluation.
+
+1. The percentage of new lecturers trained.
+2. The percentage of lecturers trained.
+3. Lecturer evaluation by students.
+
+15
+
+Development Plan
+
+Strategies
+
+Evidence/Indicator
+
+objectives for undergraduate
+degrees.
+
+Student development plan.
+
+1. The total number of activities in place to promote
+1. The promotion of integrity, ethics, service mind, and integrity and ethics amongst students.
+2. The total number of courses in place to promote
+volunteerism, as well as professionalism amongst
+integrity, ethics, service mind and volunteerism, as well as
+students.
+professionalism amongst students.
+2. The fostering of leadership and cohesion in team
+3. The total number of courses that assign group projects
+settings
+to students to promote teamwork and team presentation.
+
+Engineering research
+development plan.
+
+1. The arrangement of support agencies for
+engineering education and research and development. 1. The total number of engineering education research
+2. Budgetary and resource support for engineering
+projects.
+education and research and development
+
+16
+
+3. Student Outcomes
+The program in Robotics and AI must have documented student outcomes that prepare graduates to
+attain the program educational objectives which adhere to ABET student outcomes for the engineering
+program.
+(1) an ability to apply knowledge of mathematics, science, and engineering
+(2) an ability to design and conduct experiments, as well as to analyze and interpret data
+( 3) an ability to design an innovative system, component, or process to meet desired needs within
+realistic constraints such as economic, environmental, social, political, ethical, health and safety,
+manufacturability, and sustainability
+(4) an ability to function on multidisciplinary teams
+(5) an ability to identify, formulate and solve engineering problems
+(6) an understanding of professional and ethical responsibility
+(7) an ability to communicate effectively
+( 8) the broad education necessary to understand the impact of engineering solutions in a global,
+economic, environmental, and societal context
+(9) a recognition of the need for, and an ability to engage in life-long learning
+(10) a knowledge of contemporary issues
+( 11) an ability to use the techniques, skills, and modern engineering tools necessary for engineering
+practice.
+
+The outcomes can be presented progressively by following yearly basis as articulately shown in Table
+below.
+Year
+
+Expected Learning Outcomes
+
+
+1
+
+
+
+
+
+
+2
+
+
+
+ability to learn and apply knowledge of mathematics, science, and engineering
+ability to read, draw, apply engineering drawing
+ability to create algorithm, understand and write codes using computer languages for engineering
+problem solving
+ability to design and conduct experiments on feedback control system, as well as to analyze and
+interpret data using advanced mathematics and engineering tools
+ability to design a system, component, or process to meet desired needs within realistic constraints
+such as economic, environmental, social, political, ethical, health and safety, manufacturability, and
+
+17
+
+Year
+
+Expected Learning Outcomes
+
+
+
+
+
+3
+
+
+
+
+
+
+4
+
+
+
+sustainability using knowledge of kinematics, kinetics, and dynamics as well as material engineering
+for Robotics and AI
+ability to function on multidisciplinary teams via project based learning from RAI core courses
+ability to identify, formulate, and solve RAI engineering problems
+understanding of professional and ethical responsibility
+ability to communicate effectively by presenting RAI mini-projects
+the broad education necessary to understand the impact of engineering solutions in a global,
+economic, environmental, and societal context via RAI industrial prototyping projects
+recognition of the need for, and an ability to engage in life-long learning from cooperation or
+academic training programs
+knowledge of contemporary issues via and ability to use the techniques, skills, and modern
+engineering tools necessary for engineering practice via RAI senior capstone projects
+
+18
+
+PART 3: SYSTEM FOR EDUCATIONAL PROVISION, MANAGEMENT,
+AND STRUCTURE OF THE PROGRAM
+1. System for Educational Provision
+1.1 System
+An academic year has two semesters, each of which covers not less than 15 weeks (excluding the
+examination weeks). The summer semester is optional. Most courses are offered on the main campus
+during the day. Some courses or laboratory hours may be offered in the evening or weekend.
+1.2 Provision of Summer Course
+Summer courses will be offered based on instructors’ availability and students’ need.
+1.3 System Transfer of Credits in Two-Semester System
+Credits can be transferred, upon the consent of executive program committee, according to the
+Regulation of King Mongkut’s Institute of Technology Ladkrabang regarding bachelor degree education
+year 2016 (Appendix A), and the Announcement of King Mongkut’s Institute of Technology Ladkrabang
+regarding the cross-institute registration of higher education (Appendix B).
+2. Management of the Program
+2.1 Date-Time of the Course
+1st semester:
+August – December
+2nd semester:
+January – May
+Summer course: June – July
+* The actual start and end dates for each academic year will be announced by the office of the
+registrar.
+2.2 Qualification of Applicants
+The general admission process starts from October. RAI classes will begin in August of the following
+year. Prospective students are required to satisfy the following requirements:
+a. Complete high-school education or equivalent study record. Students must also provide
+the latest official transcript for their highest level of education. Students must provide the proof of
+completion (an official diploma or a certificate of completion) from their high-school education or
+equivalent study before their enrollment.
+b. Standardized test: Students must obtain the standardized test scores as specified in the
+admission announcement.
+c. English Language Proficiency: If prospective students are non-native English speakers, they
+must obtain the results of the Test of English as a Foreign Language ( TOEFL) or the International
+English Language Testing System (IELTS) in addition to the other required standardized test scores.
+Other types of the accepted score will be specified in the admission announcement.
+
+19
+
+d. Personal Statement: Students must obtain their personal statements along with the
+application as specified in the admission announcement.
+e. Teacher Recommendation: Students must obtain recommendations from their teachers
+or supervisors.
+2.3 Issues of New Students
+a. Adjusting to social settings and lifestyles on campus which allow greater independence
+and freedom compared to high schools.
+b. Tuition fees and other financial requirements.
+c. Diverse ethnicity as backgrounds varies from student to student regarding culture, social
+and academic upbringing, all of which influences social bonding and communication effectiveness,
+learning and self-development.
+2.4 Strategies for Solving the Issues/Limitation of the Students in 2.3
+a. Arrange an orientation day and counseling session for first year students to advise on
+available career paths, best action plans in line with set objectives and time management.
+b. Arrange advisor system to overlook, care and provide counseling for students about all
+aspects of life, on and off campus, particularly students facing academic difficulties and/ or
+domestic and other issues.
+c. Arrange activities that promote relationship forming, bonding and caring among students.
+d. Have tracking systems in place to monitor and evaluate students with academic,
+behavioral and other problems.
+e. Have teaching assistant programs to aid students towards the specified learning outcomes.
+f. Have available scholarships for students with potential.
+g. Available student activities and clubs that promote personal development.
+
+20
+
+2.5 Admission Plan and Estimated Graduation in 5 Years
+Academic Year
+Number of Students
+1st year
+
+2020
+
+2021
+
+2022
+
+2023
+
+2024
+
+60
+
+30
+
+30
+
+30
+
+30
+
+60
+
+30
+
+30
+
+30
+
+60
+
+30
+
+30
+
+60
+
+30
+
+2nd year
+3rd year
+4th year
+Total
+
+60
+
+90
+
+120
+
+150
+
+120
+
+Estimated to Graduate
+
+-
+
+-
+
+-
+
+60
+
+30
+
+2.6 Planned Budget
+Academic Year
+2020
+
+2021
+
+2022
+
+2023
+
+2024
+
+1. Personnel
+
+2,157,500
+
+2,912,917
+
+3,879,250
+
+4,119,250
+
+4,119,250
+
+- Teaching Personnel
+
+1,017,500
+
+1,606,250
+
+2,191,250
+
+2,431,250
+
+2,431,250
+
+- Administrative Staffs
+
+544,000
+
+544,000
+
+725,333
+
+725,333
+
+725,333
+
+- Professional Dev.
+
+596,000
+
+762,667
+
+962,667
+
+962,667
+
+962,667
+
+2. Operating Expense
+
+916,100
+
+1,272,433
+
+1,977,883
+
+2,371,883
+
+2,545,217
+
+- Subscriptions
+- Consumables
+
+583,433
+
+831,433
+
+1,266,217
+
+1,534,217
+
+1,647,550
+
+- Activities
+
+332,667
+
+441,000
+
+711,667
+
+837,667
+
+897,667
+
+3. Scholarship
+
+350,000
+
+550,000
+
+750,000
+
+800,000
+
+800,000
+
+- Full Scholarship
+
+350,000
+
+550,000
+
+750,000
+
+800,000
+
+800,000
+
+21
+
+Academic Year
+2020
+
+2021
+
+2022
+
+2023
+
+2024
+
+4. Facilities
+
+135,333
+
+252,000
+
+392,000
+
+490,000
+
+536,667
+
+- Facilities / Utilities
+
+135,333
+
+252,000
+
+392,000
+
+490,000
+
+536,667
+
+5. Capital
+
+403,600
+
+171,600
+
+171,600
+
+838,267
+
+171,600
+
+- Equipments
+- Accreditation
+
+1,210,800
+
+514,800
+
+514,800
+
+2,514,800
+
+514,800
+
+Total Expense
+
+3,962,533
+
+5,158,950
+
+7,170,733
+
+8,619,400
+
+8,172,733
+
+Enrollments
+
+60
+
+90
+
+120
+
+150
+
+120
+
+Estimated expenditure per person for producing a scholar according to the program equals
+to an average of 194,613 baht/person/year.
+2.7 Educational System
+Class room
+2.8 Transfer of Credits, Subjects and Cross- Institute Registration of Higher Education
+(if any)
+Credits can be transferred, upon the consent of executive program committee, according to the
+Regulation of King Mongkut’s Institute of Technology Ladkrabang regarding bachelor degree education
+year 2016 (Appendix A), and the Announcement of King Mongkut’s Institute of Technology Ladkrabang
+regarding the cross-institute registration of higher education (Appendix C).
+2.9 Registration
+The registration system is according to the Regulation of King Mongkut’ s Institute of Technology
+Ladkrabang regarding bachelor degree education year 2016 (Appendix A).
+2.10 Integrated Master/Bachelor Program
+If a student is in the 2nd semester of their third year of study or has completed at least 81 credits,
+with the overall GPA of at least 3. 00, the student is guaranteed admission into the integrated
+master/ bachelor program in the department. The student must also complete the admission form
+through the meeting with their academic advisor for their master program. If a student does not meet
+the GPA criteria of 3.00, he or she is eligible to his/her petition into the program during his or her fourth
+year with the permission of their academic advisor.
+
+22
+
+3. Curriculum and Instructors
+The B. Eng. in Robotics and AI program is a four- year full- time undergraduate program. In order to
+graduate, the students must complete at least 131 credits. Students must achieve the required English
+proficiency level prior to the graduation and satisfy the graduation requirements. The program is designed
+to drive innovations and entrepreneurship in robotics and AI technology-related areas. Each semester will
+include a project- based theme which helps students practice and design innovative solutions in the
+respective areas.
+In the first year, the students study basic courses in mathematics and science and improve their
+communication skills. Students will also be introduced to fundamental programming concepts and the
+foundation of robotics systems. The first-year projects will give students hands-on experience, introduction
+and basic development of robotics technologies.
+In the second year, the students will learn advanced robotics concepts which serve as the foundation
+of robotics technologies. The students also learn to apply design methods for solutions in technical areas
+such as control systems design and kinematics and dynamics.
+Third- year students will learn about the latest technologies and AI which happen in the area. In each
+semester, the students will study new concepts and apply creativity in completing projects in trending areas
+such as machine perception application development, cognition and reasoning and IoT. Students will also
+learn about AI engineering, along with the process and tools to facilitate new innovations.
+Fourth-year students undertake significant RAI engineering capstone design projects. Students will apply
+their skills and knowledge to create sustainable innovations, practice open-ended engineering design and/or
+research that incorporates fundamental and advanced concepts in Robotics and AI. Students will learn to
+build innovation, identify the opportunities, propose ideas, design and implement innovative solutions while
+being able to apply standards and realistic engineering constraints. Students also further specialize in their
+areas of interest and prepare for the next step in their careers.
+
+23
+
+3.1 Curriculum
+3.1.1 Minimum Credits Required for Graduation
+3.1.2 Curriculum Structure (Minimum Credits)
+
+131
+
+credits
+
+(For UoB 2+2 Program Students)
+
+Credits
+(For Co-op / Study
+Aboard Students)
+
+30
+
+30
+
+A1. English Proficiency Requirement (ESL)
+
+9
+
+9
+
+A2. Communication, Humanity, and Social Skills
+
+15
+
+15
+
+A3. Math and Science
+
+6
+
+6
+
+95
+
+95
+
+B1. Core Courses
+
+20
+
+20
+
+B2. Major Compulsory Courses
+
+75
+
+75
+
+B2.1 Fundamental Subjects
+
+39
+
+39
+
+B2.2 Capstone Projects
+
+6
+
+6
+
+B2.3 RAI Elective Mandatory Subjects
+
+18
+
+15
+
+B2.4 RAI Elective Subjects
+
+12
+
+9
+
+B2.5 Alternative Study
+
+-
+
+6
+
+C. Free Electives
+
+6
+
+6
+
+D. Internship
+
+0
+
+0
+
+131
+
+131
+
+Course Group
+A. General Education
+
+B. Robotics and AI Specific Courses
+
+TOTAL
+
+Credits
+(For Regular Students)
+
+24
+
+3.1.3 Subjects
+One academic credit is given to a course offered in a single semester which
+- Meets in class for lecture or discussion for 1 hour per week; or
+- Contains at least 3 laboratory hours per week.
+Most courses are given 3 or more credits. For 4 credit courses, these courses usually contain 3
+hours of lecture or discussion per week. The courses are also accompanied with 1 additional hour
+of recitation or 3 hours of laboratory work per week. Students enrolled in the courses are also
+expected to spend at least 8 hours outside the class/ lab for studying and completing the
+coursework.
+The instructor-led lecture could be delivered as a traditional lecture or include learning
+activities in which the students can actively participate. The recitation is a compliment to a lecture
+where students can discuss and ask the recitation leader questions to clarify concepts, facts, or
+problem sets from the lecture. The laboratory hours give students the opportunity to learn from
+hands-on experience using specialized equipment or software related to the course’s contents.
+Meaning of the Subject Codes
+Subject Codes are assigned with 8 digits as follows:
+1st, 2nd digit:
+3rd, 4th digit
+5th
+digit
+th th th
+6 , 7 , 8 digit
+
+01
+41
+00
+6
+
+means Faculty of Engineering
+means Robotics and AI program
+means shared courses
+means bachelor degree
+means Order of the subject
+
+25
+
+A. GENERAL EDUCATION
+
+30 CREDITS
+(LECTURE-LAB-SELF STUDY)
+
+A.1 ENGLISH PROFICIENCY REQUIREMENT (ESL)
+01416000
+ACADEMIC LISTENING AND SPEAKING
+01416001
+ACADEMIC READING AND WRITING
+01416003
+INTERPRETATION AND ARGUMENTS
+
+9 CREDITS
+3 (3-0-6)
+3 (3-0-6)
+3 (3-0-6)
+
+A.2 COMMUNICATION, HUMANITY, AND SOCIAL SKILLS
+01006502
+PROFESSIONAL ETHICS
+01006503
+INTRODUCTION TO PSYCHOLOGY
+01006504
+PHILOSOPHY OF SCIENCE
+01006505
+CREATIVE THINKING
+01006506
+CRITICAL THINKING
+01006507
+PERSONAL ECONOMICS
+01006508
+DIGITAL ECONOMY
+01006509
+ENGINEERING AND PUBLIC POLICY
+01006510
+INTRODUCTION TO ECONOMICS
+01006511
+THAI SOCIETY AND CULTURE
+01006512
+ASIAN STUDY
+01006514
+INNOVATIVE COMMUNICATION
+01006515
+DESIGN METHODS FOR INNOVATIONS
+01006516
+INNOVATION MANAGEMENT
+01006517
+LEAN STARTUP AND AGILE BUSSINESS
+01006518
+EMERGING TRENDS IN ENGINEERING
+01006519
+INTRODUCTION TO ENVIRONMENTAL PRINCIPLES
+01006520
+LEADERSHIP AND PERSONAL DEVELOPMENT
+01006521
+MEDITATION FOR LIFE DEVELOPMENT
+01006522
+ENGLISH FOR SCIENCE AND TECHNOLOGY
+
+15 CREDITS
+3 (3-0-6)
+3 (3-0-6)
+3 (3-0-6)
+3 (3-0-6)
+3 (3-0-6)
+3 (3-0-6)
+3 (3-0-6)
+3 (3-0-6)
+3 (3-0-6)
+3 (3-0-6)
+3 (3-0-6)
+4 (4-0-8)
+4 (4-0-8)
+4 (4-0-8)
+4 (4-0-8)
+1 (1-0-2)
+3 (3-0-6)
+3 (3-0-6)
+3 (3-0-6)
+3 (3-0-6)
+
+A.3 MATH AND SCIENCE
+01006719
+PROBABILITY AND STATISTICS 1
+01006720
+PROBABILITY AND STATISTICS 2
+01006721
+NUMERICAL METHODS
+01006727
+GENERAL CHEMISTRY
+01006728
+GENERAL CHEMISTRY LABORATORY
+01006729
+INTRODUCTION TO OPERATIONS RESEARCH
+01416801
+MATHEMATICS OF DATA SCIENCE AND DATA ANALYTIC
+
+6 CREDITS
+3 (3-0-6)
+3 (3-0-6)
+3 (3-0-6)
+3 (3-0-6)
+1 (0-3-2)
+3 (3-0-6)
+3 (3-0-6)
+
+26
+
+01006713
+01006714
+01006701
+
+MATHEMATICAL CRYPTOGRAPHY
+4 (4-0-8)
+MATHEMATICS FOR 3D GAME AND COMPUTER GRAPHICS 4 (4-0-8)
+MATHEMATICS OF DATA SCIENCE
+4 (4-0-8)
+
+TRACK UNIVERSITY OF BIRMINGHAM 2+2 DUAL DEGREE PROGRAM
+(Only students in UoB 2+2 Dual Degree program may choose the courses in this course.)
+01416802
+
+ADVANCED ENGINEERING MATHEMATICS
+
+B. ROBOTICS AND AI COURSE SPECIFIC COURSES
+B.1 CORE COURSE
+01006710
+01006711
+01006723
+01006724
+01006725
+01006726
+01006803
+01416310
+
+4 (4-0-8)
+
+95 CREDITS
+(LECTURE-LAB-SELF STUDY)
+
+INTRODUCTION TO CALCULUS
+ADVANCED CALCULUS
+GENERAL PHYSICS 1
+GENERAL PHYSICS LABORATORY 1
+GENERAL PHYSICS 2
+GENERAL PHYSICS LABORATORY 2
+ENGINEERING MECHANICS
+STRENGTH OF MATERIALS
+
+B.2 MAJOR COMPULSORY COURSE
+B.2.1 FUNDAMENTAL SUBJECTS
+01416301
+DIFFERENTIAL EQUATIONS AND MATRIX ALGEBRA
+01416304
+FEEDBACK CONTROL
+01416305
+ARTIFICIAL INTELLIGENCE TECHNOLOGY
+01416306
+SAFETY AND STANDARDIZATION IN RAI 3*
+01416308
+KINEMATICS AND DYNAMICS
+01416309
+ENGIEERING 3D DRAWING
+01416312
+ELECTRIC CIRCUIT AND ELECTRONICS
+01416315
+INDUSTRIAL ELECTRONICS 2*
+01416316
+COMPUTER PROGRAMMING FOR RAI
+01416318
+MICROPROCESSOR AND INTERFACE
+01416319
+MANUFACTURING PROCESS 1*
+01416320
+INTRODUCTION TO ROBOTICS AND AI
+01416514
+ROBOTICS LABORATORY 1
+
+20 CREDITS
+3 (3-0-6)
+3 (3-0-6)
+3 (3-0-6)
+1 (0-3-2)
+3 (3-0-6)
+1 (0-3-2)
+3 (3-0-6)
+3 (3-0-6)
+75 CREDITS
+39 CREDITS
+3 (3-0-6)
+3 (3-0-6)
+3 (3-0-6)
+3 (3-0-6)
+3 (3-0-6)
+3 (2-2-5)
+3 (3-0-6)
+3 (3-0-6)
+3 (2-2-5)
+3 (2-2-5)
+3 (3-0-6)
+3 (3-0-6)
+1 (0-3-6)
+
+27
+
+01416515
+ROBOTICS LABORATORY 2
+01416516
+ROBOTICS LABORATORY 3
+1*
+compare to Module 04 32798 Mechatronic Design of UoB
+
+1 (0-3-6)
+1 (0-3-6)
+
+2*
+
+compare to Module 04 19505 Electronic Circuits and Devices and Electromagnetics of UoB
+
+3*
+
+compare to Module 04 32798 Mechatronic Design of UoB
+
+B.2.2 CAPSTONE PROJECTS
+01416701
+RAI ENGINEERING CAPSTONE DESIGN PREPARATION 4*
+01416702
+RAI ENGINEERING CAPSTONE DESIGN 5*
+4*
+compare to Module 04 29646 Integrated Design Project 3 of UoB
+5*
+compare to Module 04 02279 Individual Project of UoB
+B.2.3 RAI ELECTIVE MANDATORY SUBJECTS
+For Regular Students
+For UoB 2+2 Program Students
+For Co-op / Study Aboard Students
+01416401
+01416403
+01416404
+01416406
+01416408
+01416409
+01416413
+01416414
+01416415
+01416416
+01416417
+01416500
+01416503
+01416504
+01416505
+01416507
+01416509
+01416510
+01416511
+01416512
+01416518
+
+THERMODYNAMICS
+DYNAMICS OF MACHINERY
+MECHANICAL DESIGN AND MODELING
+
+6 CREDITS
+3 (0-9-5)
+3 (0-9-5)
+
+18 CREDITS
+18 CREDITS
+15 CREDITS
+
+3 (3-0-6)
+3 (3-0-6)
+3 (3-0-6)
+MEASUREMENTS AND INTRUMENTATION FOR MECHATRONICS 3 (3-0-6)
+COMPUTER AID MECHANICAL DESIGN
+3 (3-0-6)
+FLUID MECHANICS
+3 (3-0-6)
+INTRODUCTION TO NANOTECHNOLOGY AND NANOSCIENCE
+3 (3-0-6)
+INTRODUCTION TO MEMS
+3 (3-0-6)
+INTRODUCTION TO DATA SCIENCE
+3 (3-0-6)
+INFORMATION SYSTEMS, DATABASES AND APPLICATION 3 (3-0-6)
+DEEP LEARNING APPLICATION
+3 (3-0-6)
+COMPUTER VISIONS
+3 (3-0-6)
+DESIGNING COMPUTER VISION APPLICATIONS
+3 (3-0-6)
+MACHINE LEARNING IN PRACTICE
+3 (3-0-6)
+INTERNET OF THINGS AND SMART ROBOTICS AND AI SYSTEMS 3 (3-0-6)
+PERCEPTION AND COGNITIVE ROBOTS
+3 (2-2-5)
+SYSTEM ENGINEERING
+3 (3-0-6)
+HUMAN ROBOT INTERACTION
+3 (3-0-6)
+MOBILE ROBOTS
+3 (2-2-5)
+PLANNING TECHNIQUES IN ROBOTICS
+3 (2-2-5)
+INDUSTRIAL AUTOMATION
+3 (3-0-6)
+
+28
+
+01416519
+01416520
+01416521
+01416528
+09106551
+01006718
+
+MODERN CONTROL
+VISION SYSTEM FOR MOBILE ROBOTICS
+INTRODUCTION TO ALGORITHMS
+COMMUNICATION NETWORK
+CAPSTONE DESIGN PREPARATION FOR SMART MATERIALS
+DISCRETE MATHEMATICS
+
+3 (3-0-6)
+3 (3-0-6)
+3 (3-0-6)
+3 (3-0-6)
+3 (0-9-5)
+3 (3-0-6)
+
+FOR UNIVERSITY OF BIRMINGHAM 2+2 DUAL DEGREE PROGRAM
+(Only students in UoB 2+2 Dual Degree program may choose these courses.)
+01416525
+01416526
+01416527
+
+ENGINEERING MECHANICS 2
+MICROPROCESSOR AND CONTROL SYSTEMS
+DIGITAL ELECTRONICS AND ELECTRICAL MACHINES
+
+4 (4-0-8)
+4 (4-0-8)
+4 (4-0-8)
+
+B.2.4 RAI ELECTIVE SUBJECTS
+For Regular Students
+For UoB 2+2 Program Students
+For Co-op / Study Aboard Students
+
+12 CREDITS
+12 CREDITS
+9 CREDITS
+
+01416601
+01416602
+01416604
+01416607
+01416608
+01416609
+01416610
+01416611
+01416612
+01416613
+01416614
+01416615
+01416616
+01416617
+01416618
+01416619
+01416620
+01416621
+01416522
+
+3 (2-3-6)
+3 (3-0-6)
+3 (3-0-6)
+3 (3-0-6)
+3 (3-0-6)
+3 (3-0-6)
+3 (3-0-6)
+3 (3-0-6)
+3 (3-0-6)
+3 (3-0-6)
+3 (2-2-5)
+3 (3-0-6)
+3 (3-0-6)
+3 (3-0-6)
+3 (3-0-6)
+3 (2-2-5)
+3 (3-0-6)
+3 (3-0-6)
+3 (3-0-6)
+
+MECHANICAL SYSTEM AND LABORATORY
+EMBEDDED SYSTEM DEVELOPMENT
+MECHANICAL VIBRATIONS
+STARTUP ENGINEERING
+DATA VISUALIZATION
+COGNITIVE COMPUTING APPLICATIONS
+SOFTWARE-DEFINED DATA CENTER
+WIRELESS SENSOR NETWORK
+INFORMATION SECURITY MANAGEMENT
+FUNDAMENTALS OF AR, VR AND MIXED REALITY
+ADVANCED COMPUTER PROGRAMMING FOR RAI
+CYBER PHYSICAL ROBOTICS
+MOBILE APPLICATION DEVELOPMENT
+PNEUMATIC AND HYDRAULIC SYSTEM DESIGN AND CONTROL
+
+ADVANCED ARTIFICIAL INTELLIGENCE TECHNOLOGY
+USER EXPERIENCE AND USER INTERFACE DESIGN
+BLOCKCHAIN TECHNOLOGY AND APPLICATION
+LEAN MANAGEMENT
+BIG DATA
+
+29
+
+01416523
+01416628
+01416629
+01416630
+01416631
+01416632
+01416633
+01416634
+01416635
+01006006
+
+IT PROJECT MANAGEMENT
+EXPERIENCE AND EXERCISE FOR INTELLIGENT CONTROL SYSTEM
+
+INFORMATION AND CYBER SECURITY
+INFORMATION SYSTEM SECURITY AND IT LAW
+ROBOTICS AND AI EXPERIENCE
+SPACE SCIENCE
+REINFORCEMENT LEARNING
+INTRODUCTION TO PROMPT ENGINERRING
+ADVANCED TECHNIQUES IN ChatGPT CUSTOMIZATION
+AND APPLICATION
+INDUSTRIAL EXPERIENCE FOR ENGINEERS
+
+3 (3-0-6)
+3 (2-2-5)
+3 (3-0-6)
+3 (3-0-6)
+9 (2-14-12)
+4 (4-0-8)
+3 (3-0-6)
+3 (2-2-5)
+3 (2-2-5)
+3 (0-16-0)
+
+FOR UNIVERSITY OF BIRMINGHAM 2+2 DUAL DEGREE PROGRAM
+(Only students in UoB 2+2 Dual Degree program may choose these courses.)
+01416622
+01416623
+01416624
+01416625
+01416626
+01416627
+
+INTEGRATED DESIGN PROJECT 2
+4 (2-4-10)
+ENGINEERING MATHEMATICS 3
+4 (4-0-8)
+POWER ELECTRONICS AND POWER SYSTEMS
+4 (4-0-8)
+THE INTERNET OF THINGS
+4 (4-0-8)
+TELEROBOTICS, TELEPRESENCE AND AUGMENTED REALITY 4 (4-0-8)
+ELECTRONIC ENGINEERING
+4 (4-0-8)
+
+TRACK SMART MATERIALS TECHNOLOGY
+(Only students in Smart Materials Technology and Robotics and AI Dual-degree program
+may choose these courses.)
+09106400
+09106401
+09106402
+09106403
+09106404
+09106405
+09106406
+09106407
+
+MATERIALS INVESTIGATION
+PHOTONICS
+SMART MATERIALS FOR ENERGY STORAGE
+LIGHT EMITTING DEVICES AND DISPLAY TECHNOLOGY
+SOLAR CELL AND NANOSTRUCTURE PHOTOVOLTAIC
+LAB-ON-CHIP TECHNOLOGY
+MICROELECTROMECHANICAL SYSTEM (MEMS)
+CHEMISTRY
+
+B.2.5 ALTERNATIVE STUDY
+For Co-op / Study Aboard Students
+
+3 (3-0-6)
+3 (3-0-6)
+3 (3-0-6)
+3 (3-0-6)
+3 (2-2-5)
+3 (2-2-5)
+3 (3-0-6)
+3 (2-2-5)
+
+6 CREDITS
+
+30
+
+01006301
+01006302
+01006304
+
+COOPERATIVE EDUCATION
+STUDY ABROAD
+OVERSEA TRAINING
+
+6 (0-45-0)
+6 (6-0-12)
+6 (0-45-0)
+
+C. FREE ELECTIVES
+
+6 CREDITS
+
+Students must complete at least 6 additional credits from any courses offered by the
+institution.
+D. RAI INTERNSHIP
+01006805
+
+0 CREDITS
+INDUSTRIAL INTERNSHIPS
+
+3.1.4 Recommended Study Plan
+
+0 (0-45-0)
+
+Credit Notation: (L - E - S)
+
+L = Lecture / Learning hours, E = Laboratory hours, S = Self-study hours
+This study plan shows courses with credits equivalent to 3. However, students can register 4 credit courses
+as well. The total number of credits in each subject category will be counted toward the graduation.
+
+31
+
+1st YEAR 1st SEMESTER
+CODE
+
+SUBJECT
+
+CREDITS (L-E-S)
+
+01416316
+
+COMPUTER PROGRAMMING FOR RAI
+
+3 (2-2-5)
+
+01006710
+
+INTRODUCATION TO CALCULUS
+
+3 (3-0-6)
+
+01006723
+
+GENERAL PHYSICS 1
+
+3 (3-0-6)
+
+01006724
+
+GENERAL PHYSICS LABORATORY 1
+
+1 (0-3-2)
+
+01416309
+
+ENGINEERING 3D DRAWING
+
+3 (2-2-5)
+
+XXXXXXX
+
+(GENED ELECTIVE)
+
+3 (3-0-6)
+
+01416000
+
+(ESL) ACADEMIC LISTENING AND SPEAKING
+
+3 (3-0-6)
+
+TOTAL CREDITS
+
+19
+
+1st YEAR 2nd SEMESTER
+CODE
+
+SUBJECT
+
+CREDITS (L-E-S)
+
+01416320
+
+INTRODUCTION TO ROBOTICS AND AI
+
+3 (3-0-6)
+
+01006803
+
+ENGINEERING MECHANICS
+
+3 (3-0-6)
+
+01006711
+
+ADVANCED CALCULUS
+
+3 (3-0-6)
+
+01006725
+
+GENERAL PHYSICS 2
+
+3 (3-0-6)
+
+01006726
+
+GENERAL PHYSICS LABORATORY 2
+
+1 (0-3-2)
+
+01416318
+
+MICROPROCESSOR AND INTERFACE
+
+3 (2-2-5)
+
+01416514
+
+ROBOTICS LABORATORY 1
+
+1 (0-3-6)
+
+01416001
+
+(ESL) ACADEMIC READING AND WRITING
+
+3 (3-0-6)
+
+TOTAL CREDITS
+
+20
+
+32
+
+2nd YEAR 1st SEMESTER
+CODE
+
+SUBJECT
+
+CREDITS (L-E-S)
+
+01416312
+
+ELECTRIC CIRCUIT AND ELECTRONICS
+
+3 (3-0-6)
+
+01416301
+
+DIFFERENTIAL EQUATIONS AND MATRIX ALGEBRA
+
+3 (3-0-6)
+
+01416515
+
+ROBOTICS LABORATORY 2
+
+1 (0-3-6)
+
+01416304
+
+FEEDBACK CONTROL
+
+3 (3-0-6)
+
+01416521
+
+INTRODUCTION TO ALGORITHMS (RAI Elective
+Mandatory Subject)
+
+3 (3-0-6)
+
+XXXXXXX
+
+(GENED ELECTIVE)
+
+3 (3-0-6)
+
+01416003
+
+(ESL) INTERPRETATION AND ARGUMENTS
+
+3 (3-0-6)
+
+TOTAL CREDITS
+
+19
+
+2nd YEAR 2nd SEMESTER
+CODE
+
+SUBJECT
+
+CREDITS (L-E-S)
+
+01006719
+
+PROBABILITY AND STATISTICS 1
+(GENED, SCIENCE & MATHEMATICS ELECTIVE)
+
+3 (3-0-6)
+
+01416310
+
+STRENGTH OF MATERIALS
+
+3 (3-0-6)
+
+01416308
+
+KINEMATICS AND DYNAMICS
+
+3 (3-0-6)
+
+01416305
+
+ARTIFICIAL INTELLIGENCE TECHNOLOGY
+
+3 (3-0-6)
+
+01416516
+
+ROBOTICS LABORATORY 3
+
+1 (0-3-6)
+
+01416500
+
+Computer vision (RAI Elective mandatory Subject)
+
+3 (3-0-6)
+
+XXXXXXX
+
+(GENED ELECTIVE)
+
+3 (3-0-6)
+
+TOTAL CREDITS
+
+19
+
+33
+
+3rd YEAR 1st SEMESTER
+CODE
+
+SUBJECT
+
+CREDITS (L-E-S)
+
+01416801
+
+MATHEMATICS OF DATA SCIENCE AND DATA ANALYTIC
+(GENED, SCIENCE & MATHEMATICS ELECTIVE)
+
+3 (3-0-6)
+
+01416306
+
+SAFTY AND STANDARDIZATION IN RAI
+
+3 (3-0-6)
+
+01416319
+
+MANUFACTURING PROCESS
+
+3 (3-0-6)
+
+01006718
+
+DISCRETE MATHEMATICS (RAI Elective mandatory
+Subject)
+
+3 (3-0-6)
+
+0141XXXX
+
+RAI Elective mandatory subject
+
+3 (3-0-6)
+
+0141XXXX
+
+RAI Elective subject
+
+3 (3-0-6)
+
+TOTAL CREDITS
+
+18
+
+3rd YEAR 2nd SEMESTER
+CODE
+
+SUBJECT
+
+CREDITS (L-E-S)
+
+XXXXXXX
+
+(GENED ELECTIVE)
+
+3 (3-0-6)
+
+01416315
+
+INDUSTRIAL ELECTRONICS
+
+3 (3-0-6)
+
+0141XXXX
+
+RAI Elective mandatory subject
+
+3 (3-0-6)
+
+XXXXXXX
+
+(FREE ELECTIVE)
+
+3 (X-X-X)
+
+01416701
+
+RAI ENGINEERING CAPSTONE DESIGN PREPARATION
+
+3 (0-9-5)
+
+TOTAL CREDITS
+
+15
+
+3rd YEAR 3rd SEMESTER (SUMMER)
+CODE
+01006805
+
+SUBJECT
+INDUSTRIAL INTERNSHIP
+TOTAL CREDITS
+
+CREDITS (L-E-S)
+0 (0-45-0)
+0
+
+34
+
+FOR REGULAR STUDENTS
+4th YEAR 1st SEMESTER
+CODE
+
+SUBJECT
+
+CREDITS (L-E-S)
+
+XXXXXXX
+
+(FREE ELECTIVE)
+
+3 (X-X-X)
+
+XXXXXXX
+
+(GENED ELECTIVE)
+
+3 (3-0-6)
+
+0141XXXX
+
+RAI Elective mandatory subject
+
+3 (3-0-6)
+
+0141XXXX
+
+RAI Elective subject
+
+3 (3-0-6)
+
+TOTAL CREDITS
+
+12
+
+4th YEAR 2nd SEMESTER
+CODE
+
+SUBJECT
+
+CREDITS (L-E-S)
+
+0141XXXX
+
+RAI Elective subject
+
+3 (3-0-6)
+
+0141XXXX
+
+RAI Elective subject
+
+3 (3-0-6)
+
+01416702
+
+RAI ENGINEERING CAPSTONE DESIGN
+
+3 (0-9-5)
+
+TOTAL CREDITS
+
+9
+
+35
+
+FOR CO-OP/STUDY ABROAD STUDENTS
+4th YEAR 1st SEMESTER
+CODE
+01006301
+or
+01006302
+
+SUBJECT
+
+CREDITS (L-E-S)
+
+COOPERATIVE EDUCATION
+or
+STUDY ABROAD
+
+6 (0-45-0)
+or
+6 (6-0-12)
+
+TOTAL CREDITS
+
+6
+
+4th YEAR 2nd SEMESTER
+CODE
+
+SUBJECT
+
+CREDITS (L-E-S)
+
+XXXXXXX
+
+(GENED ELECTIVE)
+
+3 (3-0-6)
+
+XXXXXXX
+
+(FREE ELECTIVE)
+
+3 (X-X-X)
+
+0141XXXX
+
+RAI Elective subject
+
+3 (3-0-6)
+
+0141XXXX
+
+RAI Elective subject
+
+3 (3-0-6)
+
+01416702
+
+RAI ENGINEERING CAPSTONE DESIGN
+
+3 (0-9-5)
+
+TOTAL CREDITS
+
+15
+
+Total credits required for graduation at least
+
+3.1.5 Details of Each Subject
+Course description (Appendix C)
+
+131
+
+credits
+
+36
+
+3.2 Name, Surname, ID Number, Position, and Qualification of Instructors
+3.2.1 Executive Program Committees
+Name-Surname
+(Academic Position)
+ID Number
+Assoc. Prof. Dr. Pitikhate Sooraksa
+(Electrical Engineering)
+
+Assoc. Prof. Dr. Chutimet Srinilta
+(Computer Engineering)
+
+Qualification (Department), University,
+Year of Graduation
+
+Academic Achievements
+
+Ph.D. (Electrical Engineering), University of Houston, USA, 1996 1. Research: (Appendix H)
+M.S. (Electrical Engineering), George Washington University, USA,
+- Entertainment Robots
+1993
+2. Textbook
+M.S. (Physics), Srinakharinwirot University, 1991
+- Matrix Analysis
+B.Ed. (Physics) (Hons), Srinakharinwirot University, 1988
+- Differential equation
+- Control System Engineering
+- Chaos Robotic
+3. Teaching obligations
+12 hours/weekly
+Ph.D., (Computer Engineering), Syracuse University, USA, 1998
+M.S. (Computer Engineering), Syracuse University, USA, 1996
+B.Eng. (Electrical Engineering), Kasetsart University, 1990
+
+1. Research (Appendix H)
+- GIS
+- Data Mining
+- Multimedia Systems
+2. Teaching obligations
+15 hours/weekly
+
+37
+
+Asst. Prof. Dr. Panarat
+Cherntanomwong
+(Electrical and Communication
+Engineering)
+
+D.Eng. (International Development Engineering), Tokyo Institute
+of Technology, Japan, 2008
+M.Eng. (Electrical Engineering), King Mongkut’s Institute
+Technology Ladkrabang, 2000
+B.Eng. (Telecommunication Engineering), King Mongkut’s
+Institute Technology Ladkrabang, 1998
+
+1. Research (Appendix H)
+- Wireless Information Networks
+- Localization Based Services
+- Visible Light Communication
+- Mobile Communication
+2. Textbook
+- Radio wave propagation
+3. Teaching obligations
+15 hours/weekly
+
+Asst. Prof. Dr. Rathachai Chawuthai
+(Computer Engineering)
+
+Ph.D. (Informatics), SOKENDAI, Japan, 2016
+M.Eng. (Information Management), Asian Institute of
+Technology, 2012
+B.Eng. (Computer Engineering), King Mongkut's Institute of
+Technology Ladkrabang, 2006
+
+1. Research (Appendix H)
+- Internet of things
+- Data Science
+- User Experience
+2. Teaching obligations
+15 hours/weekly
+
+Dr. Poom Konghuayrob
+(Electrical Engineering)
+
+Ph.D. (Electrical Engineering), King Mongkut's Institute of
+Technology Ladkrabang, 2017
+M.S. (Electrical Engineering), King Mongkut's Institute of
+Technology Ladkrabang, 2013
+B.S. (Electrical Engineering) (Hons), King Mongkut's Institute of
+Technology Ladkrabang, 2012
+
+1. Research (Appendix H)
+- Industrial Robot
+- Automation System
+- Manufacturing Process
+2. Teaching obligations
+15 hours/weekly
+
+38
+
+Dr. Kanoknuch Songsuwankit
+(Electrical Engineering)
+
+Ph.D. (Electrical Engineering), King Mongkut's Institute of
+Technology Ladkrabang, 2018
+M.S. (Electrical Engineering), King Mongkut's Institute of
+Technology Ladkrabang, 2013
+B.S. (Electrical Engineering), King Mongkut's Institute of
+Technology Ladkrabang, 2009
+
+1. Research (Appendix H)
+- Analog Circuit
+- Instrumentation and Measurement
+3. Teaching obligations
+15 hours/weekly
+
+Dr.Weon Keun Song
+(Mechanical Engineering)
+
+Ph.D. (Mechanical Engineering), MSTU, Moscow, Russia, 1998
+M.S. (Mechanical Engineering), MSTU, Moscow, Russia, 1994
+B.S. (Civil Engineering), Yonsei University, Seoul, South Korea,
+1991
+
+1. Research (Appendix H)
+- Non-linear System
+- AI
+2. Teaching obligations
+15 hours/weekly
+
+39
+
+3.2.2 Course instructors
+Name-Surname
+(Academic Position)
+ID Number
+
+Qualification (Department), University,
+Year of Graduation
+
+Academic Achievements
+
+Assoc. Prof. Dr. Somyot Kaitwanidvilai
+(Electrical Engineering)
+
+D.Eng. (Mechatronics Engineering), Asian Institute of Technology, 2005
+M.Eng. (Electrical Engineering), KMITL, 2000
+B.Eng. (Hons), KMITL, 1996
+
+1. Research: (Appendix H)
+-Robotics and Mechatronics
+- Robust and Adaptive Control
+- Neural Network and Fuzzy Logic
+Control
+2. Textbook
+- Control Systems
+3. Teaching obligations
+12 hours/weekly
+
+Asst. Prof. Dr. Rutchanee Gullayanon
+
+Ph.D. (Electrical Engineering), Georgia Institute of Technology, USA,2011
+M.S. (Electrical Engineering), Georgia Institute of Technology, USA, 2003
+B.S. (Computer System Engineering), Rensselaer Polytechnic Institute,
+USA, 2001
+B.S. (Electrical Engineering), Rensselaer Polytechnic Institute, USA, 2001
+
+1. Research: (Appendix H)
+- Mobile Robotics
+- Artificial Intelligent Control
+2. Teaching obligations
+12 hours/weekly
+
+40
+
+Assoc. Prof. Dr. Pitikhate Sooraksa
+(Electrical Engineering)
+
+Ph.D. (Electrical Engineering), University of Houston, USA, 1996
+M.S. (Electrical Engineering), George Washington University, USA, 1993
+B.S. (Physics), Srinakharinwirot University, 1991
+B.Ed. (Physics) (Hons), Srinakharinwirot University, 1988
+
+1. Research: (Appendix H)
+- IT- Automation
+- Industrial Informatics
+2. Textbook
+- Matrix Analysis
+- Differential equation
+- Control System Engineering
+- Chaos Robotic
+3. Teaching obligations
+12 hours/weekly
+
+Assoc. Prof. Dr. Chutimet Srinilta
+(Computer Engineering)
+
+Ph.D., (Computer Engineering), Syracuse University, USA, 1998
+M.S. (Computer Engineering), Syracuse University, USA, 1996
+B.Eng. (Electrical Engineering), Kasetsart University, 1990
+
+1. Research (Appendix H)
+- GIS
+- Data Mining
+- Multimedia Systems
+3. Teaching obligations
+15 hours/weekly
+
+Asst. Prof. Dr. Panarat Cherntanomwong
+(Electrical and Communication
+Engineering)
+
+D.Eng. (International Development Engineering), Tokyo Institute of
+Technology, Japan, 2008
+M.Eng. (Electrical Engineering), King Mongkut’s Institute Technology
+Ladkrabang, 2000
+
+1. Research (Appendix H)
+- Wireless Information Networks
+- Localization Based Services
+- Visible Light Communication
+- Mobile Communication
+2. Textbook
+- Radio wave propagation
+3. Teaching obligations
+15 hours/weekly
+
+B.Eng. (Telecommunication Engineering), King Mongkut’s Institute
+Technology Ladkrabang, 1998
+
+41
+
+Asst. Prof. Dr. Sutheera Puntheeranurak
+(Electrical and Communication
+Engineering)
+
+D.Eng. (Science and Technology), Tokai University, Japan, 2009
+M.Eng. (Electrical Engineering), King Mongkut’s Institute Technology
+Ladkrabang, 1999
+B.S. (Applied Mathematics) (Hons), King Mongkut’s Institute
+Technology Ladkrabang, 1991
+
+1. Research (Appendix H)
+- Data Mining
+- Service Oriented Architecture
+- Software Defined Network
+- Data Analytics
+- Big Data
+3. Teaching obligations
+15 hours/weekly
+
+Asst. Prof. Dr. Akkarit Sangpetch
+
+Ph.D. (Electrical and Computer Engineering), Carnegie Mellon
+University, USA, 2013
+M.S. (Electrical and
+Computer Engineering), Carnegie Mellon University, USA, 2010
+B.S. (Computer Science), Carnegie Mellon University, USA,2005
+
+1. Research (Appendix H)
+- Software-Defined Infrastructure
+- Software & Service Architecture
+- Cloud Computing
+- Distributed Systems
+2. Teaching obligations
+12 hours/weekly
+
+B.S. (Electrical and
+Computer Engineering), Carnegie Mellon University, USA, 2005
+Asst. Prof. Dr. Orathai Sangpetch
+
+Ph.D. (Electrical and Computer Engineering), Carnegie Mellon
+1. Research (Appendix H)
+University, USA, 2013
+- Cloud Computing
+M.S. (Electrical and Computer Engineering), Carnegie Mellon
+- Virtualization
+University, USA, 2010
+- Computer Security
+B.S. (Electrical and Computer Engineering), Carnegie Mellon University,
+- Distributed Systems
+USA, 2005
+- Interactive Visualization
+2. Teaching obligations
+12hours/weekly
+
+42
+
+Asst. Prof. Dr. Ratthachai Chawuthai
+
+Ph.D. (Informatics), SOKENDAI, Japan, 2016
+M.Eng. (Information Management), Asian Institute of Technology, 2012
+B.Eng. (Computer Engineering), King Mongkut's Institute of Technology
+Ladkrabang, 2006
+
+1. Research (Appendix H)
+- Internet of things
+- Data Science
+- User Experience
+2. Teaching obligations
+12hours/weekly
+
+Dr. Poom Konghuayrob
+
+Ph.D. (Electrical Engineering), King Mongkut's Institute of Technology
+Ladkrabang, 2017
+M.S. (Electrical Engineering), King Mongkut's Institute of Technology
+Ladkrabang, 2013
+B.S. (Electrical Engineering) (Hons), King Mongkut's Institute of
+Technology Ladkrabang, 2012
+
+1. Research (Appendix H)
+- Industrial Robot
+- Automation System
+- Manufacturing Process
+2. Teaching obligations
+15 hours/weekly
+
+Dr. Kanoknuch Songsuwankit
+
+Ph.D. (Electrical Engineering), King Mongkut's Institute of Technology
+Ladkrabang, 2018
+M.S. (Electrical Engineering), King Mongkut's Institute of Technology
+Ladkrabang, 2013
+B.S. (Electrical Engineering), King Mongkut's Institute of Technology
+Ladkrabang, 2009
+
+1. Research (Appendix H)
+- Analog Circuit
+- Instrumentation and Measurement
+3. Teaching obligations
+15 hours/weekly
+
+Dr.Weon Keun Song
+
+Ph.D. (Mechanical Engineering), MSTU, Moscow, Russia, 1998
+
+1. Research (Appendix H)
+- Non-linear System
+- AI
+2. Teaching obligations
+15 hours/weekly
+
+M.S. (Mechanical Engineering), MSTU, Moscow, Russia, 1994
+B.S. (Civil Engineering), Yonsei University, Seoul, South Korea, 1991
+
+44
+
+4. Component Regarding Field Experience (Internship or Co-Operative Education)
+Students must participate in the internship or entrepreneurship experience for at least 8 weeks while
+working toward the degree (usually during the summer). This requirement could be satisfied by completing
+internships with an innovative company in public or private sectors ( including Cooperative Education) ,
+participating in research projects with research labs or academic institutions, or working toward the
+entrepreneurship with incubators. The program committee will annually release the policies regarding the
+eligibility and the conditions required to complete the requirement.
+Students who participate in an alternative study program as Co- Operative Education can do a 16- week
+extended internship experience. Interested students should contact the department or the program
+committee regarding the current policies and the requirements. While on the Co- Op assignment, the
+students are participating in a recognized educational program and retain their full-time student status.
+4.1 Standard for Learning Outcome from Field Experience
+4.1.1 Possessing the skills to solve problems related to Robotics and AI
+4.1.2 To be able to work with others as a team with responsibility
+4.1.3 To be able to lead the member of the team appropriately
+4.1.4 To be able to Integrate their knowledge to business solutions that apply the appropriate
+technology and information systems to solutions.
+4.2 Time Period
+Internship: Summer Course of the 1st, 2nd, or 3rd academic year
+Co-Operative Education: the 1st Semester of the 4th academic year
+4.3 Time Management and Scheduling
+8 weeks for Internship or full-time for one semester for Co-Operative Education
+5. Regulations for Special Project or Co-Operative Education
+Students are able to choose between completing preliminary project in Capstone Design Preparation
+course or participate in one of the study-abroad program or co-operative education. All Students must also
+complete RAI capstone design course prior to graduation. Students may extend their works from the cooperative education assignment or from the preparation course for their capstone design projects.
+5.1 Brief Description
+Students will practice open-ended engineering design that incorporates fundamental and advanced
+concepts in Robotics and AI. Students will learn to build innovation, identify the opportunities, propose
+ideas, design and implement innovative solutions while being able to apply standards and realistic
+engineering constraints.
+5.2 Standard for Learning Outcome
+Students are able to analyze, design and develop a project related to Robotics and AI.
+
+45
+
+5.3 Time Period
+The 4th academic year.
+5.4 Credits
+6 Credits
+5.5 Preparation
+The proposal must be proposed with the approval of the program committee.
+5.6 Evaluation Process
+An evaluation is provided by a committee, which consists of instructors in the program by arranging
+an examination in each semester.
+6. Additional Costs
+Students will be responsible for the additional costs apart from tuition fees for all subjects in the
+program.
+
+46
+
+PART 4: LEARNING OUTCOME, TEACHING STRATEGY, AND EVALUATION
+1. Development of Special Characteristics of Students
+Characteristics
+Engineering Quality: RAI students will apply engineering practice,
+combined with the innovative process, to identify and solve significant
+problems across a broad range of applications.
+Innovation: RAI students will adapt the process by which
+technological ideas are generated, developed and transformed into
+new business products, processes, services and solutions that meet
+the demands and establish marketplace advantage.
+Lifelong Learning: RAI students will learn new technologies,
+methodologies, and tools and adapt them to respond to the
+challenges of a changing environment.
+Leadership: RAI students will apply their technical and innovative
+leadership to establish successful careers in their business, profession,
+and community.
+Economic Impact: RAI students will apply their technical expertise,
+leadership, and innovative mindset to support and strengthen the
+society’s economic well-being.
+
+Strategy or Activity of Students
+
+
+
+
+
+
+Arranging for an educating activity to develop learners’ skills by assigning
+operational practices in every Robotics and AI subjects.
+Arranging for a seminar subject, capstone design or cooperative education,
+internship program for Robotics and AI
+Arranging for knowledge exchange activity in the program for both theory and
+practice between instructors and students as well as collaboration projects
+between institutes for internships
+
+
+
+Arranging for an education that promotes students’ self-learning
+
+
+
+Arranging for subjects that allow group works and assign a leader for each group as
+well as having every member participate in a presentation to train students for
+leadership moreover, how to be a good team member.
+Instigating rules for discipline i.e. punctuality for class, attendance and participation
+in the classroom to foster courage in expressing opinions
+
+
+
+
+
+
+
+Arranging for a special lecture by an expert to contribute to research experience
+and societal impact as well as relating laws and infringements
+Arranging for extracurricular activities, i.e., community service.
+
+47
+
+2. Development of Learning Results in Each Aspect
+As the RAI program's developmental objective is to meet ABET stipulated standards, a learning outcome is designed by the ABET Criterion for Student Outcomes
+(a-k) of which aim to prepare graduates to attain program educational objectives.
+Domains
+
+Learning Results
+
+Teaching Strategies
+
+Honesty
+
+Integrating moral and ethics into subject topics
+or teaching and providing a case study topic for
+discussion i.e. news from newspaper,
+television, other media or simulation
+
+Moral and
+Ethics
+
+Strategies for Evaluation
+
+
+Evaluation of work assignment
+
+
+
+Evaluation from Academic references
+
+
+
+Evaluation from student attendance (at least
+80%) according to the Regulation of King
+Mongkut’s Institute of Technology Ladkrabang
+
+Informing class attention rules
+
+
+Discipline
+
+Evaluation from the punctuality of students
+such as work assignment and appointment
+
+Informing the rule for work assignment
+and appointment with an instructor
+
+with an instructor
+
+
+Evaluation of student behavior
+
+Lecture, discussion, operation, seminar, self-
+
+
+
+Evaluation of theoretical examination
+
+study, Educational field trip
+
+
+
+Evaluation of practical examination
+
+To be able to explain
+principle and theory in the
+Knowledge
+
+field of Industrial
+To be able to put theory
+into practice
+
+48
+
+Intellectual
+Skills
+
+To be able to apply
+knowledge of industrial to
+situations with precision
+and appropriateness
+
+Group discussion and participation for scientific
+problem
+Individual assignments
+
+To be able to think and
+Providing a case study for experimental design
+analyze systematically and
+and analyze information leading to integration
+reasonably according to
+with related field
+scientific principles
+
+
+
+Evaluation of the report or oral presentation
+by using standard system
+
+
+
+Evaluation of project presentation
+
+
+
+Behavioral evaluation for systematic thinking
+
+
+
+Evaluation of a report by using the standard
+
+Have a quality of a leader,
+to be able to work with
+Human
+Relation Skills others as a teamwork
+and
+Responsibility Having responsibility for
+individual development
+
+
+
+Work assignment for participation with
+others in appropriate ways
+
+
+
+Work assignment to practice the student
+for systematically comparative relation
+
+regulation such as rubric score
+
+49
+
+Mapping TQF Learning Outcomes and ABET Student Outcomes
+TQF Learning Outcomes
+
+ABET Student Outcomes
+
+1. Moral and Ethics
+
+(8) an understanding of professional and ethical responsibility
+(6) the broad education necessary to understand the impact of engineering solutions in a global, economic,
+environmental, and societal context
+
+2. Knowledge
+
+(1) an ability to apply knowledge of mathematics, science, and engineering
+(3) an ability to design an innovative system, component, or process to meet desired needs within realistic
+constraints such as economic, environmental, social, political, ethical, health and safety, manufacturability, and
+sustainability
+(8) the broad education necessary to understand the impact of engineering solutions in a global, economic,
+environmental, and societal context societal context
+
+3. Intellectual Skills
+
+(2) an ability to design and conduct experiments, as well as to analyze and interpret data
+(5) an ability to identify, formulate, and solve engineering problems
+(9) a recognition of the need for, and an ability to engage in life-long learning
+(10) a knowledge of contemporary issues
+(11) an ability to use the techniques, skills, and modern engineering tools necessary for engineering practice.
+
+4. Human Relation Skills and
+Responsibility
+
+(4) an ability to function on multidisciplinary teams
+(6) an understanding of professional and ethical responsibility
+
+5. Skills for Mathematical Calculation,
+(7) an ability to communicate effectively
+Communication and Information
+(8) an ability to use the techniques, skills, and modern engineering tools necessary for engineering practice.
+Technology Adeptness
+
+50
+3. Curriculum Mapping Illustrating the Distribution of Program Standard Learning Outcomes to Course Level Specialized Course
+
+
+Course
+
+Major Responsibility
+
+
+
+Minor Responsibility
+
+1. Moral and ethics
+
+2. Knowledge
+
+3. Intellectual skills
+
+4. Human relation skills
+and responsibility
+
+5. Skills for mathematical
+calculation,
+communication and
+information technology
+adeptness
+
+1) Perceive the importance of values,
+morals, ethics, self-sacrifice, and
+honesty.
+2) Have discipline, punctuality, and
+self and social responsibility.
+3) Have a team-working skill, be a
+good leader and a good team
+member, and be able to resolve
+conflicts and prioritize the
+problems arising in the team.
+Respect other people’s rights,
+listen to others’ opinions, and
+respect the value and the honor of
+being human.
+4) Can analyze and evaluate the
+impact of using engineering
+knowledge on the individual. Social
+and environmental organizations.
+5) Possess academic and professional
+ethics.
+
+1) Have basic knowledge and
+understanding of mathematics,
+basic science, basic engineering
+and economics to apply with
+relevant engineering jobs and to
+create technological innovation.
+2) Have acquired knowledge and
+understandings of important
+principles and theories of the
+subjects in the engineering field.
+3) Be able to integrate the knowledge
+in their field of study with the
+knowledge in other fields
+4) Be able to analyze problems,
+understand and explain
+computing requirements, as well
+as be able to apply knowledge,
+skills, and the usage of suitable
+tools for solving problems
+5) Be able to use their knowledge and
+skills in the field to solve the
+problem in the actual work.
+
+1) Have a good critical thinking.
+2) Be able to gather, study, analyze,
+and summarize issues and
+requirements.
+3) Be able to analyze and solve
+engineering problems
+systematically. Use decisionmaking information to work
+effectively.
+4) Have the imagination and flexibility
+to adapt the relevant knowledge
+appropriately to create innovation.
+5) Be able to search, interpret, and
+evaluate information for use in
+solving problems creatively.
+
+1) Be able to communicate in English
+with various groups of people
+effectively
+2) Be able to assist and support in
+resolving problematic situations
+both in the role of a leader and in
+the role of a team member
+3) Be able to plan and be responsible
+for developing one own learning
+consistently with the profession.
+4) Know the role and responsibilities
+of the assigned work both
+individual and group work. Be
+able to adapt and collaborate
+effectively with others as leaders
+and followers. Be able to act
+appropriately with responsibility.
+5) Have a sense of responsibility for
+workplace safety and
+environmental preservation.
+
+1) Have acquired skills in utilizing the
+existing tools that are essential in
+computer-related work
+2) Be able to suggest solutions to
+problems using mathematical
+information or suggest the use of
+applied statistics on related
+problems creatively
+3) Be able to communicate effectively
+both in oral form and in written
+form, as well as be able to choose
+appropriate forms of presentation
+media
+4) Be able to utilize information and
+communications
+technology
+appropriately.
+5) Be able to use engineering tools in
+order to pursue a profession in
+robotics and artificial intelligence
+engineering.
+
+51
+1. Moral and ethics
+
+2. Knowledge
+
+3. Intellectual skills
+
+4. Human relation
+skills and
+responsibility
+
+5. Skills for
+mathematical
+calculation,
+communication and
+information
+technology
+adeptness
+
+Course
+
+1
+
+2
+
+3
+
+4
+
+5
+
+1
+
+2
+
+3
+
+4
+
+5
+
+1
+
+2
+
+3
+
+  
+  
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+     
+     
+
+
+ 
+
+
+
+ 
+
+
+
+
+ 
+
+ 
+
+ 
+ 
+
+   
+  
+
+    
+  
+
+
+
+
+ 
+
+ 
+
+4
+
+5
+
+1
+
+2
+
+3
+
+4
+
+5
+
+1
+
+2
+
+3
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+  
+  
+ 
+ 
+ 
+ 
+
+
+
+
+
+
+
+
+4
+
+5
+
+GENED (MATH AND SCIENCE)
+01006719 PROBABILITY AND STATISTICS 1
+01006720 PROBABILITY AND STATISTICS 2
+01006721 NUMERICAL METHODS
+01006727 GENERAL CHEMISTRY
+01006728 GENERAL CHEMISTRY LABORATORY
+01006729 INTRODUCTION TO OPERATIONS
+RESEARCH
+01416801 MATHEMATICS OF DATA SCIENCE AND
+DATA ANALYTIC
+01006713 Mathematical Cryptography
+01006714 Mathematics for 3D Game and
+Computer Graphics
+01006701 Mathematics of Data Science
+
+
+
+
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+ 
+  
+
+
+
+
+
+
+
+
+
+52
+1. Moral and ethics
+
+2. Knowledge
+
+3. Intellectual skills
+
+4. Human relation
+skills and
+responsibility
+
+5. Skills for
+mathematical
+calculation,
+communication and
+information
+technology
+adeptness
+
+Course
+
+1
+
+2
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3
+
+4
+
+5
+
+1
+
+2
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3
+
+4
+
+5
+
+1
+
+2
+
+3
+
+4
+
+5
+
+1
+
+2
+
+3
+
+4
+
+5
+
+1
+
+2
+
+3
+
+4
+
+5
+
+CORE COURSE
+01006710 Introduction to Calculus
+01006711 Advanced Calculus
+01006723 General Physics 1
+01006724 General Physics Laboratory 1
+01006725 General Physics 2
+01006726 General Physics Laboratory 2
+01006803 Engineering Mechanics
+01416310 Strength of Materials
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+  
+
+
+FUNDAMENTAL COURSE
+01416301 Differential Equations and Matrix
+Algebra
+
+
+
+ 
+
+
+
+
+
+53
+1. Moral and ethics
+
+2. Knowledge
+
+3. Intellectual skills
+
+4. Human relation
+skills and
+responsibility
+
+5. Skills for
+mathematical
+calculation,
+communication and
+information
+technology
+adeptness
+
+Course
+
+1
+01416304 Feedback Control
+01416305 Artificial Intelligent Technology
+01416306 Safety and Standardization in RAI
+01416308 Kinematics and Dynamics
+01416309 Engineering 3D Drawing
+01416312 Electric Circuit and Electronics
+01416315 Industrial Electronics
+01416316 Computer Programming for RAI
+01416318 Microprocessor and Interface
+01416319 Manufacturing Process
+01416320 Introduction to Robotics and AI
+01416514 Robotics Laboratory 1
+01416515 Robotics Laboratory 2
+
+2
+
+3
+
+4
+
+5
+
+
+
+
+ 
+
+
+ 
+  
+
+
+
+
+
+
+    
+ 
+
+
+
+
+1
+
+2
+
+3
+
+  
+  
+ 
+  
+ 
+  
+ 
+ 
+ 
+  
+  
+ 
+ 
+
+4
+
+5
+
+1
+
+ 
+  
+
+  
+
+
+
+
+ 
+
+ 
+  
+
+
+
+2
+
+3
+
+4
+
+5
+
+   
+  
+
+
+   
+
+ 
+
+
+
+
+   
+
+
+ 
+ 
+
+1
+
+2
+
+3
+
+4
+
+5
+
+
+    
+ 
+
+
+
+
+
+
+ 
+
+
+
+
+
+1
+
+2
+
+3
+
+4
+
+5
+
+  
+  
+
+
+
+
+  
+  
+  
+  
+
+
+  
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+
+
+
+54
+1. Moral and ethics
+
+2. Knowledge
+
+3. Intellectual skills
+
+4. Human relation
+skills and
+responsibility
+
+5. Skills for
+mathematical
+calculation,
+communication and
+information
+technology
+adeptness
+
+Course
+
+1
+
+2
+
+01416401 Thermodynamics
+01416403 Dynamic of Machinery
+01416404 Mechanical Design and Modeling
+01416406 Measurement and Instrumentation for
+Mechatronics
+01416408 Computer Aid Mechanical Design
+01416409 Fluid Mechanics
+
+4
+
+5
+
+
+
+01416516 Robotics Laboratory 3
+CAPSTONE PROJECTS
+01416701 RAI Engineering Capstone Design
+Preparation
+01416702 RAI Engineering Capstone Design
+RAI Elective Mandatory Subjects
+
+3
+
+1
+
+2
+
+3
+
+ 
+
+4
+
+5
+
+1
+
+2
+
+
+
+3
+
+4
+
+5
+
+ 
+
+1
+
+2
+
+3
+
+4
+
+5
+
+
+
+1
+
+2
+
+3
+
+4
+
+  
+
+5
+
+
+                        
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+           
+           
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+55
+1. Moral and ethics
+
+2. Knowledge
+
+3. Intellectual skills
+
+4. Human relation
+skills and
+responsibility
+
+5. Skills for
+mathematical
+calculation,
+communication and
+information
+technology
+adeptness
+
+Course
+
+1
+01416413 Introduction to Nanotechnology and
+Nanoscience
+01416414 Introduction to MEMS
+01416415 Introduction to Data Science
+01416416 Information Systems, Databases and
+Application
+01416417 Deep Learning Application
+01416500 Computer Visions
+01416503 Designing Computer Vision Application
+01416504 Machine Learning in Practice
+01416505 Internet of Things and Smart Robotics
+and AI Systems
+01416507 Preparation and Cognitive Robots
+01416509 System Engineering
+
+2
+
+3
+
+4
+
+5
+
+1
+
+2
+
+3
+
+4
+
+5
+
+1
+
+2
+
+3
+
+4
+
+5
+
+1
+
+2
+
+3
+
+4
+
+5
+
+1
+
+2
+
+3
+
+4
+
+5
+
+
+
+         
+
+
+
+    
+
+
+
+
+
+         
+         
+         
+
+
+
+
+
+    
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+         
+         
+
+
+
+
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+56
+1. Moral and ethics
+
+2. Knowledge
+
+3. Intellectual skills
+
+4. Human relation
+skills and
+responsibility
+
+5. Skills for
+mathematical
+calculation,
+communication and
+information
+technology
+adeptness
+
+Course
+
+1
+
+2
+
+3
+
+5
+
+1
+
+2
+
+3
+
+4
+
+5
+
+1
+
+2
+
+3
+
+4
+
+5
+
+
+01416511 Mobile Robots
+
+01416512 Planning Technique in Robotics
+
+01416518 Industrial Automation
+
+01416519 Modern Control
+
+01416520 Vision System for Mobile Robotics
+
+01416521 Introduction to Algorithms
+
+01416528 Communication Network
+
+09106551 Capstone Design Preparation for Smart     
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+01416510 Human Robot Interactions
+
+Materials
+01006718 Discrete Mathematics
+
+4
+
+
+
+ 
+
+
+
+ 
+
+ 
+
+   
+
+1
+
+2
+
+3
+
+4
+
+5
+
+1
+
+2
+
+3
+
+4
+
+5
+
+
+
+
+
+
+
+
+
+   
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+RAI Elective Subjects
+01416601 Mechanical System and Laboratory
+
+ 
+
+      
+
+57
+1. Moral and ethics
+
+2. Knowledge
+
+3. Intellectual skills
+
+4. Human relation
+skills and
+responsibility
+
+5. Skills for
+mathematical
+calculation,
+communication and
+information
+technology
+adeptness
+
+Course
+
+1
+
+2
+
+3
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+01416602 Embedded System Development
+01416604 Mechanical Vibrations
+01416607 Startup Engineering
+01416608 Data Visualization
+01416609 Cognitive Computing Applications
+01416610 Software-defined Data Center
+01416611 Wireless Sensor Network
+01416612 Information Security Management
+01416613 Fundamentals of AR, VR and Mixed
+Reality
+01416614 Advanced Computer Programming for
+RAI
+01416615 Cyber Physical Robotics
+01416616 Mobile Application Development
+
+4
+
+5
+
+1
+
+2
+
+  
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3
+
+4
+
+3
+
+4
+
+5
+
+1
+
+2
+
+3
+
+4
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+ 
+ 
+ 
+
+
+
+
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+
+
+ 
+ 
+ 
+ 
+
+          
+
+
+
+
+
+
+
+ 
+ 
+
+
+
+ 
+
+ 
+
+5
+
+1
+
+2
+
+3
+
+   
+
+   
+   
+   
+   
+   
+
+
+  
+
+4
+
+5
+
+1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2
+
+  
+
+  
+
+  
+ 
+
+              
+         
+
+
+5
+
+
+
+  
+
+    
+
+58
+1. Moral and ethics
+
+2. Knowledge
+
+3. Intellectual skills
+
+4. Human relation
+skills and
+responsibility
+
+5. Skills for
+mathematical
+calculation,
+communication and
+information
+technology
+adeptness
+
+Course
+
+1
+01416617 Pneumatic and Hydraulic System
+Design and Control
+01416618 Advanced Artificial Intelligent
+Technology
+01416619 User Experience and User Interface
+Design
+01416620 Blockchain Technology and
+Application
+01416621 Lean Management
+01416522 Big Data
+01416523 IT Project Management
+01416628 Experience and Exercise for Intelligent
+Control System
+01416629 Infromation and Cyber Security
+
+2
+
+3
+
+4
+
+5
+
+1
+
+2
+
+3
+
+4
+
+5
+
+1
+
+2
+
+3
+
+4
+
+5
+
+1
+
+2
+
+3
+
+4
+
+5
+
+1
+
+2
+
+3
+
+4
+
+5
+
+  
+
+  
+
+       
+
+       
+
+  
+
+  
+
+       
+
+       
+
+ 
+  
+
+
+
+
+
+
+
+
+
+
+     
+  
+
+
+
+
+
+  
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+  
+
+ 
+
+
+
+
+
+    
+  
+
+    
+    
+
+ 
+    
+
+ 
+
+ 
+ 
+
+ 
+
+  
+
+     
+ 
+
+
+
+
+
+
+
+  
+
+      
+      
+
+  
+      
+
+ 
+
+  
+
+59
+1. Moral and ethics
+
+2. Knowledge
+
+3. Intellectual skills
+
+4. Human relation
+skills and
+responsibility
+
+5. Skills for
+mathematical
+calculation,
+communication and
+information
+technology
+adeptness
+
+Course
+
+1
+01416630 Information System Security and IT
+Law
+01416631 Robotics and AI Experience
+01416632 Space Science
+01416633 REINFORCEMENT LEARNING
+01416634 INTRODUCTION TO PROMPT ENGINERRING
+01416635 ADVANCED TECHNIQUES IN ChatGPT
+CUSTOMIZATION AND APPLICATION
+
+01006006 Industrial Experience for Engineers
+09106400 Materials Investigation
+09106401 Photonics
+09106402 Smart Material for Energy Storage
+09106403 Light Emitting Devices and Display
+Technology
+
+2
+
+3
+
+4
+
+  
+
+5
+
+1
+
+2
+
+3
+
+  
+
+4
+
+5
+
+1
+
+2
+
+3
+
+4
+
+5
+
+1
+
+       
+
+2
+
+3
+
+4
+
+5
+
+1
+
+2
+
+3
+
+4
+
+5
+
+       
+
+                        
+  
+  
+       
+       
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+           
+
+ 
+   
+
+ 
+   
+
+ 
+   
+
+ 
+   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+         
+
+ 
+   
+
+ 
+   
+
+ 
+   
+
+ 
+   
+
+
+
+
+
+
+
+60
+1. Moral and ethics
+
+2. Knowledge
+
+3. Intellectual skills
+
+4. Human relation
+skills and
+responsibility
+
+5. Skills for
+mathematical
+calculation,
+communication and
+information
+technology
+adeptness
+
+Course
+
+1
+09106404 Solar Cell and Nanostructure
+Photovoltaic
+09106405 LAB-ON-CHIP Technology
+09106406 Microelectromechanical System
+09106407 Chemistry
+Alternative Study Courses
+01006301 Cooperative Education
+01006302 Study Abroad
+Industrial Internship
+01006805 Industrial Internship
+Total
+
+2
+
+3
+
+4
+
+5
+
+1
+
+2
+
+3
+
+4
+
+5
+
+1
+
+2
+
+3
+
+4
+
+5
+
+1
+
+2
+
+3
+
+4
+
+5
+
+1
+
+2
+
+3
+
+4
+
+5
+
+  
+
+  
+
+      
+
+ 
+
+    
+
+
+
+
+
+ 
+ 
+ 
+
+      
+      
+      
+
+ 
+ 
+ 
+
+    
+    
+    
+
+                        
+                        
+● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ●
+● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ●
+
+61
+
+PART5: CRITERIA FOR STUDENT EVALUATION
+1. Regulations or Criteria for Grading
+Regulations or criteria for grading are in accordance with the Regulations of King Mongkut’ s Institute of
+Technology Ladkrabang regarding Bachelor’s Degree Education 2016 (Appendix A).
+2. Verification of Learning Achievement
+2.1 Verification of Learning Achievement before Graduation
+Program committee assigned a responsible figure for the verification of learning achievement
+according to the standard for every subject. Instructors of the program are obligated to verify the
+learning achievement of students with the following roles:
+- Verify teaching- learning procedure, i. e. lesson plan evaluation; exam/ test evaluation;
+report evaluation; and student behavior evaluation.
+- Verify the learning achievement according to the program objectives and outcomes.
+- Report the verification of the learning achievement to the program committee.
+Program committee takes theresponsible figure for the verification of learning
+achievement at the curriculum level with the following roles:
+- Verify employment status of graduates working directly in the field.
+- Have verification from the stakeholders.
+- Have verification from another university.
+2.2 Verification of Learning Achievement after Graduation
+To the purpose of improving educational and curricular development, the following
+assessments are in place:
+- Survey stakeholder’ satisfaction.
+- Assessed by the graduate user.
+- Award or commendation the graduates receive in the aspects of ethics, knowledge,
+occupational or professional skill and life skills.
+3. Criteria for Graduation According to the Program
+Students must complete at least 131 credits to graduate with at least 30 credits from general education
+courses; at least 95 credits from Robotics and AI concentration and at least 6 credits of free electives and
+English proficiency level prior to the graduation. Students must also complete the internship requirement
+during their courses of study. Also, graduation according to the program is accordance with the Regulations
+of King Mongkut’s Institute of Technology Ladkrabang regarding Bachelor Degree Education 2016 (Appendix
+A).
+
+62
+
+PART 6: DEVELOPMENT OF INSTRUCTORS
+1. Preparation for New Instructors
+1.1 Orientation for new instructors regarding roles and responsibilities of instructors, regulations
+according to the programs and arrangement for teaching and education,and so on.
+1.2 Support provisions through counseling, teaching techniques, and practical advice particularly
+concerning teaching and learning approaches.
+1.3 Support instructors to participate in academic conferences regarding teaching and education and
+augmentation of knowledge.
+1.4 Academic support provisions through workshops and training both domestically and abroad in the
+fields of responsibility.
+2. Development of Knowledge and Skills for Instructors
+2.1 Development of Skills for Teaching and Education, Assessment, and Evaluation
+a. Arranging an academic meeting regarding teaching and education, assessment and evaluation.
+b. Supporting instructors to participate in academic conferences, lectures, and seminars regarding
+teaching and education, assessment and evaluation
+c. Arranging a venue for instructors to exchange knowledge regarding teaching techniques,
+assessment, and evaluation.
+d. Supporting the budget for the development of professional, education, and research regarding
+teaching techniques, assessment, and evaluation, and so on.
+2.2 Development of Academic and Other Professions
+a. Arranging an academic and professional meeting for instructors.
+b. Supporting both domesticallyand internationally for instructors to participate in academic
+conferences, lectures, andseminars regarding the development of academic and other
+professions.
+c. Arranging for an exchange of instructors with both domestic and international institutes to
+increase the capability of instructors in both teaching and researching.
+
+63
+
+PART 7: QUALITY ASSURANCE OF THE PROGRAM
+1. Standardization
+The curriculum management is by the qualified and standardized program according to the qualification
+standard of higher education as well as the ABET Accreditation throughout the duration of administration
+of the program.
+1.1 Executive program committee: there are no fewer than 5 persons who have either a direct
+qualification or a related field of study. Their qualification is minimum as Master Degree or equivalent,
+or academic positions no lower than Assistant Professor. Moreover, they have at least one academic
+results published by the criteria established for the academic position in the past 5 years.
+1.2 Course Instructor: they have direct or indirect qualification Minimum Master Degree or equivalent,
+or academic position no lower than Assistant Professor. Moreover, they have at least one academic
+results published by the criteria established for an academic position in the past 5 years.
+1.3 The curriculum is updated at least every 5 years by considering the opinions of new graduates,
+alumni, industrial advisory board, employer, and other stakeholders.
+2. Graduate
+2.1 There is an assessment of the quality of graduates according to the framework of national
+qualifications as well as the ABET Accreditation.
+2.2 There is a survey of graduates who get a job or freelance job within 1 year from the date of
+graduation.
+2.3 There is a survey of alumni who get a job or freelance job after graduation at least 5 years
+3. Student
+3.1 There is appropriate student admissions process by defining the criteria and
+qualifications for the students by the curriculum. Moreover,there is preparation course to
+ensure that students are ready for their studies and to be able to complete theireducation
+for the duration of the program.
+3.2 The activities are organized to develop students' knowledge, abilities and potential in various ways
+to support 21st-century learning skills.
+3.3 A consultant, who is appointed for academic counseling and guidance to all students, must
+schedule an appointment (Office Hours) for the student to consult.
+3.4 There is student complaints management system, and the satisfaction rating of complaint
+management result are evaluated.
+
+64
+4. Instructor
+4.1 There is a system for accepting new Instructors by university regulations. The English proficiency
+test is required according to the university criteria. It is in line with the announcement of the Higher
+Education Commission on English Proficiency Standards of Faculty Members.
+4.2 There is a management system for promoting and developing teachers appropriate and consistent
+with the university's vision and policy
+4.3 There is a system of teacher quality development to have professors in the field of teaching.
+5. Curriculum, Teaching, and Assessment of Learners
+5.1 There is a process of designing/ updating curriculums and courses for advanced content to meet
+academic/professional standards In line with the needs of the labor market and the National Economic
+and Social Development Plan.
+5.2 There is an integrated teaching and learning approach to research.
+5.3 Instructors are assigned in each course have the knowledge, ability, and expertise in the course.
+Moreover,there is a system to monitor the preparation of learning plans and teaching and learning
+management.
+6. Educational Resources
+6.1 Budget management
+a. Surveying the need and sufficiency of educational resources.
+b. Instigating a plan for educational resources management.
+c. Allowing budget for durable articles, equipment, and learning resources as well as creating
+educational media.
+d. Following and evaluating educational resources management and using the evaluation results
+for improvement and development of effective educational resources.
+6.2 Existing Educational Resources
+The Faculty has the readiness of location, classrooms, and laboratories in support of adequate
+education and teaching. For the institutional level, there is the central library of the institute that
+provides services for books, textbooks, journals, printing articles, and visual media as well as being a
+member for journals and specific information sources so that students and instructors can effectively
+search for academic works. Details for supporting educational resources can be found in Appendix E.
+6.3 Additional Provision of Educational Resources
+Supply department purchases additional resources according to purchasing plan.
+
+65
+6.4 Evaluation of Resource Sufficiency
+Objective
+
+Operation
+
+Evaluation
+
+1. The Faculty surveys the needs
+for educational resources
+
+Having educational resources
+sufficient to the needs
+
+2. The Faculty provides an annual
+budget for the provision of
+textbooks, educational media,
+audiovisual equipment, durable
+articles, computers,etc.
+3. Procuring educational resources
+to satisfy the need as proper to
+each program
+
+Evaluation of sufficiency
+for durable articles, equipment,
+books and educational
+document by students and
+instructors
+
+7. Key Performance Indicators
+Academic Year
+
+Indicator and Objective
+1. At least 80% of the executive program committee of the program
+participate in the meeting for planning, following and revising the
+operation of the program
+2. Having the details of the program consistent with the national or
+international standard of qualification for the program
+3. Having the course syllabus and details of each offered subject and
+planned activities ( if any) at least before the opening of each semester
+for all subjects
+4. Filing program review and report for the operation of each subject and
+field experience (if any) within 30 days after the end of the semester for
+all subjects
+5. Filing report of the operation of the program according to SSRwithin 6 0
+days after the end of the academic year
+6. Having verification of learning achievement at least 2 5 % of the subjects
+open in each academic year
+7. Having development/ revision of the education, teaching strategies or
+evaluation of learning from the result of the assessment of operation
+reported in the SSR of the previous year
+
+2020
+
+2021
+
+2022
+
+2023
+
+2024
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+66
+Academic Year
+
+Indicator and Objective
+8. All new instructors (if any) participate in an orientation and receive advice
+for teaching management
+9. Every permanent instructor receives academic and/ or professional
+development at least once a year
+10. Supporting staffs ( if any) receive academic and/ or professional
+development no less than 50% of the total number
+11. The average satisfaction level of the final year students/ fresh graduates
+for the quality of the program is used to improve the program.
+12. The average satisfaction level of the stakeholders is used to improve the
+program
+
+2020
+
+2021
+
+2022
+
+2023
+
+2024
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Total indicators affecting the operation (no.1-5) for each year
+
+5
+
+5
+
+5
+
+5
+
+5
+
+Total indicators (unit) for each year
+
+9
+
+10
+
+10
+
+11
+
+12
+
+Evaluation Criteria
+The program achieving standards according to the quality framework must pass the following criteria:
+key performance indicators ( no. 1- 5) , having the results of achieving objectives and having indicators that
+include the results of archiving objectives no less than 80% of the entire indicators by considering the
+number of mandatory indicators and total indicators in each year.
+Academic Year
+
+Program Achieving Standard According to the Quality
+Framework
+
+2021
+
+Achieving mandatory indicators no.1-5
+total indicators of 10
+total indicators of 10
+
+2022
+
+total indicators of 10
+
+2023
+
+total indicators of 11
+
+2024
+
+total indicators of 12
+
+2020
+
+67
+
+PART 8: EVALUATION AND IMPROVEMENT OF THE OPERATION OF THE PROGRAM
+1. Assessment of the Effectiveness of the Teaching
+1.1 Evaluation of Teaching Strategies
+a. Teaching instructor evaluates the teaching strategies according to the assigned plan.
+b. Teaching instructor analyzes the result of the students’ evaluation of instructor’ s teaching
+strategies.
+c. Teaching instructor or the person responsible for the subject utilizes the result of the
+assessment for the revision and improvement of teaching strategies.
+d. Teaching instructor evaluates course outcome as follow in the program curriculum.
+1.2 Evaluation of the Instructor’s Skills in Devising Teaching Strategies
+Having an assessment of the instructor’ s skills in devising teaching strategies by students. The
+results of the evaluation will be used for the improvement of aforementioned skills of instructors.
+2. Evaluation of the Program as a Whole Picture
+The executive program committees evaluate the program as a whole picture when the teaching ends
+in each academic year by collecting information from students and graduates, employers and/ or
+stakeholders, experts, industrial advisory boards or external evaluators.
+3. Evaluation of the Operation According to the Details of the Program
+Having quality assurance system and provision of education according to the standard framework of
+qualification for higher education as well as ABET Accreditation by having key performance indicators and
+assessment criteria assigned by the Internal QA committee.
+4. Revision of the Evaluation and Improvement Plan
+The executive program committees utilize the results of analysis and revision to create an improvement
+plan for the program so that its quality archives the required standards and discuss with the instructor.
+
+94
+
+APPENDIX C
+Course Description
+
+95
+COURSE DESCRIPTION
+1. GENERAL EDUCATION
+1.1 ENGLISH PROFICIENCY REQUIREMENT (ESL)
+01416000
+
+ACADEMIC LISTENING AND SPEAKING
+3 (3-0-6)
+PREREQUISITE: NONE
+The course provides ESL students guidance and extensive practice in listening and speaking
+in academic and professional settings. Listening focuses on understanding spoken English in formats such
+as college lectures and news broadcasts. Note- taking tasks are also included to reinforce aural
+comprehension. Students learn to recognize organizational patterns. Students also practice outlining main
+ideas and supporting details through audiotaped, videotaped and live presentations. Speaking focuses on
+increased fluency and communicative strategies used by native speakers in academic and professional
+settings.
+01416001
+
+ACADEMIC READING AND WRITING
+3 (3-0-6)
+PREREQUISITE: NONE
+This course is designed to improve the reading and writing skills of ESL students. Students
+receive practice on reading and vocabulary development. Reading practice will emphasize paraphrasing,
+summarizing, and the simple analysis of texts to identify main ideas and distinguish fact from opinion. Writing
+practice includes writing of simple and compound sentences, using compound tenses and correct word
+forms, word order, spelling, and punctuation. Students will also develop the ability to write varied, complex
+sentences and effective paragraphs in standard written English.
+01006003
+
+INTERPRETATION AND ARGUMENTS
+3 (3-0-6)
+PREREQUISITE: NONE
+This course provides the study of interpreting and analyzing written and visual arguments.
+Students will learn to identify the underlying values, definitions, and assumptions in those arguments. The
+students also learn how to synthesize a multiplicity of competing perspectives, and to articulate
+fundamental disagreements between those perspectives. Ultimately, students will advance their
+contributions to discussions in engineering, business innovations, and technology studies.
+1.2 COMMUNICATION, HUMANITY AND SOCIAL SKILLS
+01006502
+
+PROFESSIONAL ETHICS
+3 (3-0-6)
+PREREQUISITE: NONE
+This course introduces the theory and the practice of professional and engineering ethics,
+including code of conducts and regulations in academic, professional and technical fields. Students also
+learn about different approaches to ethical problems and examine real- life case studies, drawn from a
+
+96
+variety of professional contexts. This course helps students develop skills and knowledge to manage and
+engage with ethical issues in their working lives.
+01006503
+
+INTRODUCTION TO PSYCHOLOGY
+3 (3-0-6)
+PREREQUISITE: NONE
+This course introduces a broad survey of psychological science including: sensation and
+perception; learning, memory, intelligence, language, and cognition; emotions and motivation;
+development, personality, health and illness, and social behavior. Students will study and discuss relations
+between the brain, behavior, and experience as well as learning the process of discovering new ideas and
+empirical results in the field.
+01006504
+
+PHILOSOPHY OF SCIENCE
+3 (3-0-6)
+PREREQUISITE: NONE
+The course provides a study of the thing we call “ science” , together with its nature and
+methodology. The topics cover the meaning of science, reality, the nature of scientific observations,
+scientific theories and their discovery and formation, scientific explanations and predictions, the problem
+of induction, scientific rationality, the nature of scientific knowledge, concepts of truth, hypothesis testing,
+hypothesis confirmation, hypothesis falsification, logic of scientific method, and scientific progress.
+01006505
+
+CREATIVE THINKING
+3 (3-0-6)
+PREREQUISITE: NONE
+This course explores approaches to " How might we proceed when confronted by
+problems, situations too ambiguous, complex, or messy or impossible to be addressed directly through
+logical strategies?" It seeks to increase the participants' understanding of creativity, to improve their creative
+problem- solving skills and to enhance their ability to promote these skills in others, in a variety of
+educational settings. Students participate in activities designed to help develop their own creativity, and
+discuss the creative process from various theoretical perspectives. Readings are on such topics as creative
+individuals, environments that tend to enhance creative functioning, and related educational issues.
+Discussions with artists, scientists and others particularly involved in the creative process focus on their
+techniques, and on ways in which creativity can be nurtured.
+01006506
+
+CRITICAL THINKING
+3 (3-0-6)
+PREREQUISITE: NONE
+This course explores issues about the nature and techniques of critical thought, viewed as
+a way to establish a reliable basis for our claims, beliefs, and attitudes about the world. We explore multiple
+perspectives, placing established facts, theories, and practices in tension with alternatives to see how things
+could be otherwise. Views about observation and interpretation, reasoning and inference, valuing and
+judging, and the production of knowledge in its social context are considered. Special attention is given to
+
+97
+translating what is learned into strategies, materials, and interventions for use in students' own educational
+and professional settings.
+01006507
+
+PERSONAL ECONOMICS
+3 (3-0-6)
+PREREQUISITE: NONE
+This course introduces students to the concept of personal economics. Students will learn
+to apply the economic way of thinking to manage their scarce resources. Employs economic concepts to
+understand: financial planning and income management; saving and investing; stocks, bonds, and mutual
+funds; risk-return tradeoff and diversification; interest rates and credit.
+01006508
+
+DIGITAL ECONOMY
+3 (3-0-6)
+PREREQUISITE: NONE
+This course will develop and utilize economic principles to better understand and explain
+the expansion and integration of information and communications technologies into the global economies.
+It will provide an introduction to concepts and theories useful in analyzing economic aspects of the digital
+and information technology revolutions.
+01006509
+
+ENGINEERING AND PUBLIC POLICY
+3 (3-0-6)
+PREREQUISITE: NONE
+This course examines the processes of public and private decision making which affects
+the evolution of a technology. While technology has an important role in shaping today’s society, the social
+forces often plays a central role in the evolution of a technology. This course will study an engineeringrelated technology and its related policies. Students will discuss the technological and institutional issues,
+their interaction, the possible need for public policy and the factors that govern the policy.
+01006510
+
+INTRODUCTION TO ECONOMICS
+3 (3-0-6)
+PREREQUISITE: NONE
+This course gives an overview of economics, covering basic concepts and theories of
+microeconomics and macroeconomics. Topics in microeconomics studied include demand and supply,
+price elasticities, consumer behavior theory, production and cost theory, and perfect and imperfect
+competitions. Macroeconomics topics studied include aggregate demand and supply, macroeconomic data
+(e.g. gross domestic product, national income, etc.), management of economic growth, inflation problems,
+unemployment problems, money and banking systems, fiscal and monetary policy, taxation, international
+trades, and exchange rates.
+01006511
+
+THAI SOCIETY AND CULTURE
+PREREQUISITE: NONE
+
+3 (3-0-6)
+
+98
+This course covers a study of Thai social identity and culture, development and inheritance
+of Thai culture, evolution of Thai society, as well as relation of Thai society and culture to societies and
+cultures of other countries.
+01006512
+
+ASIAN STUDY
+3 (3-0-6)
+PREREQUISITE: NONE
+This course covers a study of an Asian country’s language, social identity and culture. The
+course will discuss development and evolution of an Asian country, their economic prospect, cultural
+settings, societies and relations to the society and cultures of other countries.
+01006514
+
+INNOVATIVE COMMUNICATION
+4 (4-0-8)
+PREREQUISITE: NONE
+This course provides the study and practice of different communication skills including technical,
+professional and creative writing; infographics design; and delivering presentation. The students will study
+relevant techniques and learn to combine a range of skillsin order to effectively communicating technical
+or specialized concepts. They will be able to explore and translate the benefit, the uniqueness, and the
+credibility of innovative ideas to a target audience.
+01006515
+
+DESIGN METHODS FOR INNOVATIONS
+4 (4-0-8)
+PREREQUISITE: NONE
+This course consists of structural design process to create innovative products or services. The students will
+study the process to gather trends and information such as global direction, public opinions, technology,
+business, society and economic; learn how to extract context of interested area to find opportunities; study
+the processes used to gather behaviors, generate intense understanding about areas that lead to innovative
+concepts, produce innovative solutions and finally offering innovative products and services.
+01006516
+
+INNOVATION MANAGEMENT
+4 (4-0-8)
+PREREQUISITE: NONE
+This course introduces students to the concepts of innovative thinking and innovation management
+practices. This course prepares students with the insights and instruction necessary to successfully lead
+worldwide enterprises or local ventures. Covered topics include organization, strategy planning, policy
+development, communities, research and development and product management. Students are exposed
+to issues that challenged real- world organizations. Students will learn best practices used by engineering
+leaders who successfully develop commercially viable products and services, create efficient operating
+processes, manage profitable organizations, and transform companies into industry leaders.
+01006517
+
+LEAN STARTUP AND AGILE BUSSINESS
+PREREQUISITE: NONE
+
+4 (4-0-8)
+
+99
+This course covers the basic principles of lean startup and agile business practice. Students will learn how
+to create an innovation accounting system to build products that meets customer demands; find the easiest
+and fastest ways to build minimum viable products to reduce time-to-market; learn tactics for improvement
+and measure customers’ needs such as experimenting landing pages, A/ B tests, MVPs on real customers;
+study how to implement an agile culture in business environments and learn how to develop business
+structures in order to keep the business functioning on constantly-moving units.
+01006518
+
+EMERGING TRENDS IN ENGINEERING
+1 (1-0-2)
+PREREQUISITE: NONE
+This course consists of a series of lectures given by different faculty members and distinguished
+speakers from the academic and industries. The lectures are designed to provide students a good
+understanding of each curriculum structure and the courses in each subject areas. Students will be
+introduced to emerging trends in Engineering and the relevance of our courses. New courses and research
+opportunities will be presented, including the faculty's research fields. The course also discusses basic
+learning and working ethics and prepares students career-making skills. Pass/Fail, required to graduate.
+
+01006519
+
+INTRODUCTION TO ENVIRONMENTAL PRINCIPLES
+3 (3-0-6)
+PREREQUISITE: NONE
+This course provides students general principles of environmental engineering and science.
+Basics of the physical processes involved in the interactions between water, soil, climate, and vegetation.
+Natural and human activity as it impacts the environment, weather and climate, pollution.
+01006520
+
+LEADERSHIP AND PERSONAL DEVELOPMENT
+3 (3-0-6)
+PREREQUISITE: NONE
+This course provides students fundamental skills for success in careers and team
+environments. The course will cover topics such as goal setting, career Skills, leadership skills, teamwork,
+effective communication, and public speaking. Learning methods will consist of hands on activities and
+projects, group work, lecture, discussion, reading, writing, and presenting.
+01006521
+
+MEDITATION FOR LIFE DEVELOPMENT
+3 (3-0-6)
+PREREQUISITE: NONE
+This course introduces theory and practice of meditation including : meaning of meditation,
+objectives, methods, the beginning, process characteristics of reciting and meditating, benefits of meditation,
+meditation resistances and applying meditation in daily life, meditation as related to education and working
+purposes, objectives, methods, characteristics of the states of absorption (jhana) and insight knowledge
+(Nana), fundamental knowledge about insight meditation (Vipassana), differences between foundation
+meditation (Summata) and insight meditation (Vipassana), layout of foundation meditation (Summata) and
+insight meditation (Vipassana), insight mediation as related to world population.
+
+100
+01006522
+
+ENGLISH FOR SCIENCE AND TECHNOLOGY
+3 (3-0-6)
+PREREQUISITE: NONE
+This course will help students improve their critical thinking/analytical skills through a
+combination of reading articles, listening to lectures, and watching audiovisual programs on current hot
+topics in science and technology. Students will have directed practice in various areas of pronunciation,
+such as stress, intonation, reductions (i.e., informal speech), linking, consonant and vowel production,
+rhythm, and pitch. This course will help participants improve their oral presentation skills through an
+intercultural scientific/technological research project. This course is designed to inspire students to realize
+the power of R & D (i.e., research and development) in science and technology through studying
+distinguished entrepreneurs.
+1.3 MATH AND SCIENCE
+01006719
+
+PROBABILITY AND STATISTICS 1
+3 (3-0-6)
+PREREQUISITE: NONE
+Combinatorial analysis, axioms of probability, conditional probability and independence,
+random variables, discrete random variables and probability distributions, continuous random variables
+and probability distributions, joint probability distributions and random samples, point estimation,
+statistical interval based on a single sample.
+01006720
+
+PROBABILITY AND STATISTICS 2
+3 (3-0-6)
+PREREQUISITE: 01006719 PROBABILITY AND STATISTICS 1
+Test of hypotheses based on a single sample, inferences based on two samples, analysis of
+variance, multifactor analysis of variance, simple linear regression and correlation, nonlinear and multiple
+regression, goodness-of-fit tests and categorical data analysis.
+
+01006721
+
+NUMERICAL METHODS
+3 (3-0-6)
+PREREQUISITE: 01006717 Differential Equations or Equivalent
+Error analysis, methods of root findings, curve fitting, interpolation, Newton-Cotes integration
+formulas, integration of equations, numerical differentiation, Runge- Kutta methods, stiffness and multistep
+methods, boundary value and eigenvalue problem.
+
+01006727
+
+GENERAL CHEMISTRY
+3 (3-0-6)
+PREREQUISITE: NONE
+This course provides a study of fundamental principles of chemistry and its applications.
+The subject matter includes principles of atomic structure, intermolecular forces and bonding, chemical
+reactions, kinetics, thermodynamics, and equilibrium. Relevant examples will be drawn from such areas as
+environmental, materials, and biological chemistry.
+
+101
+01006728
+
+GENERAL CHEMISTRY LABORATORY
+1 (0-3-2)
+PREREQUISITE: NONE
+The experiments that correspond to the subject in 01006726 General Chemistry
+
+01006729
+
+INTRODUCTION TO OPERATIONS RESEARCH
+3 (3-0-6)
+PREREQUISITE: NONE
+Analysis and planning of complex systems, Mathematical modelling to model formulation,
+Linear and Integer Programming techniques. Skills to build their own formulations, to expand existing
+formulations, to critically evaluate the impact of model assumptions and to choose an appropriate solution
+technique for a given formulation.
+01416801
+
+MATHEMATICS OF DATA SCIENCE AND DATA ANALYTIC
+3 (3-0-6)
+PREREQUISITE: NONE
+This course provides the mathematical theory aspects of algorithms that extract
+information from data. The topics include Principle Component Analysis (PCA); Manifold learning and
+Diffusion Maps; Semi supervised Learning; Spectral Clustering; Concentration of Measure and tail bounds in
+probability; Dimension reduction; Compressed Sensing / Sparse Recovery; Group testing; Approximation
+Algorithms; Clustering; Introduction into the concept of Data Analytics; The role of a Data Analytist; and the
+tools that are used to perform analytic function.
+01006713
+
+MATHEMATICAL CRYPTOGRAPHY
+4 (4-0-8)
+PREREQUISITE: NONE
+This is an advanced undergraduate course that provides a self- contained introduction to
+modern cryptography, with an emphasis on the mathematics behind the theory of public key cryptosystems
+and digital signature schemes. The course will focus on developing the mathematical tools needed for the
+construction and security analysis of diverse cryptosystems. Key topics include: classical cryptographic
+constructions, such as Diffie- Hellmann key exchange, discrete logarithm- based cryptosystems, the RSA
+cryptosystem, and digital signatures; fundamental mathematical tools for cryptography, including primality
+testing, factorization algorithms, probability theory, information theory, and collision algorithms; an in-depth
+treatment of important recent cryptographic innovations, such as elliptic curves, elliptic curve and pairingbased cryptography, lattices, lattice-based cryptography, and the NTRU cryptosystem.
+01006714
+
+MATHEMATICS FOR 3D GAME AND COMPUTER GRAPHICS
+4 (4-0-8)
+PREREQUISITE: NONE
+This course provides the mathematical concepts that a developer needs to develop 3D
+computer graphics and game engines. Key topics include vectors; matrices; transforms; 3D geometry; ray
+tracing; lighting and shading; illumination; polygonal techniques; visibility determination; curves and surfaces;
+fluid and cloth simulation.
+
+102
+01006701
+
+MATHEMATICS OF DATA SCIENCE
+4 (4-0-8)
+PREREQUISITE: NONE
+This is a mathematical course designed for students with an interest in pursuing theoretical
+aspects of algorithms that aim to extract information from data. Covered topics include: Principal
+Component Analysis ( PCA) ; Manifold Learning and Diffusion Maps; Semi- supervised Learning; Spectral
+Clustering; Concentration of Measure and tail bounds in probability; Dimension reduction; Compressed
+Sensing / Sparse Recovery; Group Testing; Approximation algorithms; Clustering.
+2. ROBOTICS AND AI COURSES
+2.1 CORE COURSES
+01006710
+
+INTRODUCTION TO CALCULUS
+3 (3-0-6)
+PREREQUISITE: NONE
+Function, Limit, Continuity and their applications, Mathematical induction, Introduction to
+derivative, Differentiation, Applications of derivative, Definite integrals, Antiderivative integration, Application
+of definite integral, Indeterminate forms, Improper integrals, Numerical integration, Sequences and series of
+numbers, Taylor series expansions of elementary functions vector analysis.
+
+01006711
+
+ADVANCED CALCULUS
+3 (3-0-6)
+PREREQUISITE: 01006710 INTRODUCTION TO CALCULUS
+Functions of several variables and theirs applications, Vector algebra in three dimensions, Polar coordinates,
+Calculus of real - valued functions of two variables, Differentiation and integration of real - valued and
+vector - valued functions of multiple real variables, Introduction to line integrals, Lines, planes and surfaces
+in three-dimensional space, Calculus of real - valued functions in three-dimensional space, Principal theory
+for applications such as Green’s theorem, divergence theorem, Gauss theorem, Stokes theorem, etc.
+01006723
+
+GENERAL PHYSICS 1
+3 (3-0-6)
+PREREQUISITE: NONE
+This course covers basic physics and mechanics including a study of motion, space and
+time, kinematics, Newton’s law of motion, forces, energy and momentum, work, power, conservation laws,
+systems of particles, linear momentum, circular motion, rotation, torques, harmonic oscillation and
+gravitation.
+01006724
+
+GENERAL PHYSICS LABORATORY 1
+1 (0-3-2)
+PREREQUISITE: NONE
+The experiments that correspond to the subject in 01006723 General Physics 1.
+
+01006725
+
+GENERAL PHYSICS 2
+PREREQUISITE: 01006723 GENERAL PHYSICS 1
+
+3 (3-0-6)
+
+103
+This course provides the physical science required to analyze electrical and electronic
+devices. Covered topics include electrostatics and electromagnetics, electric field and potential,
+conductors, insulators, capacitors, dielectrics, electric current, electric circuits, magnetic fields and
+electromagnetism.
+01006726
+
+GENERAL PHYSICS LABORATORY 2
+1 (0-3-2)
+PREREQUISITE: 01006723 GENERAL PHYSICS 1
+The experiments that correspond to the subject in 01006725 General Physics 2.
+
+01006803
+
+ENGINEERING MECHANICS
+3 (3-0-6)
+PREREQUISITE: NONE
+Force systems, resultant, equilibrium, fluid statics, kinematics and kinetics of particles and
+rigid bodies, Newton’s second law of motion, work and energy, impulse and momentum.
+01006310
+
+STRENGTH OF MATERIALS
+3 (3-0-6)
+PREREQUISITE: NONE
+Introduction to material properties and the methods of analysis used in structural design.
+Concepts of normal stress and strain, shear stress and strain, thermal stress and strain, deformation, and
+torsional loading. Structural elements designing based on material properties and factors of safety. Sectional
+properties such as centroids and moments of inertia and construct shear force and bending moment
+diagrams for statically determinate beams. Calculation of flexural stresses, longitudinal shear stresses, and
+deflection will allow beam sections to be selected for structural applications. Column analysis and design
+are included.
+2.2 MAJOR COMPULSORY COURSES
+B.2.1 FUNDAMENTAL SUBJECTS
+01416301
+
+DIFFERENTIAL EQUATIONS AND MATRIX ALGEBRA
+3 (3-0-6)
+PREREQUISITE: NONE
+Systems of linear equations and solutions. vector and space, Matrices, Solution of linear
+equations by matrices, bases, orthonormal bases and applications in Fourier series, etc. Linear
+transformations: Laplace transformation, z- transformation Fourier- transformation, complex function and
+transformation, Introduction to differential equations, linear and nonlinear differential equation, Ordinary
+differential equations, Application of ordinary differential equation for engineering problems, initial value
+problems, Topics include matrices, determinants, vector spaces, eigenvalues and eigenvectors,
+orthogonality and inner product spaces; applications include brief introductions to difference equations,
+Markov chains, and systems of linear ordinary differential equations. Solving problems with the underlying
+formal structure by using the concrete model of matrices and vectors as a guide and as a tool.
+
+104
+01416304
+
+FEEDBACK CONTROL
+3 (3-0-6)
+PREREQUISITE: NONE
+Introduction to control systems; mathematical models of systems; feedback control
+system characteristics; the performance of feedback control systems; the stability of linear feedback
+systems; essential principles of feedback; the root locus method; frequency response method; stability of
+the frequency domain, time-domain analysis of control systems: the design and compensation of feedback
+control system.
+01416305
+
+ARTIFICIAL INTELLIGENCE TECHNOLOGY
+3 (3-0-6)
+PREREQUISITE: NONE
+Materials on AI programming, logic, search, game playing, machine learning, natural
+language understanding, and robotics introduce the student to AI methods, tools, and techniques, their
+application to computational problems, and their contribution to understanding intelligence.
+
+01416306
+
+SAFETY AND STANDARDIZATION IN RAI
+3 (3-0-6)
+PREREQUISITE: NONE
+Law and standardization, Safety requirement and international standards for Robotics and
+AI such as European Directive, ANSI and ISO etc., Product Standard and Regulations for Safety in Automation
+and Robotics, Applicable standards such as ISO13482, ISO13849, etc. Industrial regulations and safety.
+
+01416308
+
+KINEMATICS AND DYNAMICS
+3 (3-0-6)
+PREREQUISITE: NONE
+Introduction to Kinematics and Dynamics of Robot, Orientation of rigid body, Rigid body kinematics
+and dynamics, Kinematic Chain, Kinetics or Dynamics, Serial and Parallel robots, Robot Manipulator Platform,
+Introduction to mobile robot platform.
+01416309
+
+ENGINEERING 3D DRAWING
+3 (2-2-5)
+PREREQUISITE: NONE
+Lettering, orthographic projection, orthographic drawing and pictorial drawings,
+dimensioning and tolerance, sections, auxiliary views and development, freehand sketches, detail and
+assembly drawings, basic computer aided drawing.
+01416312
+
+ELECTRIC CIRCUIT AND ELECTRONICS
+3 (3-0-6)
+PREREQUISITE: NONE
+This course is the introduction to modeling, analysis and design of circuits and electronics
+using lumped circuit models for sources, resistors, capacitors, inductors. Circuit analysis techniques such as
+Kirchhoff’s Laws, node voltages, and mesh currents. Thevenin’s and Norton’s equivalent circuits. The
+operation and application of electronic solid-state devices such as diodes, Operational Amplifiers (Op-Amp),
+Metal Oxide Semiconductor Field Effect Transistors (MOSFETs) and Bipolar Junction Transistors (BJTs). This
+
+105
+course will also learn the use of equivalent circuit models that describe the operation of these devices and
+how they can be used to design circuits that provide important electronic functions.
+01416315
+
+INDUSTRIAL ELECTRONICS
+3 (3-0-6)
+PREREQUISITE: NONE
+Topics covered include: modeling, analysis, and control techniques; design of power
+circuits including inverters, rectifiers, and DC-DC converters; analysis and design of magnetic components
+and filters; and characteristics of power semiconductor devices.
+01416316
+
+COMPUTER PROGRAMMING FOR RAI
+3 (2-2-5)
+PREREQUISITE: NONE
+This course introduces basic concepts of computer programming such as elementary
+programming, data types, expressions, simple algorithms and problem solving involving sequential
+statements, conditionals and iterations. Students learn routines or methods as fundamental concepts and
+practice using strings, arrays, lists, maps or dictionaries, pre- defined libraries and classes, abstraction
+mechanisms and basic object oriented programming concepts. Students will practice related activities of
+software development life cycle such as system requirement analysis, debugging, testing and validation.
+01416318
+
+MICROPROCESSOR AND INTERFACE
+3 (2-2-5)
+PREREQUISITE: NONE
+This course deals with the systematic study of the Architecture and programming issues of
+8086-microprocessor family and interfacing with other peripheral ICs and co-processor. In addition, various
+32-bit and 64-bit microprocessors are introduced. The aim of this course is to give the students basic
+knowledge of the microprocessors needed to develop the systems using it.
+01416319
+
+MANUFACTURING PROCESS
+3 (3-0-6)
+PREREQUISITE: NONE
+Casting, turning, milling, welding, heat treatment; manufacturing process selection for
+materials and shapes; manufacturing process selection for linear tolerance and geometric tolerance; surface
+roughness; metrology and examination techniques.
+01416320
+
+INTRODUCTION TO ROBOTICS AND AI
+3 (3-0-6)
+PREREQUISITE: NONE
+The course includes: an overview of robotics and AI technology; introduction to the
+configuration space concept, rigid transformation and manipulator kinematics; sensing and control; robot
+programming; robot motion planning and applications; robot manipulation. For AI, students can explore the
+concepts and algorithms at the foundation of artificial intelligence, diving into the ideas that give rise to
+technologies like basic machine learning, image recognition, and neural networks. Through hands-on
+
+106
+projects, students gain exposure to the theory behind graph search algorithms, classification, optimization,
+and other topics in principle robotics, artificial intelligence and machine learning applications.
+01416514
+
+ROBOTICS LABORATORY 1
+1 (0-3-6)
+PREREQUISITE: NONE
+The aim of this course is understanding the stationary robot by performing instructive
+experiments that reveal fundamental robotic principles and to attain a level of dexterity with experimental
+devices. Moreover, the aim of this training is to train the ability to report and summarize the experimental
+work.
+01416515
+
+ROBOTICS LABORATORY 2
+1 (0-3-6)
+PREREQUISITE: NONE
+The aim of this course is understanding the mobile robot by performing instructive
+experiments that reveal fundamental robotic principles and to attain a level of dexterity with experimental
+devices. Moreover, the aim of this training is to train the ability to report and summarize the experimental
+work.
+01416516
+
+ROBOTICS LABORATORY 3
+1 (0-3-6)
+PREREQUISITE: NONE
+The aim of this course is understanding the artificial intelligent technology by performing
+instructive experiments that reveal fundamental robotic principles and to attain a level of dexterity with
+experimental devices. Moreover, the aim of this training is to train the ability to report and summarize the
+experimental work.
+B.2.2 CAPSTONE PROJECTS
+01416701
+
+RAI ENGINEERING CAPSTONE DESIGN PREPARATION
+3 (0-9-5)
+PREREQUISITE: NONE
+This course instructs and prepare students in aspects of effective technical oral
+presentations through exposure to different workplace communication skills. As preparation and research
+for the capstone design, students must develop topics, identify a supervisor, and prepare a proposal for an
+oral presentation. The design must incorporate fundamental and advanced concepts in Robotics and AI.
+Each team of 2 to 4 students will propose innovative design projects which require application of standards
+and realistic engineering constraints such as economic, environmental, social, political, ethical, health and
+safety, manufacturability, and sustainability. Each team must prepare and deliver oral presentations
+describing their analysis of the problems, the proposed innovation and the design process.
+
+107
+01416702
+
+RAI ENGINEERING CAPSTONE DESIGN
+3 (0-9-5)
+PREREQUISITE: 01416701 RAI ENGINEERING CAPSTONE DESIGN PREPARATION
+This course consists of open- ended design projects that incorporate fundamental and
+advanced concepts in Robotics and AI. Students will analyze, design and implement innovative prototypes
+which require application of standards and realistic engineering constraints. Students from alternative study
+programs can extend their work from the alternative study programs. Each team of 1 to 4 students must
+design and implement a prototype of the proposed innovation. Measurements, simulations, and/ or
+characterization of the proposed solution is performed so as to demonstrate that the design objectives and
+specifications have been met. The final design reports must address issues, as appropriate, that are related
+to engineering economics, commercialization, manufacturability, environmental, social issues, ethics, and
+health and safety. Each team must prepare and deliver oral presentations and demonstrations of their design
+prototype.
+B.2.3 RAI ELECTIVE MANDATORY SUBJECTS
+01416401
+
+THERMODYNAMICS
+3 (3-0-6)
+PREREQUISITE: NONE
+Definitions and concepts; properties of pure substances and ideal gases; work and heat;
+first law of thermodynamics; second law of thermodynamics and Carnot cycle; entropy; reversibility and
+availability; refrigeration cycles; air-standard Carnot cycle and air-standard power cycles.
+01416403
+
+DYNAMIC OF MACHINERY
+3 (3-0-6)
+PREREQUISITE: NONE
+Basic Mechanisms; Position, velocity and acceleration of Linkages, Graphical linkage
+synthesis; Linkage synthesis Static and dynamic force analysis; Static and dynamic balancing of a simple
+rotating and reciprocating machine.
+01416404
+
+MECHANICAL DESIGN AND MODELING
+3 (3-0-6)
+PREREQUISITE: NONE
+Introduction to Mechanical Design and Modeling, Modeling of dynamic system and review
+of ODE ( Ordinary Differential Equations) , Fluid System and dynamics, Linearization and stability analysis,
+Finite Element technique, Time and frequency response
+01416406
+
+MEASUREMENT AND INTRUMENTATION FOR MECHATRONICS
+3 (3-0-6)
+PREREQUISITE: NONE
+Introduction to mechanical system interfacing; combinational digital logic; industrial
+electronic components; industrial sensors; simple computer structure; low level programming technique;
+
+108
+embedded control computers; microcontroller; stepping motors; DC motors; Analog/ Digital conversion;
+position and velocity measurement; amplifiers; project related to MECHATRONICS
+01416408
+
+COMPUTER AID MECHANICAL DESIGN
+3 (3-0-6)
+PREREQUISITE: NONE
+Introduction to CAD/ DAM; draughting concept; 3D modelling concept; surface design;
+design analysis; NC programming and verification, link to manufacture, CAD/CAM data exchange; introduction
+to CIM: role of robotics; coding and classification; rapid prototyping concept.
+01416409
+
+FLUID MECHANICS
+3 (3-0-6)
+PREREQUISITE: NONE
+Properties of fluid; equilibrium of fluid at rest; definition and method of flow analysis;
+continuity momentum and energy equation for finite control volumes; stress-strain relations for Newtonian
+fluids; equation of continuity and motion; dimensional analysis and dynamic similitude; laminar and
+turbulent flow; boundary layer concepts, flow in pipes; turbomachinery; compressible flow.
+01416413
+
+INTRODUCTION TO NANOTECHNOLOGY AND NANOSCIENCE
+3 (3-0-6)
+PREREQUISITE: NONE
+Fundamentals of NANOTECHNOLOGY, instrumentation in NANOTECHNOLOGY,
+nanopowders and nanomaterials, natural nanomaterials, nanobiometrics, preparation of nanomaterials,
+properties of nanomaterials, applications of nanomaterials mainly on materials, medical, electronics and
+chemical engineering, preparation of carbon nanomaterials and its applications.
+01416414
+
+INTRODUCTION TO MEMS
+3 (3-0-6)
+PREREQUISITE: NONE
+Overview of MEMS, scaling of micromechanical devices, behavior and modeling of
+micromechanical devices, mechanical properties of MEMS materials, review of microfabrication, bulk and
+surface micromachining, applications of MEMS: pressure sensors, accelerometer, micro- motors, micropumps and micro-valves; thermal sensors and actuators; micromirror.
+01416415
+
+INTRODUCTION TO DATA SCIENCE
+3 (3-0-6)
+PREREQUISITE: NONE
+The course on Introduction to Data Science provides an overview of Data Science, covering
+a broad selection of key challenges in and methodologies for working with big data. Topics to be covered
+include data collection, integration, management, modeling, analysis, visualization, prediction and informed
+decision making, as well as data security and data privacy. This introductory course is integrative across the
+core disciplines of Data Science, including databases, data warehousing, statistics, data mining, data
+visualization, high performance computing, cloud computing, and business intelligence. Professional skills,
+such as communication, presentation, and storytelling with data, will be fostered. Students will acquire a
+
+109
+working knowledge of data science through hands-on projects and case studies in a variety of business,
+engineering, social sciences, or life sciences domains. Issues of ethics, leadership, and teamwork are
+highlighted.
+01416416
+
+INFORMATION SYSTEMS, DATABASES AND APPLICATION
+3 (3-0-6)
+PREREQUISITE: NONE
+This course studies basic concepts of information systems and database systems, with
+emphasis on the study of relational database systems. Topics include basic concepts of information systems
+and database systems, types of data models, relational database design, entity-relationship models, normal
+forms of relational databases, and database query languages. Some important non-relational data models
+and database application are also introduced in this course.
+01416417
+
+DEEP LEARNING AND APPLICATION
+3 (3-0-6)
+PREREQUISITE: NONE
+Study introduction to deep learning, a branch of machine learning with the development
+and application of modern neural network. The subject covers the following topics: review of neural
+networks, convolution and recurrent network structures, deep unsupervised learning, applications to
+problem domain likes speech recognition and computer vision and deep learning applications.
+01416500
+
+COMPUTER VISIONS
+3 (3-0-6)
+PREREQUISITE: NONE
+Lighting and Viewing methods, Cameras and video recorders capture, Image processing technique,
+reflected surfaces and lighting techniques, image transformation and feature extraction, image
+reconstruction, edge detection, segmentation, object recognition, stereo vision, reconstructing the 3D world
+from 2D images, robotic and trends in robot vision.
+
+01416503
+
+DESIGNING COMPUTER VISION APPLICATIONS
+3 (3-0-6)
+PREREQUISITE: NONE
+Review of theoretical foundations of computer vision as well as the practical approaches
+to building real Computer Vision systems. This course investigates current research topics in computer vision
+with an emphasis on recognition tasks and deep learning. The course will examine data sources, features,
+and learning algorithms useful for understanding and manipulating visual data. Several topics will straddle
+the boundary between computer vision and computer graphics. Class topics will be pursued through
+independent reading, class discussion and presentations, and state-of-the-art projects.
+01416504
+
+MACHINE LEARNING IN PRACTICE
+PREREQUISITE: NONE
+
+3 (3-0-6)
+
+110
+This course provides a broad introduction to machine learning and statistical pattern
+recognition. Topics include: supervised learning ( generative/ discriminative learning, parametric/ nonparametric learning, neural networks, support vector machines) ; unsupervised learning ( clustering,
+dimensionality reduction, kernel methods) ; learning theory ( bias/ variance tradeoffs; VC theory; large
+margins) ; reinforcement learning and adaptive control. The course will also discuss recent applications of
+machine learning, such as to robotic control, data mining, autonomous navigation, bioinformatics, speech
+recognition, and text and web data processing.
+01416505
+
+INTERNET OF THINGS AND SMART ROBOTICS AND AI SYSTEMS
+3 (3-0-6)
+PREREQUISITE: NONE
+This course covers the topics of smart things network and communication: architectures,
+services and protocols; privacy and security; enabling technologies of IoT; IoT and smart system applications:
+smart cities, smart energy, smart transportation and mobility, smart home and building, smart factory and
+manufacturing, smart health and up- to- date applications related to RAI; smart things networks for data
+management; IoT related standardization. The course also includes a substantial group design project.
+01416507
+
+PERCEPTION AND COGNITIVE ROBOTS
+3 (2-2-5)
+PREREQUISITE: NONE
+Programming of robots to enable the achievement of goals in environments, cognitive
+capabilities such as perception, attention, anticipation, planning, memory, learning, and reasoning. social
+capabilities, such as communication, collaborative task execution, and reasoning about the mental states
+of other agents. Artificial intelligence techniques, as well as insights from cognitive science.
+01416509
+
+SYSTEM ENGINEERING
+3 (3-0-6)
+PREREQUISITE: NONE
+Introduction to general concepts of SYSTEM ENGINEERING; comprehensive survey of basic
+theories of logical and mathematical approaches to general problem solving; systematic application. System
+Integration in Mechatronics and Robotics.
+01416510
+
+HUMAN ROBOT INTERACTION
+3 (3-0-6)
+PREREQUISITE: NONE
+Introduction to human-robot interaction (HRI), Interfaces that enable natural and effective
+modes of interaction with robotic technologies. HRI techniques and programming, related artificial
+intelligence, human-computer interaction, human factors, interaction design for psychology, anthropology,
+education, drama, and other fields, theory to practice using state-of-the-art interactive robots
+01416511
+
+MOBILE ROBOTS
+PREREQUISITE: NONE
+
+3 (2-2-5)
+
+111
+Introduction to mobile robot, robot kinematics, robot dynamics, localization and path
+planning, self-localization and mapping (SLAM), Markov and its application to mobile robots, particle filter,
+sensors and actuators in mobile robot, probabilistic in mobile robot, Fast SLAM, other topics related to
+mobile robots
+01416512
+
+PLANNING TECHNIQUES IN ROBOTICS
+3 (2-2-5)
+PREREQUISITE: NONE
+Path finding, Trajectory optimization, local and global path planning, Dijkstra, Probabilistic
+Roadmaps, Rapidly exploring random trees, non- holonomic system, car system equation, control based
+sampling, Dubbin’s curves.
+01416518
+
+INDUSTRIAL AUTOMATION
+3 (3-0-6)
+PREREQUISITE: NONE
+A study of the applications of industrial automation systems, including identification of
+system requirements, equipment integration, motors, controllers, and sensors. Coverage of set-up,
+maintenance, and testing of the automated system.
+01416519
+
+MODERN CONTROL
+3 (3-0-6)
+PREREQUISITE: 01416304 FEEDBACK CONTROL
+Describing- function analysis of non- linear control systems, phase- plane analysis, statespace analysis of control system; linear dynamical equations and impulse- response matrices; controllability
+and observability of linear dynamical equations, irreducible realizations: strict system, equivalence and
+identification.
+01416520
+
+VISION SYSTEM FOR MOBILE ROBOTICS
+3 (3-0-6)
+PREREQUISITE: NONE
+This course introduces you to the key computer vision algorithms used in mobile robotics,
+such as image formation, filtering, feature extraction, multiple view geometry, dense reconstruction, tracking,
+image retrieval, event-based vision, visual-inertial odometry, Simultaneous Localization and Mapping
+(SLAM), and deep learning algorithms.
+01416521
+
+INTRODUCTION TO ALGORITHMS
+3 (3-0-6)
+PREREQUISITE: NONE
+This course is an introduction to mathematical modeling of computational problems. It
+covers the common algorithms, algorithms diagram, and data structures used to solve these problems. The
+course emphasizes the relationship between algorithms and programming and introduces basic
+performance measures and analysis techniques for these problems.
+
+112
+01416528
+
+COMMUNICATION NETWORK
+3 (3-0-6)
+PREREQUISITE: NONE
+This course provides an introduction to fundamental tools of stochastic analysis.
+Probability, conditional probability: Bayes Theorem; random variables and transforms; independence;
+Bernoulli trials. Statistics, inference from limited data; outcomes of repeated experiments; applications to
+design; assessment of relative frequency and probability; law of large numbers; precision of measurements.
+Elements of stochastic processes. Poisson processes, Markov chains, six sigma, ANOVA, and industrial
+applications.
+01006718
+
+DISCRETE MATHEMATICS
+3 (3-0-6)
+PREREQUISITE: NONE
+Basic set theory, theory and techniques of counting, properties of integers, mathematical
+induction, recursive definitions, recurrent equations, sequences and summations, relations, graphs, and
+trees.
+TRANSFEERED COURSES FROM UNIVERSITY OF BIRMINGHAM 2+2 DUAL DEGREE PROGRAM
+01416525
+
+ENGINEERING MECHANICS 2
+4 (4-0-8)
+PREREQUISITE: NONE
+Static analysis of stress in solid mechanics, including use of Mohr's Circle, maximum shear
+stress, strain energy and von Mises failure criterion, energy methodsใ Castigliano's Theorem for beam
+deflection, analysis of thin walled vessels. Vector analysis of the dynamics (both kinematics and kinetics) of
+two-dimensional rigid body systems with applications to simple linked systems of rods, gears and wheels.
+01416526
+
+MICROPROCESSOR AND CONTROL SYSTEMS
+4 (4-0-8)
+PREREQUISITE: NONE
+Write programs for embedded microcontrollers, and interface the microcontroller to
+support circuitry; Design interfacing circuity for communication between microprocessors and peripherals;
+Write C programmes for embedded microcontrollers that control peripheral hardware
+Introduction to Control Engineering, Control fundamentals: Modelling of simple mechanical and
+electric systems, Analysis of systems, Steady state error analysis, Stability (Simplified Nyquist), Stability
+margins. Design based-upon Nichols and/or Bode plots, Compensator design via classical loop-shaping.
+01416527
+
+DIGITAL ELECTRONICS AND ELECTRICAL MACHINES
+PREREQUISITE: NONE
+
+4 (4-0-8)
+
+113
+Design and implement complex synchronous and asynchronous digital systems. Design
+synchronous finite state machines. Implement synchronous finite state machine using logic devices, ac to
+dc conversion, dc to ac conversion. Transformers, Important principles, such as non linear power, rotating
+magnetic field and fourier analysis. Advanced dc motors/ac motors.
+B.2.4 RAI ELECTIVE SUBJECTS
+01416601
+
+MECHANICAL SYSTEM AND LABORATORY
+3 (2-3-6)
+PREREQUISITE: NONE
+Introduction to design process: the specification development/ planning phase; the
+conceptual design phase; concept generation, concept evaluation; product design phases, product
+generation, evaluation of function and performance, evaluation of cost, ease of assembly; finalizing the
+product design; design projects, covering assumption, calculation and design evaluation and presentation
+and with a complete report.
+01416602
+
+EMBEDDED SYSTEM DEVELOPMENT
+3 (3-0-6)
+PREREQUISITE: NONE
+EMBEDDED SYSTEM architecture; microprocessor/ microcontroller; memory; I/ O and
+peripherals; embedded C programming; interrupt; DMA and EMBEDDED SYSTEM networks.
+01416604
+
+MECHANICAL VIBRATIONS
+3 (3-0-6)
+PREREQUISITE: NONE
+Analysis of system with single and multi- degree of freedom; torsional vibration; free and
+forced vibration; determination of natural frequencies of structures; discrete system; Modal analysis;
+methods and techniques to reduce and control vibration; Lagrange's equations.
+01416607
+
+STARTUP ENGINEERING
+3 (3-0-6)
+PREREQUISITE: NONE
+This course bridges the gap between academic and production software engineering. The
+course provides fast-paced introduction to key tools and techniques used in successful startups and largescale projects: command line, dotfiles, text editor, distributed version control, debugging, testing,
+documentation, reading code, deployments. Students will learn to build a command line application,
+expose it as a web service, and then link with other students' applications and services to build a HTML5
+mobile/ web application. General principles are illustrated through modern Javascript and the latest web
+technologies.
+01416608
+
+DATA VISUALIZATION
+PREREQUISITE: NONE
+
+3 (3-0-6)
+
+114
+This course will discuss techniques and algorithms for creating effective visualizations
+based on principles from graphic design, visual art, perceptual psychology, and cognitive science. The course
+discusses techniques and theory used in visualization, including data models, graphical perception and
+techniques for visual encoding and interaction. Students will gain exposure to a number of common data
+domains and corresponding analysis tasks, including multivariate data, networks, text and cartography.
+Students will learn to evaluate and use visualization in their own work as well as build better visualization
+tools and systems thru hands-on labs, programming and data analysis assignments.
+01416609
+
+COGNITIVE COMPUTING APPLICATIONS
+3 (3-0-6)
+PREREQUISITE: NONE
+This course provides an introduction to computational modeling of cognition which
+combines artificial intelligence and machine learning in an approach to mimic the brain’ s behavior. The
+course covers pattern recognition, knowledge representations, revision, concept learning, explanation-based
+learning. We will discuss common tasks such as classification, diagnosis and advanced topics such as
+analogical reasoning, visual reasoning and meta- reasoning. The course will focus on cognitive computing
+application in several key areas including visual perception and attention, object and face recognition,
+learning and memory as well as decision-making and reasoning. Students will learn to train and use existing
+cognitive computing platform in order to solve real world applications.
+01416610
+
+SOFTWARE-DEFINED DATA CENTER
+3 (3-0-6)
+PREREQUISITE: NONE
+This course provides an introduction to the concepts and applications of software defined
+data center ( SDDC) . Students will explore the software- defined approach to manage data centers and
+workload deployment. The course will discuss the challenges and implementations of SDDC which combine
+compute, storage, network and related data center resources in order to create logical applications. Covered
+topics include data center abstractions, virtualization, software- defined storage and networking,
+orchestration, automated approach to workload deployment and policy management.
+
+01416611
+
+WIRELESS SENSOR NETWORK
+3 (3-0-6)
+PREREQUISITE: NONE
+This course covers fundamentals of wireless network technology and distributed sensor
+networks. Students will also study the design of low power sensors, which collect information and pass the
+information via wireless networks for monitoring and control applications. Students will learn about the
+applications in areas such as environmental monitoring, smart energy systems, field surveillance, home
+automation and medical monitoring.
+
+01416612
+
+INFORMATION SECURITY MANAGEMENT
+PREREQUISITE: NONE
+
+3 (3-0-6)
+
+115
+This course explores the latest techniques for securing information and its systems, from
+policies and procedures to technologies and audit. Students will learn about information security
+management system which preserves the confidentiality, integrity and availability of information. Students
+will apply a risk management process and study requirements for establishing, implementing, maintaining
+and continually improving information security management system. Topics include information security
+organization and policy, human resource security, asset management, access control, cryptography, physical
+and environmental security, operations security, communications security, system acquisition, development
+and maintenance, supplier relationships, incident management, business continuity, regulatory and
+compliance.
+01416613
+
+FUNDAMENTALS OF AR, VR AND MIXED REALITY
+3 (3-0-6)
+PREREQUISITE: NONE
+This course explores the emerging technologies that fuel the frontier of design, interaction
+and software development using augmented reality, virtual reality and mixed reality. Students will learn
+the fundamentals of design and experience in the context of virtual/augmented/mixed reality, storytelling
+and content creation. Students will work with standard virtual reality framework, learn about design and
+existing constraints, implement projects to create immersive environments for users and potential
+applications.
+01416614
+
+ADVANCED COMPUTER PROGRAMMING FOR RAI
+3 (2-2-5)
+PREREQUISITE: NONE
+Concepts and practice of object-oriented programming; usage of design patterns in objectoriented programming; programming in application development frameworks: graphical user interface and
+event- driven programming, collection framework, concurrent programming, socket programming, and/ or
+frameworks of contemporary interest; hands- on practice in developing application software through the
+application of development frameworks.
+01416615
+
+CYBER PHYSICAL ROBOTICS
+3 (3-0-6)
+PREREQUISITE: NONE
+Robots 4. 0 involves computation, communication, and control which have become
+increasingly interwoven to produce highly functional, reliable, and energy- efficient systems. This course
+offers an interdisciplinary perspective on the emerging science of cyber- physical robotics ( CPR) and its
+applications. The CPR encompasses the mathematics of complex networks/ systems in natural and manmade environments, including bacteria swarms, smart grid, and social media. Special emphasis will be
+placed on reviewing existing models for network design, control and optimization, identifying their
+limitations in relation to the actual characteristics of physical processes, and developing advanced
+mathematical models of CPR based on actual measurements or observations of physical/ social
+phenomena. The first part of the course provides an overview of network theory and research in applied
+
+116
+mathematics, physics, and engineering. The second part of the course examines a wide range of CPR
+applications and presents open problems calling for innovative solutions that take into account network
+complexity. Students will become familiar with ongoing research in the field and will get a chance to apply
+their knowledge of theoretical concepts to modeling, analysis and optimization of CPR in the context of
+their major project.
+01416616
+
+MOBILE APPLICATION DEVELOPMENT
+3 (3-0-6)
+PREREQUISITE: NONE
+This course provides a study of application development for mobile devices. The course
+will cover the tools and frameworks required to develop applications for current and emerging mobile
+computing devices. Students will learn about the various constraints facing mobile application designers,
+with respect to hardware and user expectation. Students will also learn how to address these constraints
+with techniques in implementation, software design, and user-interaction design. Additionally, students will
+also learn about core concepts of modern mobile computing, such as software distribution models and
+location awareness.
+
+01416617
+
+PNEUMATIC AND HYDRULIC SYSTEM DESIGN AND CONTROL
+3 (3-0-6)
+PREREQUISITE: NONE
+Modification, design and planning of hydraulic fluid power systems. Introduction to the
+formulae and units used in calculating values for prime movers, pumps, hydraulic motors, cylinders,
+reservoir sizes and selection methods for combination valves. The candidate to the more common building
+blocks found in hydraulic systems, Electro- hydraulic system, Commercial Program to design the Hydraulic
+circuits, PLC for controlling hydraulic circuits.
+01416618
+
+ADVANCED ARTIFICIAL INTELLIGENCE TECHNOLOGY
+3 (3-0-6)
+PREREQUISITE: 01416305 ARTIFICIAL INTELLIGENCE TECHNOLOGY
+The course includes designing good learning algorithms, as well as the science of analyzing
+an algorithm's computational and statistical properties and performance guarantees. Theorems are
+presented together with practical aspects of methodology and intuition to help students develop tools for
+selecting appropriate methods and approaches to problems in their own capstone projects. The course
+covers advanced machine learning methods such as SVM, nonparametric and deep compositional or deep
+learning approaches to density estimation and regression; advanced theory such as fundamentals of
+clustering, classification, boosting; theory and methods at the intersection of statistical and computational
+efficiency; as well as vignettes of theoretical results on some hot topics such as robustness and explain
+ability.
+01416619
+
+USER EXPERIENCE AND USER INTERFACE DESIGN
+PREREQUISITE: NONE
+
+3 (2-2-5)
+
+117
+Provides the elements of user experience and visual design principles, relationships
+between design and user. Build prototype and testing of the user experience. The Importance of designing
+for the user experience. Including identifying the business goals and the users’ needs. Learn to create
+wireframes, prototype applications or website, test the design, and explore the surface as the user. Include
+how to develop content requirements, create an effective, informative design.
+01416620
+
+BLOCKCHAIN TECHNOLOGY APPLICATION
+3 (3-0-6)
+PREREQUISITE: NONE
+A study of a technology aspects of Blockchain and its application that aim to give students
+the understanding of emerging abstract models for Blockchain technology and to familiarize with a variety
+of uses, and Blockchain eco-system. The covered topics include Introduction to Blockchain; How Blockchain
+Works; Privacy, Security Issues in Blockchain; How Bitcoin Works; Blockchain Application and Case Studies;
+The Future of Blockchain.
+01416621
+
+LEAN MANAGEMENT
+3 (3-0-6)
+PREREQUISITE: NONE
+This course provides a manufacturing management aspect of Lean approach that aim to
+give students the basic understanding of Lean manufacturing system design and value stream management.
+The covered topics include Lean Manufacturing and the Automotive Production System; The Lean
+Implementation Strategies; Operations Transformation and Value Stream Mapping; Lean System Design;
+Case Studies.
+01416522
+
+BIG DATA
+3 (3-0-6)
+PREREQUISITE: NONE
+An overview of the big data and existing solutions. An introduction to Data capturing,
+storage, processing, retrieval and analysis and visualization.
+01416523
+
+IT PROJECT MANAGEMENT
+3 (3-0-6)
+PREREQUISITE: NONE
+The concept of IT Project Management and the perspective of a manager. Introduce tools
+and templates available to a Project Manager. Discuss in the demands on the Project Manager and how to
+solve problems occur during the project period. Cover case studies of project management in business.
+01416628
+
+EXPERIMENT AND EXERCISE FOR INTELLIGENT CONTROL SYSTEM
+PREREQUISITE: NONE
+
+3 (3-0-6)
+
+118
+Understand each stage of manufacturing (survey, planning, specification, functional design,
+production design). Practical teamwork; division of roles, communication, cooperation, information
+gathering, planning and task setting.
+01416629
+
+INFORMATION AND CYBER SECURITY
+3 (3-0-6)
+PREREQUISITE: NONE
+This course introduces the concepts and understanding of the field of computer security
+and how it relates to other areas of information technology. Topics include security threats, hardening
+systems, securing networks, cryptography and organizational security policies.
+01416630
+
+INFORMATION SYSTEM SECURITY AND IT LAW
+3 (3-0-6)
+PREREQUISITE: NONE
+Information system security; threats, vulnerabilities, risk assessment and analysis;
+information system security policies; information system security management; cryptography;
+authentication; access control; network security; IT laws and ethical problems associated with Information
+Technology; privacy and confidentiality; computer crime.
+
+01416631
+
+ROBOTICS AND AI EXPERIENCE
+9 (2-14-12)
+PREREQUISITE: NONE
+Exposure to Professional Practice (EPP), Industrial Experience (IE) and/or International Research
+Experience (IRE) and/or taking courses related to research topic provides an opportunity to gain variable
+hands-on training and experience in real world situations, and/or study and/or conduct research
+concerning Robotics and Artificial Intelligence engineering. Additionally, through exposure to current
+practice, student can reflect on, and appreciate the linkage between curriculum and practice. Students
+will develop specific skills both on engineering and professionals including hands-on experience or
+research experience required to their professional careers.
+
+01416632
+
+SPACE SCIENCE
+4(4-0-8)
+PREREQUISITE: NONE
+This course provides a study of the Solar system such as the planets and minor members
+of the system, Telescopes, the Sun, the birth, life and death of stars, galaxies and dark matter. Space
+environment such as radiation, microgravity, thermal conditions, and solar wind and magnetic fields.
+Introduction to Spacecraft technology.
+01416633
+
+REINFORCEMENT LEARNING
+PREREQUISITE: NONE
+
+3 (3-0-6)
+
+119
+Diving deeply into reinforcement learning (RL), a fundamental technique for constructing
+autonomous systems (capable of informed decision-making across various domains), hands-on coding tasks,
+practical experience in real-world problems.
+01416634
+
+INTRODUCTION TO PROMPT ENGINEERING
+3 (2-2-5)
+PREREQUISITE: NONE
+Introduction to prompt engineering with generative AI, prompt engineering design with
+generative AI, delving into the art of crafting precise prompts to optimize communication with generative
+AI systems, interactive examples: hands-on exercises, real-world applications.
+01416635
+
+ADVANCED TECHNIQUES IN ChatGPT CUSTOMIZATION AND APPLICATION
+3 (2-2-5)
+PREREQUISITE: 01416634 INTRODUCTION TO PROMPT ENGINEERING
+Diving into the customization and application of ChatGPT for expert assistance and
+specialized tasks, advanced prompt engineering, fine-tuning techniques, integration with external APIs, the
+development of domain-specific ChatGPT models, practical workshops, case studies, project work.
+01006006
+
+INDUSTRIAL EXPERIENCE FOR ENGINEERS
+3 (0-16-0)
+PREREQUISITE: 01006301 COOPERATIVE EDUCATION
+Exposure to Professional Practice (EPP), or Industrial Experience (IE), provides an
+opportunity to gain valuable hands-on training and experience in real world situations. Additionally, through
+exposure to current practice, students can reflect on, and appreciate the linkage between curriculum and
+practice. This is an advance to the Internship and Co-op Education Students will develop specific skills both
+on engineering and professionals, in actual working environment not less than 2 days a week, including
+hands-on experience required to their professional careers.
+TRANSFEERED COURSES FROM UNIVERSITY OF BIRMINGHAM 2+2 DUAL DEGREE PROGRAM
+01416622
+
+INTEGRATED DESIGN PROJECT 2
+4 (2-4-10)
+PREREQUISITE: NONE
+The project design aspects of the work enhancing students’ awareness regarding key issues
+such as globalisation, climate change, sustainability and inequality, and the way these impact their role as
+Engineers, working in teams. Design solutions to real world project scenarios. The systems engineering
+approach and design philosophy. Project Planning, management and effective team working. Health and
+Safety aspects and impact on design. Sustainability aspects of design, including stakeholder engagement;
+ethics; human factors. Nature of risk in working/business operations; risk management.
+01416622
+
+ENGINEERING MATHEMATICS 3
+PREREQUISITE: NONE
+
+4 (4-0-8)
+
+120
+Vector differential calculus: review of vectors and geometry, curvilinear coordinates,
+review of grad, div and curl, calculus for parameterized fields, applications: PDE of physics and
+engineering.
+Vector integral calculus: line, surface, volume integrals, Stokes’ theorem and Gauss’
+divergence theorem, integro-differential identities, applications: length, area, volume, mass, conservation
+laws.
+Numerical methods: Nonlinear iterations with application to root-finding methods,
+Bisection method, fixed point iteration method, secant and Newton's method, interpolation by polynomials,
+Lagrange and Hermite interpolation, piecewise polynomial interpolation, numerical integration, NewtonCotes rules, Gauss quadratures, product rules, numerical methods for initial value problems, Euler methods,
+explicit Runge-Kutta methods.
+01416624
+
+POWER ELECTRONICS AND POWER SYSTEMS
+4 (4-0-8)
+PREREQUISITE: NONE
+The course explains the method to evaluate performance and characteristics of single-
+
+phase and three‐phase rectifiers and inverters. The control of AC rotating machines and power quality
+issues are presented as examples of application. Lectures on theory and operating principles will be backed
+up by tutorials on practical case studies and laboratory exercises on computer simulations and experimental
+tests.
+01416625
+
+THE INTERNET OF THINGS
+4 (4-0-8)
+PREREQUISITE: NONE
+Introduction: example applications. IoT ecosystems. Business, Technology and Economic
+Drivers for IoT: anticipated benefits. Changes to business processes and business models. Legal
+challenges, privacy and security issues. Societal implications, Persuasive technology and behavioral
+change, the quantified self. IoT Services: brokering, big data analytics, dependability, maintainability. IoT
+Sensing and Display modules; human interaction with IoT. Data analysis and decision making. Design
+methods and approaches. Basic Internet comms. Addressing and routing – MAC, IP, DNS, DHCP, NAT etc.
+Comms for the IoT – wireless standards, specialised protocols . Managing data loss. Models for data
+access on the web. Data models for sensor networks. Architectures for the management of sensor
+networks / exchange of sensor data. Network security models.
+01416626
+
+TELEROBOTICS, TELEPRESENCE AND AUGMENTED REALITY
+4 (4-0-8)
+PREREQUISITE: NONE
+Specify, design and build novel human-system interfaces, based on VR, AR and MR
+(Mixed Reality) technologies for controlling remotely operated land, air and underwater vehicles (ROVs).
+
+121
+History and principles of telerobotics, telepresence and the parallel domain of VR, AR and MR and how
+they are, and can be applied in engineering applications.
+01416627
+
+ELECTRONIC ENGINEERING
+4 (4-0-8)
+PREREQUISITE: NONE
+DESIGN FLOWS; Frontend and backend tools. Logic synthesis and physical synthesis.
+Implementation technologies: ASIC, FPGA, CPLD, embedded software. Role of Hardware Description
+Languages. Types of description: structural, netlist, behavioural, register transfer, algorithmic VHDL.
+Concurrent and sequential execution. Events and the event queue processes. Types and type conversion.
+Testbenches. Register transfer level coding.
+COMPUTER SYSTEMS; Computer organization. Memory maps. Bus cycles. Memory types:
+SRAM, DRAM, ROM, EPROM. Busses and bridges: the PC motherboard and its chipset. Memory hierarchies:
+cache systems.
+DESIGN OF HIGH PERFORMANCE DIGITAL SYSTEMS; ASICs and FPGAs. Pipelining. Latency and
+throughput. Performance calculations for pipelined systems
+MICROPROCESSOR HARDWARE; RISC and CISC. Pipelined execution. Control and Data
+hazards. Pipeline stalls and bubbles, and their impact on throughput. Resolution of control and data
+hazards: compiler methods; hardware methods.
+ADVANCED MICROPROCESSOR SYSTEMS; Out of order execution. Speculative execution and
+branch prediction. Superscalar and superpipelined processors.
+TEST AND TESTABILITY; Fault models. Path sensitization methods. Boolean differences. Scan
+path methods. Boundary scan. Built‐in self‐test
+POWER AMPLIFIER DESIGN; Operating modes. Output stage selection. Biasing. Power
+dissipation, thermal effects and protection. LOW NOISE AMPLIFIER DESIGN. Sources of noise
+Equivalent noise generators. Noise figures. Low noise design. RF AMPLIFIER DESIGN. Cut‐off frequency. Gain
+bandwidth product. Hybrid p equivalent circuit. Miller Effect, the Cascode stage
+RC ACTIVE FILTER DESIGN; Synthesis by sections. Dynamic range. Cascade sequence and pole‐zero pairing.
+Circuits for second order sections. Operational simulation. Component simulation.
+TRACK SMART MATERIAL TECHNOLOGY
+09106400
+
+MATERIALS INVESTIGATION
+3 (3-0-6)
+PREREQUISITE: NONE
+A practical-based learning course which is aimed to develop an integrated knowledge of
+materials characterization. This covers a design of investigation protocols to find nanomaterials in common
+
+122
+materials and to investigate their direct and indirect properties, including materials failures caused
+degradation processes at the nanoscale.
+09106401
+
+PHOTONICS
+3 (3-0-6)
+PREREQUISITE: NONE
+Photonic crystals, holey fibers, near field optics, plasmonic, nanophotonics, photonic
+nanocircuits, photonics in materials, nanoscale optoelectronic.
+09106402
+
+SMART TECHNOLOGY FOR ENERGY STORAGE
+3 (3-0-6)
+PREREQUISITE: NONE
+Energy technologies in the aspect of Nanotechnology, nanomaterials used for energy
+production, storage, transmission and conservation. Synthesis, characterization, and application of
+nanomaterials used for energy sources such as solar cells, fuel cells, supercapacitors and batteries.
+09106403
+
+LIGHT EMITTING DEVICES AND DISPLAY TECHNOLOGY
+3 (3-0-6)
+PREREQUISITE: NONE
+Review of electrical conductivity in organic and inorganic materials, coordination chemistry,
+luminescent mechanism of material, molecular designs for the enhancement of the luminescence,
+introduction and theory on display technology, light-emitting diodes and organic light-emitting devices,
+preparation process, characterization methods, color science and engineering, thin-film transistors, pixel
+circuits and driving schemes for passive and active Matrix displays.
+09106404
+
+SOLAR CELL AND NANOSTRUCTURE PHOTOVOLTAIC
+3 (2-2-5)
+PREREQUISITE: NONE
+The photovoltaic energy conversion consists of absorption of photon energy producing
+electron-hole pairs in semiconductor and charge carrier separation. It is important to learn the basic
+properties of semiconductor and principle of conventional p-n junction solar cell. The new type of solar
+cell will give you hint to improve solar cells regarding efficiency and manufacturing cost with the concepts
+of solar cell using nanocrystalline materials, types of photovoltaic, characterization and fabrication of
+organic and inorganic the solar cells based on nanostructure materials.
+09106405
+
+LAB-ON-CHIP TECHNOLOGY
+3 (2-2-5)
+PREREQUISITE: NONE
+Introduction and theory on LOC, micro devices in LOC system, characterization methods,
+LOC system for biosensor, LOC Design and Fabrications such as tube, pump, valve, mixing chamber, sensor,
+heater and thin film electrode, Applications of LOC.
+
+123
+09106406
+
+MICROELECTROMECHANICAL SYSTEM (MEMS)
+3 (3-0-6)
+PREREQUISITE: NONE
+Overview of MEMS, scaling of micromechanical devices, behavior and modeling of
+micromechanical devices, mechanical properties of MEMS materials, review of microfabrication, bulk and
+surface micromachining, applications of MEMS: pressure sensors, accelerometer, micro- motors, micropumps and micro-valves; thermal sensors and actuators; micromirror.
+09106407
+
+CHEMISTRY
+3 (3-0-6)
+PREREQUISITE: NONE
+This course covers structure of atoms, periodic table, chemical bonding, molecular
+structure and bonding theories, gases and kinetic molecular theory; chemical thermodynamics, chemical
+kinetics, chemical equilibrium, and introduction to electrochemistry.
+B.2.5 ALTERNATIVE STUDY
+01006301
+
+COOPERATIVE EDUCATION
+6 (0-45-0)
+PREREQUISITE: NONE
+This course demands the student to work in an innovative company or a
+government/private organization, which is approved by the program committee for working on an innovative
+project for at least 16 weeks. The work of the student is under supervision of a faculty member, who is
+regarded as the student’ s supervisor. The student must report progress to the supervisor regularly. Upon
+completion, the student must prepare and deliver oral presentations describing the work from the program.
+01006302
+
+STUDY ABROAD
+6 (6-0-12)
+PREREQUISITE: NONE
+This course is reserved for students who participate in the study abroad program. Upon
+the completion of the program, the students must prepare and deliver oral presentations describing their
+experience from the program.
+3. INTERNSHIP
+01006805
+
+INDUSTRIAL INTERNSHIP
+0 (0-45-0)
+PREREQUISITE: NONE
+During their four-year selected studies, students are required to complete a short-term
+industrial placement within professional selected environments. It takes place during a summer period. This
+course allows students to put into practice under conditions reflecting their future activities and
+responsibilities. The work, carried out under the responsibility of the firm involved, is presented in a written
+report.
+
+124
+
+APPENDIX D
+Curriculum Mapping for General Education Course
+
+125
+แผนที่แสดงการกระจายความรับผิดชอบมาตรฐานผลการเรียนรู้จากหลักสูตรสู่รายวิชา (Curriculum Mapping)
+ ความรับผิดชอบหลัก
+ ความรับผิดชอบรอง
+
+รายวิชา
+
+General Education
+01416000 Academic Listening and Speaking
+01416001 Academic Reading and Writing
+01416003 Interpretation and Arguments
+01006502 Professional Ethics
+01006503 Introduction to Psychology
+01006504 Philosophy of Science
+01006505 Creative Thinking
+01006506 Critical Thinking
+01006507 Personal Economics
+01006508 Digital Economy
+01006509 Engineering and Public Policy
+01006510 Introduction to Economics
+01006511 Thai Society and Culture
+01006512 Asian Study
+01006514 Innovative Communication
+
+1. คุณธรรม
+จริยธรรม
+
+2. ความรู้
+
+1
+
+3
+
+4. ทักษะ
+5. ทักษะการ
+ความสัมพันธ์
+วิเคราะห์เชิง
+ระหว่างบุคคลและ ตัวเลข การสื่อสาร
+และเทคโนโลยี
+ความรับผิดชอบ
+สารสนเทศ
+
+3. ทักษะทางปัญญา
+
+6
+
+8
+
+8
+
+
+
+
+
+
+
+
+
+
+
+
+
+2
+
+5
+
+9
+
+10
+
+11
+
+4
+
+6
+
+7
+
+8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+126
+
+รายวิชา
+
+1. คุณธรรม
+จริยธรรม
+
+6
+01006515 Design Methods for Innovations
+01006516 Innovation Management
+01006517 Lean Startup and Agile Business
+01006518 Emerging Trends in Engineering
+01006519 Introduction to Environmental
+Principles
+01006520 Leadership and Personal
+Development
+01006521 Meditation for Life Development
+01006522 English for Science and
+Technology
+GENED (MATH AND SCIENCE)
+01006701 Mathematics of Data Science
+01006721 Numerical Methods
+01006729 Introduction to Operations
+Research
+01006727 General Chemistry
+01006728 General Chemistry Laboratory
+01006719 Probability and Statistics 1
+
+2. ความรู้
+
+3. ทักษะทางปัญญา
+
+8
+
+1
+
+3
+
+8
+
+2
+
+
+
+
+
+
+
+
+
+
+
+
+
+5
+
+9
+
+10
+
+11
+
+4
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4. ทักษะ
+5. ทักษะการ
+ความสัมพันธ์
+วิเคราะห์เชิง
+ระหว่างบุคคลและ ตัวเลข การสื่อสาร
+และเทคโนโลยี
+ความรับผิดชอบ
+สารสนเทศ
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+6
+
+7
+
+8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+127
+
+รายวิชา
+
+1. คุณธรรม
+จริยธรรม
+
+6
+01006720 Probability and Statistics 2
+01006713 Mathematical Cryptography
+01006714 Mathematics for 3D Game and
+Computer Graphics
+
+
+
+2. ความรู้
+
+8
+
+1
+
+3
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4. ทักษะ
+5. ทักษะการ
+ความสัมพันธ์
+วิเคราะห์เชิง
+ระหว่างบุคคลและ ตัวเลข การสื่อสาร
+และเทคโนโลยี
+ความรับผิดชอบ
+สารสนเทศ
+
+3. ทักษะทางปัญญา
+
+8
+
+2
+
+
+
+
+
+5
+
+9
+
+10
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+11
+
+4
+
+6
+
+7
+
+8
+
+
+
+
+
+
+
+
