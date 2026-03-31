@@ -13,7 +13,9 @@ from langchain_openai import ChatOpenAI
 from langchain_community.embeddings import HuggingFaceEmbeddings 
 from langchain_core.documents import Document
 from config import GENERATOR_MODEL, CRITIC_MODEL, EMBEDDING_MODEL
+import transformers
 
+transformers.logging.set_verbosity_error()
 
 class TestGen:
     def __init__(self):
