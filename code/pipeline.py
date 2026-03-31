@@ -7,10 +7,10 @@ class Pipeline:
         self.name = DATA_NAME
 
     
-    def run(self):
+    def ask(self, query):
         print("Starting RAG pipeline...")
         #User Input
-        query = input("Ask your question here: ")
+        # query = input("Ask your question here: ")
         
         #RAG 1st Component: Retrieval
         chroma = ChromaRetrieve()
