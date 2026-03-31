@@ -1,6 +1,4 @@
-from datasets import Dataset
-
-data = {
+rai_curriculum_qa = {
     "question": [
         "What is the English name of the program?",
         "What is the abbreviation for the degree in English?",
@@ -160,7 +158,4 @@ data = {
     ]
 }
 
-dataset = Dataset.from_dict(data)
 
-#save dataset to file
-dataset.save_to_disk("./temp_dataset")
