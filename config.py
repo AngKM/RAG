@@ -2,7 +2,7 @@ RAW_DATA_FOLDER_PATH = "./files/"
 DATA_NAME = "rai_curriculum"
 
 # Embedding Model
-EMBEDDING_MODEL = "all-MiniLM-L6-v2"
+EMBEDDING_MODEL = "BAAI/bge-m3"
 
 # [OpenAI, Anthropic]
 MODEL_COMPANY = "OpenAI"
