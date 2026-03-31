@@ -1,9 +1,10 @@
 chromadb
 openai
-python-dotenv
+ragas
+sentence_transformers
 langchain
-langchain_open
 langchain_community
 langchain_text_splitters
 pypdf
 asyncio
+python-dotenv
