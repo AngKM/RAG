@@ -2,6 +2,9 @@ from langchain_text_splitters import RecursiveCharacterTextSplitter
 import chromadb
 from chromadb.utils import embedding_functions
 from config import DATA_NAME, EMBEDDING_MODEL
+import transformers
+
+transformers.logging.set_verbosity_error()
 
 #This class is for inputting data into the vector database
 class ChromaInsert:
