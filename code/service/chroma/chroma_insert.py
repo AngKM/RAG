@@ -3,6 +3,8 @@ import chromadb
 from chromadb.utils import embedding_functions
 from config import DATA_NAME, EMBEDDING_MODEL
 import transformers
+import re
+
 
 transformers.logging.set_verbosity_error()
 
@@ -17,6 +19,11 @@ class ChromaInsert:
     def add_data(self, raw_data_path):
         with open(raw_data_path, "r", encoding="utf-8") as f:
             content = f.read()
+        #Clean Data
+        content = re.sub(r'[^a-zA-Z0-9\s]', '', content)
+        content = re.sub(r'\s+', ' ', content)
+        content = content.strip()
+        
         count_before = self.collection.count()
         print("Count Before: ", count_before)
         #Split the data into chunks
