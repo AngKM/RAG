@@ -6,8 +6,8 @@ DATA_NAME = "rai_curriculum"
 EMBEDDING_MODEL = "sentence-transformers/all-MiniLM-L6-v2"
 
 # [OpenAI, Anthropic]
-MODEL_COMPANY = "OpenAI"
-MODEL_NAME = "gpt-4o"
+MODEL_COMPANY = "Local"
+MODEL_NAME = "llama3.1:8b"
 
 # RAGAS Evaluation
 CRITIC_MODEL = "gpt-4o"

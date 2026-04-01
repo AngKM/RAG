@@ -20,10 +20,11 @@ class Answer:
         
         # Define a mapping function to process each row
         def get_answer(example):
-            example["answer"] = pipeline.ask(example["question"])
+            answer, contexts = pipeline.ask_with_context(example["question"])
+            example["answer"] = answer
+            example["contexts"] = contexts
             print(example["answer"])
             return example
-            
         # Apply the mapping function to the dataset
         self.QA_output = self.QA_data.map(get_answer)
         

@@ -1,0 +1,310 @@
+{
+    "question": [
+        "What is the English name of the program?",
+        "What is the abbreviation for the degree in English?",
+        "How many credits are required for graduation?",
+        "What is the medium of instruction?",
+        "Which institute gives the degree to graduates?",
+        "When did the program start its first semester?",
+        "Is the program an academic or advanced academic bachelor's degree?",
+        "What is a possible career path regarding AI?",
+        "What is a possible career path regarding mechanical systems?",
+        "What is a possible career path regarding management?",
+        "Who is an instructor responsible for the program with a focus on Electrical Engineering?",
+        "Where is the location of study?",
+        "What national plan does the program align with?",
+        "What is the mission of the Institute mentioned in the document?",
+        "What are the 21st-century skills the curriculum aims to cultivate?",
+        "What is the 'next S-curve' industry mentioned in the importance of the program?",
+        "What does 'PEO' stand for in the context of the program?",
+        "What is Program Educational Objective (a)?",
+        "What is Program Educational Objective (e)?",
+        "How many weeks are in a standard academic semester?",
+        "When is the summer course typically held?",
+        "What is the minimum high-school requirement for applicants?",
+        "What English proficiency tests are accepted for non-native speakers?",
+        "What is a common issue for new students mentioned in the doc?",
+        "How many 1st year students were planned for the 2020 academic year?",
+        "What is the estimated expenditure per person for producing a scholar per year?",
+        "Can credits be transferred from other institutions?",
+        "What is the GPA requirement for guaranteed admission to the integrated Master program?",
+        "What is the focus of the first-year projects?",
+        "What do students learn in the third year regarding trending areas?",
+        "What is the credit weight for General Education?",
+        "How many credits are assigned to the RAI Engineering Capstone Design?",
+        "What does the first and second digit of the subject code '01' mean?",
+        "What does the third and fourth digit '41' mean in the subject code?",
+        "What is the course code for 'Professional Ethics'?",
+        "How many credits is the 'Academic Listening and Speaking' course?",
+        "What is the prerequisite for 'Advanced Calculus'?",
+        "What topics are covered in 'General Physics 1'?",
+        "What is the credit structure (L-E-S) for 'Computer Programming for RAI'?",
+        "Which course covers 'Kinematics and Dynamics'?",
+        "What is the minimum duration for the internship requirement?",
+        "What alternative study option allows a 16-week internship?",
+        "What is the objective of the 'RAI Engineering Capstone Design Preparation'?",
+        "Which course introduces 'Artificial Intelligence Technology'?",
+        "What is the focus of 'Robotics Laboratory 2'?",
+        "What does 'L' stand for in the credit notation (L-E-S)?",
+        "What does 'E' stand for in the credit notation (L-E-S)?",
+        "What does 'S' stand for in the credit notation (L-E-S)?",
+        "What is the required student attendance percentage for evaluation?",
+        "How often is the curriculum updated?"
+    ],
+    "answer": [
+        "Bachelor of Engineering Program in Robotics and AI Engineering (International Program).",
+        "B.Eng. (Robotics and AI Engineering)",
+        "At least 131 credits are required for graduation.",
+        "The medium of instruction is English.",
+        "The degree is given to graduates by King Mongkut’s Institute of Technology Ladkrabang.",
+        "The program started its first semester in the academic year 2018, specifically in August 2018.",
+        "The program is an academic bachelor's degree program.",
+        "Possible career paths regarding AI include:\n\n- Roboticist or Robotic Engineer\n- Startup Entrepreneur in High Tech\n- Software Engineer for Mechatronics and Machines\n- System Engineer\n- Machine Vision Engineer\n- Robotic Security Analyst\n- Expert Systems Analyst\n- Machine Designer\n- Software Architect for AI\n- Technology Manager for Robotics and AI\n- Solution Engineer",
+        "Software Engineer for Mechatronics and Machines.",
+        "A possible career path regarding management is \"Technology Manager for Robotics and AI.\"",
+        "Dr. Poom Konghuayrob is an instructor responsible for the program with a focus on Electrical Engineering.",
+        "King Mongkut’s Institute of Technology Ladkrabang.",
+        "National Economic and Social Development Plan (2017-2021).",
+        "The mission of the Institute mentioned in the document is to be the \"Master of Innovation and the Corner Stone of Fundamental,\" in the aspects of education, research, academic service, and preservation of art and culture.",
+        "The curriculum aims to cultivate critical-thinking, communication, and collaboration skills.",
+        "The 'next S-curve' industry mentioned in the importance of the program includes the digital industry fields such as IoT, Cloud, Embedded device, Robotics, and AI.",
+        "Program Educational Objectives.",
+        "Program Educational Objective (a) is \"Engineering Quality: Our graduates will apply engineering practice, combined with the innovative process, to identify and solve significant problems across a broad range of applications.\"",
+        "Program Educational Objective (e) is \"Lifelong Learning: Our graduates will continuously learn new technologies to respond to a changing environment.\"",
+        "A standard academic semester covers not less than 15 weeks (excluding the examination weeks).",
+        "The summer course is typically held from June to July.",
+        "Applicants must complete high-school education or equivalent study record. They must also provide the latest official transcript for their highest level of education and proof of completion (an official diploma or a certificate of completion) from their high-school education or equivalent study before their enrollment.",
+        "The accepted English proficiency tests for non-native speakers are the Test of English as a Foreign Language (TOEFL) and the International English Language Testing System (IELTS).",
+        "A common issue for new students mentioned in the document is diverse ethnicity as backgrounds vary from student to student regarding culture, social, and academic upbringing, all of which influences social bonding and communication effectiveness, learning, and self-development.",
+        "60 first-year students were planned for the 2020 academic year.",
+        "The estimated expenditure per person for producing a scholar per year is an average of 194,613 baht/person/year.",
+        "Credits can be transferred, upon the consent of the executive program committee, according to the information provided.",
+        "The GPA requirement for guaranteed admission to the integrated Master program is at least 3.00.",
+        "The focus of the first-year projects is to give students hands-on experience, introduction, and basic development of robotics technologies.",
+        "In the third year, students learn about the latest technologies and AI in the area. In each semester, they study new concepts and apply creativity in completing projects in trending areas.",
+        "The credit weight for General Education is 30 credits.",
+        "The RAI Engineering Capstone Design is assigned 3 credits.",
+        "The first and second digit of the subject code '01' means Faculty of Engineering.",
+        "The third and fourth digit '41' in the subject code means the Robotics and AI program.",
+        "The course code for 'Professional Ethics' is 01006503.",
+        "The 'Academic Listening and Speaking' course is 3 credits.",
+        "The prerequisite for 'Advanced Calculus' is '01006710 Introduction to Calculus'.",
+        "The course 'General Physics 1' covers basic physics and mechanics, including a study of motion, space and time, kinematics, Newton’s law of motion, forces, energy and momentum, work, power, conservation laws, systems of particles, linear momentum, circular motion, rotation, torques, harmonic oscillation, and gravitation.",
+        "The credit structure (L-E-S) for 'Computer Programming for RAI' is 3 (2-2-5).",
+        "The course titled \"KINEMATICS AND DYNAMICS\" covers 'Kinematics and Dynamics'.",
+        "The minimum duration for the internship requirement is at least 8 weeks.",
+        "The alternative study option that allows a 16-week internship is the Co-Operative Education program.",
+        "The objective of the 'RAI Engineering Capstone Design Preparation' course is to instruct and prepare students in aspects of effective technical oral presentations through exposure to different workplace communication skills. As preparation and research for the capstone design, students must develop topics, identify a supervisor, and prepare a proposal.",
+        "The course that introduces 'Artificial Intelligence Technology' is \"ARTIFICIAL INTELLIGENCE TECHNOLOGY\" with the course code 01416305.",
+        "The focus of 'Robotics Laboratory 2' is understanding the mobile robot by performing instructive experiments that reveal fundamental robotic principles and attaining a level of dexterity with experimental devices. Additionally, the course aims to train the ability to report and summarize the experimental work.",
+        "'L' stands for Lecture / Learning hours in the credit notation (L-E-S).",
+        "'E' stands for Laboratory hours in the credit notation (L-E-S).",
+        "'S' stands for Self-study hours in the credit notation (L-E-S).",
+        "The required student attendance percentage for evaluation is at least 80% according to the Regulation of King Mongkut’s Institute of Technology Ladkrabang.",
+        "The curriculum is updated at least every 5 years."
+    ],
+    "contexts": [
+        [
+            "Bachelor of Engineering Program in Robotics and AI Engineering (International Program)."
+        ],
+        [
+            "B.Eng. (Robotics and AI Engineering)."
+        ],
+        [
+            "At least 131 credits."
+        ],
+        [
+            "English."
+        ],
+        [
+            "King Mongkut's Institute of Technology Ladkrabang."
+        ],
+        [
+            "Semester 1 of academic year 2018 (August 2018)."
+        ],
+        [
+            "Academic bachelor's degree program."
+        ],
+        [
+            "Software Architect for AI or Expert Systems Analyst."
+        ],
+        [
+            "Software Engineer for Mechatronics and Machines or Machine Designer."
+        ],
+        [
+            "Technology Manager for Robotics and AI."
+        ],
+        [
+            "Dr. Poom Konghuayrob or Dr. Kanoknuch Songsuwankit."
+        ],
+        [
+            "King Mongkut's Institute of Technology Ladkrabang."
+        ],
+        [
+            "National Economic and Social Development Plan (2017-2021)."
+        ],
+        [
+            "Master of Innovation and the Corner Stone of Fundamental."
+        ],
+        [
+            "Creativity, critical-thinking, communication, and collaboration."
+        ],
+        [
+            "Digital industry including IoT, Cloud, Robotics, and AI."
+        ],
+        [
+            "Program Educational Objectives."
+        ],
+        [
+            "Engineering Quality: apply engineering practice to solve significant problems."
+        ],
+        [
+            ""
+        ],
+        [
+            "Not less than 15 weeks (excluding examination weeks)."
+        ],
+        [
+            "June - July."
+        ],
+        [
+            "Complete high-school education or equivalent."
+        ],
+        [
+            "TOEFL or IELTS."
+        ],
+        [
+            "Adjusting to social settings and campus lifestyles with greater freedom."
+        ],
+        [
+            "60 students."
+        ],
+        [
+            "Average of 194,613 baht/person/year."
+        ],
+        [
+            "Yes, with consent of the executive program committee."
+        ],
+        [
+            "Overall GPA of at least 3.00."
+        ],
+        [
+            "Hands-on experience and basic development of robotics technologies."
+        ],
+        [
+            "Machine perception, cognition and reasoning, and IoT."
+        ],
+        [
+            "30 credits."
+        ],
+        [
+            "3 credits."
+        ],
+        [
+            "Faculty of Engineering."
+        ],
+        [
+            "Robotics and AI program."
+        ],
+        [
+            "01006502."
+        ],
+        [
+            "3 (3-0-6) credits."
+        ],
+        [
+            "01006710 Introduction to Calculus."
+        ],
+        [
+            "Motion, space/time, kinematics, Newton's laws, energy, and momentum."
+        ],
+        [
+            "3 (2-2-5)."
+        ],
+        [
+            "01416308."
+        ],
+        [
+            "At least 8 weeks."
+        ],
+        [
+            "Co-Operative Education."
+        ],
+        [
+            "Instruct and prepare students in effective technical oral presentations."
+        ],
+        [
+            "01416305."
+        ],
+        [
+            "Understanding the mobile robot through instructive experiments."
+        ],
+        [
+            "Lecture or Learning hours."
+        ],
+        [
+            "Laboratory hours."
+        ],
+        [
+            "Self-study hours."
+        ],
+        [
+            "At least 80%."
+        ],
+        [
+            "Updated at least every 5 years."
+        ]
+    ],
+    "ground_truth": [
+        "Bachelor of Engineering Program in Robotics and AI Engineering (International Program).",
+        "B.Eng. (Robotics and AI Engineering).",
+        "At least 131 credits.",
+        "English.",
+        "King Mongkut's Institute of Technology Ladkrabang.",
+        "Semester 1 of academic year 2018.",
+        "Academic bachelor's degree program.",
+        "Software Architect for AI.",
+        "Roboticist or Robotic Engineer, Startup Entrepreneur in High Tech, Software Engineer for Mechatronics and Machines, System Engineer, Machine Vision Engineer, Robotic Security Analyst, Expert Systems Analyst, Machine Designer, Software Architect for AI, Technology Manager for Robotics and AI, Solution Engineer",
+        "Technology Manager for Robotics and AI.",
+        "Dr. Poom Konghuayrob.",
+        "King Mongkut's Institute of Technology Ladkrabang.",
+        "National Economic and Social Development Plan (2017-2021).",
+        "Master of Innovation and the Corner Stone of Fundamental.",
+        "Creativity, critical-thinking, communication, and collaboration.",
+        "Digital industry (IoT, Cloud, Robotics, AI).",
+        "Program Educational Objectives.",
+        "Apply engineering practice to solve significant problems.",
+        "Learn new technologies to respond to a changing environment.",
+        "Not less than 15 weeks.",
+        "June - July.",
+        "Complete high-school education or equivalent.",
+        "TOEFL or IELTS.",
+        "Adjusting to social settings and campus lifestyles.",
+        "60 students.",
+        "194,613 baht/person/year.",
+        "Yes, with consent of the committee.",
+        "At least 3.00.",
+        "Hands-on experience and basic robotics development.",
+        "Machine perception, cognition, reasoning, and IoT.",
+        "30 credits.",
+        "3 credits.",
+        "Faculty of Engineering.",
+        "Robotics and AI program.",
+        "01006502.",
+        "3 (3-0-6) credits.",
+        "01006710 Introduction to Calculus.",
+        "Motion, kinematics, Newton's laws, energy, and momentum.",
+        "3 (2-2-5).",
+        "01416308.",
+        "At least 8 weeks.",
+        "Co-Operative Education.",
+        "Prepare students in effective technical oral presentations.",
+        "01416305.",
+        "Understanding mobile robots through experiments.",
+        "Lecture or Learning hours.",
+        "Laboratory hours.",
+        "Self-study hours.",
+        "At least 80%.",
+        "Updated at least every 5 years."
+    ]
+}
