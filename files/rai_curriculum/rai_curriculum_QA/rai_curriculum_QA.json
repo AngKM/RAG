@@ -19,7 +19,7 @@
     "question": "How many credits are required for graduation?",
     "answer": "",
     "contexts": [
-      "At least 131 credits."
+      "In order to graduate, the students must complete at least 131 credits."
     ],
     "ground_truth": "At least 131 credits."
   },
