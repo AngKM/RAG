@@ -2,301 +2,401 @@
   {
     "question": "What is the English name of the program?",
     "answer": "",
-    "contexts": [],
+    "contexts": [
+      "Bachelor of Engineering Program in Robotics and AI Engineering (International Program)."
+    ],
     "ground_truth": "Bachelor of Engineering Program in Robotics and AI Engineering (International Program)."
   },
   {
     "question": "What is the abbreviation for the degree in English?",
     "answer": "",
-    "contexts": [],
+    "contexts": [
+      "B.Eng. (Robotics and AI Engineering)."
+    ],
     "ground_truth": "B.Eng. (Robotics and AI Engineering)."
   },
   {
     "question": "How many credits are required for graduation?",
     "answer": "",
-    "contexts": [],
+    "contexts": [
+      "In order to graduate, the students must complete at least 131 credits."
+    ],
     "ground_truth": "At least 131 credits."
   },
   {
     "question": "What is the medium of instruction?",
     "answer": "",
-    "contexts": [],
+    "contexts": [
+      "English."
+    ],
     "ground_truth": "English."
   },
   {
     "question": "Which institute gives the degree to graduates?",
     "answer": "",
-    "contexts": [],
+    "contexts": [
+      "King Mongkut's Institute of Technology Ladkrabang."
+    ],
     "ground_truth": "King Mongkut's Institute of Technology Ladkrabang."
   },
   {
     "question": "When did the program start its first semester?",
     "answer": "",
-    "contexts": [],
+    "contexts": [
+      "Semester 1 of academic year 2018 (August 2018)."
+    ],
     "ground_truth": "Semester 1 of academic year 2018."
   },
   {
     "question": "Is the program an academic or advanced academic bachelor's degree?",
     "answer": "",
-    "contexts": [],
+    "contexts": [
+      "Academic bachelor's degree program."
+    ],
     "ground_truth": "Academic bachelor's degree program."
   },
   {
     "question": "What is a possible career path regarding AI?",
     "answer": "",
-    "contexts": [],
+    "contexts": [
+      "Software Architect for AI or Expert Systems Analyst."
+    ],
     "ground_truth": "Software Architect for AI."
   },
   {
     "question": "What is a possible career path regarding mechanical systems?",
     "answer": "",
-    "contexts": [],
+    "contexts": [
+      "Software Engineer for Mechatronics and Machines or Machine Designer."
+    ],
     "ground_truth": "Software Engineer for Mechatronics and Machines."
   },
   {
     "question": "What is a possible career path regarding management?",
     "answer": "",
-    "contexts": [],
+    "contexts": [
+      "Technology Manager for Robotics and AI."
+    ],
     "ground_truth": "Technology Manager for Robotics and AI."
   },
   {
     "question": "Who is an instructor responsible for the program with a focus on Electrical Engineering?",
     "answer": "",
-    "contexts": [],
+    "contexts": [
+      "Dr. Poom Konghuayrob or Dr. Kanoknuch Songsuwankit."
+    ],
     "ground_truth": "Dr. Poom Konghuayrob."
   },
   {
     "question": "Where is the location of study?",
     "answer": "",
-    "contexts": [],
+    "contexts": [
+      "King Mongkut's Institute of Technology Ladkrabang."
+    ],
     "ground_truth": "King Mongkut's Institute of Technology Ladkrabang."
   },
   {
     "question": "What national plan does the program align with?",
     "answer": "",
-    "contexts": [],
+    "contexts": [
+      "National Economic and Social Development Plan (2017-2021)."
+    ],
     "ground_truth": "National Economic and Social Development Plan (2017-2021)."
   },
   {
     "question": "What is the mission of the Institute mentioned in the document?",
     "answer": "",
-    "contexts": [],
+    "contexts": [
+      "Master of Innovation and the Corner Stone of Fundamental."
+    ],
     "ground_truth": "Master of Innovation and the Corner Stone of Fundamental."
   },
   {
     "question": "What are the 21st-century skills the curriculum aims to cultivate?",
     "answer": "",
-    "contexts": [],
+    "contexts": [
+      "Creativity, critical-thinking, communication, and collaboration."
+    ],
     "ground_truth": "Creativity, critical-thinking, communication, and collaboration."
   },
   {
     "question": "What is the 'next S-curve' industry mentioned in the importance of the program?",
     "answer": "",
-    "contexts": [],
+    "contexts": [
+      "Digital industry including IoT, Cloud, Robotics, and AI."
+    ],
     "ground_truth": "Digital industry (IoT, Cloud, Robotics, AI)."
   },
   {
     "question": "What does 'PEO' stand for in the context of the program?",
     "answer": "",
-    "contexts": [],
+    "contexts": [
+      "Program Educational Objectives."
+    ],
     "ground_truth": "Program Educational Objectives."
   },
   {
     "question": "What is Program Educational Objective (a)?",
     "answer": "",
-    "contexts": [],
+    "contexts": [
+      "Engineering Quality: apply engineering practice to solve significant problems."
+    ],
     "ground_truth": "Apply engineering practice to solve significant problems."
   },
   {
     "question": "What is Program Educational Objective (e)?",
     "answer": "",
-    "contexts": [],
+    "contexts": [
+      "Lifelong Learning: learn new technologies to respond to a changing environment."
+    ],
     "ground_truth": "Learn new technologies to respond to a changing environment."
   },
   {
     "question": "How many weeks are in a standard academic semester?",
     "answer": "",
-    "contexts": [],
+    "contexts": [
+      "Not less than 15 weeks (excluding examination weeks)."
+    ],
     "ground_truth": "Not less than 15 weeks."
   },
   {
     "question": "When is the summer course typically held?",
     "answer": "",
-    "contexts": [],
+    "contexts": [
+      "June - July."
+    ],
     "ground_truth": "June - July."
   },
   {
     "question": "What is the minimum high-school requirement for applicants?",
     "answer": "",
-    "contexts": [],
+    "contexts": [
+      "Complete high-school education or equivalent."
+    ],
     "ground_truth": "Complete high-school education or equivalent."
   },
   {
     "question": "What English proficiency tests are accepted for non-native speakers?",
     "answer": "",
-    "contexts": [],
+    "contexts": [
+      "TOEFL or IELTS."
+    ],
     "ground_truth": "TOEFL or IELTS."
   },
   {
     "question": "What is a common issue for new students mentioned in the doc?",
     "answer": "",
-    "contexts": [],
+    "contexts": [
+      "Adjusting to social settings and campus lifestyles with greater freedom."
+    ],
     "ground_truth": "Adjusting to social settings and campus lifestyles."
   },
   {
     "question": "How many 1st year students were planned for the 2020 academic year?",
     "answer": "",
-    "contexts": [],
+    "contexts": [
+      "60 students."
+    ],
     "ground_truth": "60 students."
   },
   {
     "question": "What is the estimated expenditure per person for producing a scholar per year?",
     "answer": "",
-    "contexts": [],
+    "contexts": [
+      "Average of 194,613 baht/person/year."
+    ],
     "ground_truth": "194,613 baht/person/year."
   },
   {
     "question": "Can credits be transferred from other institutions?",
     "answer": "",
-    "contexts": [],
+    "contexts": [
+      "Yes, with consent of the executive program committee."
+    ],
     "ground_truth": "Yes, with consent of the committee."
   },
   {
     "question": "What is the GPA requirement for guaranteed admission to the integrated Master program?",
     "answer": "",
-    "contexts": [],
+    "contexts": [
+      "Overall GPA of at least 3.00."
+    ],
     "ground_truth": "At least 3.00."
   },
   {
     "question": "What is the focus of the first-year projects?",
     "answer": "",
-    "contexts": [],
+    "contexts": [
+      "Hands-on experience and basic development of robotics technologies."
+    ],
     "ground_truth": "Hands-on experience and basic robotics development."
   },
   {
     "question": "What do students learn in the third year regarding trending areas?",
     "answer": "",
-    "contexts": [],
+    "contexts": [
+      "Machine perception, cognition and reasoning, and IoT."
+    ],
     "ground_truth": "Machine perception, cognition, reasoning, and IoT."
   },
   {
     "question": "What is the credit weight for General Education?",
     "answer": "",
-    "contexts": [],
+    "contexts": [
+      "30 credits."
+    ],
     "ground_truth": "30 credits."
   },
   {
     "question": "How many credits are assigned to the RAI Engineering Capstone Design?",
     "answer": "",
-    "contexts": [],
+    "contexts": [
+      "3 credits."
+    ],
     "ground_truth": "3 credits."
   },
   {
     "question": "What does the first and second digit of the subject code '01' mean?",
     "answer": "",
-    "contexts": [],
+    "contexts": [
+      "Faculty of Engineering."
+    ],
     "ground_truth": "Faculty of Engineering."
   },
   {
     "question": "What does the third and fourth digit '41' mean in the subject code?",
     "answer": "",
-    "contexts": [],
+    "contexts": [
+      "Robotics and AI program."
+    ],
     "ground_truth": "Robotics and AI program."
   },
   {
     "question": "What is the course code for 'Professional Ethics'?",
     "answer": "",
-    "contexts": [],
+    "contexts": [
+      "01006502."
+    ],
     "ground_truth": "01006502."
   },
   {
     "question": "How many credits is the 'Academic Listening and Speaking' course?",
     "answer": "",
-    "contexts": [],
+    "contexts": [
+      "3 (3-0-6) credits."
+    ],
     "ground_truth": "3 (3-0-6) credits."
   },
   {
     "question": "What is the prerequisite for 'Advanced Calculus'?",
     "answer": "",
-    "contexts": [],
+    "contexts": [
+      "01006710 Introduction to Calculus."
+    ],
     "ground_truth": "01006710 Introduction to Calculus."
   },
   {
     "question": "What topics are covered in 'General Physics 1'?",
     "answer": "",
-    "contexts": [],
+    "contexts": [
+      "Motion, space/time, kinematics, Newton's laws, energy, and momentum."
+    ],
     "ground_truth": "Motion, kinematics, Newton's laws, energy, and momentum."
   },
   {
     "question": "What is the credit structure (L-E-S) for 'Computer Programming for RAI'?",
     "answer": "",
-    "contexts": [],
+    "contexts": [
+      "3 (2-2-5)."
+    ],
     "ground_truth": "3 (2-2-5)."
   },
   {
     "question": "Which course covers 'Kinematics and Dynamics'?",
     "answer": "",
-    "contexts": [],
+    "contexts": [
+      "01416308."
+    ],
     "ground_truth": "01416308."
   },
   {
     "question": "What is the minimum duration for the internship requirement?",
     "answer": "",
-    "contexts": [],
+    "contexts": [
+      "At least 8 weeks."
+    ],
     "ground_truth": "At least 8 weeks."
   },
   {
     "question": "What alternative study option allows a 16-week internship?",
     "answer": "",
-    "contexts": [],
+    "contexts": [
+      "Co-Operative Education."
+    ],
     "ground_truth": "Co-Operative Education."
   },
   {
     "question": "What is the objective of the 'RAI Engineering Capstone Design Preparation'?",
     "answer": "",
-    "contexts": [],
+    "contexts": [
+      "Instruct and prepare students in effective technical oral presentations."
+    ],
     "ground_truth": "Prepare students in effective technical oral presentations."
   },
   {
     "question": "Which course introduces 'Artificial Intelligence Technology'?",
     "answer": "",
-    "contexts": [],
+    "contexts": [
+      "01416305."
+    ],
     "ground_truth": "01416305."
   },
   {
     "question": "What is the focus of 'Robotics Laboratory 2'?",
     "answer": "",
-    "contexts": [],
+    "contexts": [
+      "Understanding the mobile robot through instructive experiments."
+    ],
     "ground_truth": "Understanding mobile robots through experiments."
   },
   {
     "question": "What does 'L' stand for in the credit notation (L-E-S)?",
     "answer": "",
-    "contexts": [],
+    "contexts": [
+      "Lecture or Learning hours."
+    ],
     "ground_truth": "Lecture or Learning hours."
   },
   {
     "question": "What does 'E' stand for in the credit notation (L-E-S)?",
     "answer": "",
-    "contexts": [],
+    "contexts": [
+      "Laboratory hours."
+    ],
     "ground_truth": "Laboratory hours."
   },
   {
     "question": "What does 'S' stand for in the credit notation (L-E-S)?",
     "answer": "",
-    "contexts": [],
+    "contexts": [
+      "Self-study hours."
+    ],
     "ground_truth": "Self-study hours."
   },
   {
     "question": "What is the required student attendance percentage for evaluation?",
     "answer": "",
-    "contexts": [],
+    "contexts": [
+      "At least 80%."
+    ],
     "ground_truth": "At least 80%."
   },
   {
     "question": "How often is the curriculum updated?",
     "answer": "",
-    "contexts": [],
+    "contexts": [
+      "Updated at least every 5 years."
+    ],
     "ground_truth": "Updated at least every 5 years."
   }
 ]
