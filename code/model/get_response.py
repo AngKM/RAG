@@ -7,6 +7,9 @@ if MODEL_COMPANY == "OpenAI":
 elif MODEL_COMPANY == "Anthropic":
     from code.model.Anthropic.get_Anthropic_response import Anthropic_Agent
     agent = Anthropic_Agent(model=MODEL_NAME)
+elif MODEL_COMPANY == "Local":
+    from code.model.Local.get_Local_response import Local_Agent
+    agent = Local_Agent(model=MODEL_NAME)
 else:
     raise ValueError("Invalid model name")
 
