@@ -15,4 +15,7 @@ chroma_db
 *.sqlite3
 *.pickle
 
+#entire .agent folder
+.agents/*
+
 

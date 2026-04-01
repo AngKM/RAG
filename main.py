@@ -6,7 +6,7 @@ def main():
     print("Press Ctrl+C to stop.")
     try:
         pipeline = Pipeline()
-        pipeline.run()
+        pipeline.ask(input("Ask your question here: "))
     except KeyboardInterrupt:
         print("\nShutting down gracefully...")
         sys.exit(0)

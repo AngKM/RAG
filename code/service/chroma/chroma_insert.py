@@ -1,13 +1,19 @@
 from langchain_text_splitters import RecursiveCharacterTextSplitter
 import chromadb
-from config import DATA_NAME
+from chromadb.utils import embedding_functions
+from config import DATA_NAME, EMBEDDING_MODEL
+import transformers
+
+transformers.logging.set_verbosity_error()
+
 #This class is for inputting data into the vector database
 class ChromaInsert:
     def __init__(self):
         self.data_name = DATA_NAME
         self.client = chromadb.PersistentClient(path="./files/"+self.data_name) 
-        self.collection = self.client.get_or_create_collection(name=self.data_name)
-    
+        self.embedding = embedding_functions.SentenceTransformerEmbeddingFunction(model_name=EMBEDDING_MODEL)
+        self.collection = self.client.get_or_create_collection(name=self.data_name, embedding_function=self.embedding)
+
     def add_data(self, raw_data_path):
         with open(raw_data_path, "r", encoding="utf-8") as f:
             content = f.read()
@@ -27,9 +33,10 @@ class ChromaInsert:
         for i, chunk in enumerate(chunks):
             # print("Chunk Apeending: ", chunk)
             documents.append(chunk)
-            metadata.append({"source": "startup_guide"})
+            metadata.append({"source": self.data_name})
             ids.append(str(i))
         
+        #Automatic embedding (default: all-MiniLM-L6-v2)
         self.collection.upsert(
             documents=documents,
             metadatas=metadata,

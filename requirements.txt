@@ -1,9 +1,14 @@
 chromadb
 openai
-python-dotenv
+ragas
+sentence_transformers
 langchain
-langchain_open
+langchain_ollama
+langchain-huggingface
 langchain_community
 langchain_text_splitters
+rapidfuzz
 pypdf
 asyncio
+python-dotenv
+
