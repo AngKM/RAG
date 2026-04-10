@@ -1,0 +1,14 @@
+[
+  {
+    "question": "What is the English name of the program?",
+    "answer": "",
+    "contexts": [],
+    "ground_truth": "Bachelor of Engineering Program in Robotics and AI Engineering (International Program)."
+  },
+  {
+    "question": "What is the abbreviation for the degree in English?",
+    "answer": "",
+    "contexts": [],
+    "ground_truth": "B.Eng. (Robotics and AI Engineering)."
+  }
+]

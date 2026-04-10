@@ -1,4 +1,4 @@
-from code.evaluate.evaluate_rag import RAGEvaluator
+from code.evaluate.RAG.QGAC.evaluate_rag import RAGEvaluator
 from config import DATA_NAME
 
 if __name__ == "__main__":

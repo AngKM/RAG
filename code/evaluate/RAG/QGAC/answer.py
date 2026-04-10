@@ -1,4 +1,4 @@
-from config import DATA_NAME
+from config import DATA_NAME, CRITIC_MODEL, EMBEDDING_MODEL, MODEL_NAME
 import json
 import os
 from datasets import Dataset
@@ -8,9 +8,10 @@ from code.pipeline import Pipeline
 class Answer:
     def __init__(self, QA_data):
         self.name = DATA_NAME
+        self.QGAC_name = f"QGAC__{DATA_NAME}__{EMBEDDING_MODEL}__{MODEL_NAME}.json"
+        self.output_path = f"./code/evaluate/RAG/RAG_evaluation_file/{CRITIC_MODEL}/{DATA_NAME}/{EMBEDDING_MODEL}/{MODEL_NAME}/{self.QGAC_name}"
         self.QA_data = QA_data
-        self.output_path = f"./code/evaluate/output/{self.name}_output/{self.name}_output.json"
-        
+
         print(f"\n\n\nAnswering {self.name} dataset")
         print(f"Total QA Data: {len(self.QA_data)}")
 

@@ -3,13 +3,13 @@ DATA_NAME = "rai_curriculum"
 
 # Embedding Model
 # EMBEDDING_MODEL = "BAAI/bge-m3"
-EMBEDDING_MODEL = "sentence-transformers/all-MiniLM-L6-v2"
+EMBEDDING_MODEL = "all-MiniLM-L6-v2"
 
 # [OpenAI, Anthropic]
 MODEL_COMPANY = "OpenAI"
 MODEL_NAME = "gpt-4o"
 
 # RAGAS Evaluation
-# CRITIC_MODEL = "gpt-4o"
+CRITIC_MODEL = "gpt-4o"
 # GENERATOR_MODEL = "gpt-4o"
 
